@@ -1,0 +1,3832 @@
+dataset_uuid,topic_name
+fa209577-adb8-4db9-9269-dbf15e670ea2,Energy
+fa209577-adb8-4db9-9269-dbf15e670ea2,Agriculture
+fa209577-adb8-4db9-9269-dbf15e670ea2,Elections
+01227479-b45e-4d0a-878d-bf65d527aba2,Business
+01227479-b45e-4d0a-878d-bf65d527aba2,Energy
+ffdae75f-73ae-4b0e-bdbf-fff6218748d9,Geospatial
+ffdae75f-73ae-4b0e-bdbf-fff6218748d9,Labor
+ffdae75f-73ae-4b0e-bdbf-fff6218748d9,Science & Research
+8c38da32-d0ca-43f4-b620-d7a66ff0b26d,Public Safety
+8c38da32-d0ca-43f4-b620-d7a66ff0b26d,Elections
+52d16442-8526-4928-94c4-bfe9238ecbdd,Climate
+52d16442-8526-4928-94c4-bfe9238ecbdd,Elections
+50488051-16ec-406a-9a3e-e850e168723a,Labor
+50488051-16ec-406a-9a3e-e850e168723a,Agriculture
+50488051-16ec-406a-9a3e-e850e168723a,Energy
+18573888-303a-41ea-a0da-8e48ec3cc92d,Health
+841d151f-306d-4e5e-a504-b56b5450909f,Energy
+841d151f-306d-4e5e-a504-b56b5450909f,Business
+841d151f-306d-4e5e-a504-b56b5450909f,Housing
+62b712f3-2fab-4bc7-8738-ea0d82bf589d,Water
+d80b3115-3e59-4bbc-86a9-46bc1eea5d24,Labor
+d80b3115-3e59-4bbc-86a9-46bc1eea5d24,Business
+d80b3115-3e59-4bbc-86a9-46bc1eea5d24,Water
+12b5fa47-9e28-45c4-b7e9-14d0db93b240,Energy
+12b5fa47-9e28-45c4-b7e9-14d0db93b240,Climate
+4d0ccc8d-cb0a-4260-9cf8-e5e80ed5db44,Housing
+4d0ccc8d-cb0a-4260-9cf8-e5e80ed5db44,Elections
+4d0ccc8d-cb0a-4260-9cf8-e5e80ed5db44,Climate
+150c9202-d04e-43c1-bc53-6780d162ef4d,Health
+150c9202-d04e-43c1-bc53-6780d162ef4d,Criminal Justice
+2b6e21c7-01e2-4df8-bd41-9972efcaaa6a,Public Safety
+fb6c6e3f-cdcf-4242-b431-b78b3f2d31a7,Science & Research
+fb6c6e3f-cdcf-4242-b431-b78b3f2d31a7,Transportation
+fb6c6e3f-cdcf-4242-b431-b78b3f2d31a7,Housing
+0181dcaa-499b-41fc-9682-7b85c0998274,Business
+c666bde7-6ffa-451b-a373-29c669a84ae6,Climate
+3aa35ff4-b6e9-4145-a6d9-dc0f58c8da86,Labor
+c2f01a0a-1aca-40c2-905d-0bb1a0555e78,Social Services
+c2f01a0a-1aca-40c2-905d-0bb1a0555e78,Housing
+c2f01a0a-1aca-40c2-905d-0bb1a0555e78,Public Safety
+82b73678-4fa5-4162-8761-692d2c172bec,Social Services
+82b73678-4fa5-4162-8761-692d2c172bec,Science & Research
+c1dd34a4-5187-4a19-a3d3-2c11615ef8ac,Health
+c1dd34a4-5187-4a19-a3d3-2c11615ef8ac,Education
+e86f4d62-07a7-487e-9e95-588fbccef8dc,Education
+e86f4d62-07a7-487e-9e95-588fbccef8dc,Environment
+fbfe4f27-5c04-4461-8b39-a3c9ff3f1235,Energy
+fbfe4f27-5c04-4461-8b39-a3c9ff3f1235,Business
+fbfe4f27-5c04-4461-8b39-a3c9ff3f1235,Elections
+93b724e6-0f94-4239-ae8b-5b78cf47fc7a,Labor
+c51d7e07-cb60-4779-8d06-1f19969a3739,Housing
+c51d7e07-cb60-4779-8d06-1f19969a3739,Business
+83846155-c7b1-46da-bf47-95e1ac7e2b8b,Public Safety
+83846155-c7b1-46da-bf47-95e1ac7e2b8b,Criminal Justice
+83846155-c7b1-46da-bf47-95e1ac7e2b8b,Agriculture
+35ed404c-2aea-4703-b7ba-3fe7f7096396,Geospatial
+35ed404c-2aea-4703-b7ba-3fe7f7096396,Labor
+02769bd0-1908-4ff0-91ae-2c568a4c6a3b,Agriculture
+02769bd0-1908-4ff0-91ae-2c568a4c6a3b,Energy
+02769bd0-1908-4ff0-91ae-2c568a4c6a3b,Health
+ff1aff7c-f3f6-4193-819e-a93f7bf30e6c,Demographics
+ff1aff7c-f3f6-4193-819e-a93f7bf30e6c,Business
+ff1aff7c-f3f6-4193-819e-a93f7bf30e6c,Water
+064fefca-7c0f-41b3-af91-ac612cc827ce,Agriculture
+064fefca-7c0f-41b3-af91-ac612cc827ce,Business
+789fb37e-96d4-4d15-92df-346635831b43,Geospatial
+789fb37e-96d4-4d15-92df-346635831b43,Agriculture
+789fb37e-96d4-4d15-92df-346635831b43,Social Services
+f8490db0-0dcb-4e6a-9509-f12ef8908682,Environment
+f8490db0-0dcb-4e6a-9509-f12ef8908682,Elections
+ee291a13-d4a8-4c17-a939-56e4325af4ae,Geospatial
+ee291a13-d4a8-4c17-a939-56e4325af4ae,Science & Research
+ee291a13-d4a8-4c17-a939-56e4325af4ae,Energy
+7ff98ac9-ff9c-4fe2-ab1b-976cdf8e5364,Science & Research
+7ff98ac9-ff9c-4fe2-ab1b-976cdf8e5364,Health
+bf27713f-2900-455e-93f2-b13e2c8c6042,Education
+bf27713f-2900-455e-93f2-b13e2c8c6042,Geospatial
+98c97ba3-2b4e-40f8-86fa-6d1400f7a3e3,Climate
+fdd02907-a3f4-44d2-ba3b-a73e4398340c,Education
+2c9fab4d-fa71-4ea5-b897-303fa77810d5,Energy
+92b1a511-10f9-449a-822c-e485a163bd70,Public Safety
+92b1a511-10f9-449a-822c-e485a163bd70,Energy
+92b1a511-10f9-449a-822c-e485a163bd70,Health
+94be9026-81c6-4624-9b11-3d10bb3a24ca,Demographics
+94be9026-81c6-4624-9b11-3d10bb3a24ca,Weather
+3234deba-8982-4643-856e-a781a8bc0ada,Elections
+465ebcd8-0e12-4cbc-98a2-dd38a0f60a11,Public Safety
+465ebcd8-0e12-4cbc-98a2-dd38a0f60a11,Science & Research
+1c0a43fc-c1b0-4b10-ba4a-962692954df4,Water
+1c0a43fc-c1b0-4b10-ba4a-962692954df4,Environment
+1c0a43fc-c1b0-4b10-ba4a-962692954df4,Demographics
+a90d5595-53bf-4162-a354-96a17cc8afd2,Social Services
+a90d5595-53bf-4162-a354-96a17cc8afd2,Transportation
+22b550e4-5dd7-4ccc-b0fd-97a0ac5f6408,Demographics
+22b550e4-5dd7-4ccc-b0fd-97a0ac5f6408,Energy
+22b550e4-5dd7-4ccc-b0fd-97a0ac5f6408,Geospatial
+ca0e61cf-4a1b-4624-925d-5c0e821e4b23,Transportation
+ca0e61cf-4a1b-4624-925d-5c0e821e4b23,Finance
+ca0e61cf-4a1b-4624-925d-5c0e821e4b23,Labor
+cb2a6de4-dc1d-4590-b926-21f8a63ec5f4,Science & Research
+cb2a6de4-dc1d-4590-b926-21f8a63ec5f4,Water
+cb2a6de4-dc1d-4590-b926-21f8a63ec5f4,Criminal Justice
+80ead091-f2af-4908-acd6-349d987ec4af,Public Safety
+80ead091-f2af-4908-acd6-349d987ec4af,Finance
+c1bceb62-dd96-48e5-a1e8-85b5280bf6f9,Science & Research
+61d5432e-02ff-483f-a240-00687170a599,Geospatial
+61d5432e-02ff-483f-a240-00687170a599,Public Safety
+249219cd-3e42-4dd2-9872-021920d6dbfa,Agriculture
+249219cd-3e42-4dd2-9872-021920d6dbfa,Environment
+f18a1f3e-5755-4dc7-b8ad-08d88638849f,Finance
+f18a1f3e-5755-4dc7-b8ad-08d88638849f,Housing
+f6a0ac90-f820-49fe-87a8-effd93c71629,Elections
+f6a0ac90-f820-49fe-87a8-effd93c71629,Labor
+826106ad-06ce-488a-af7b-297c5a285684,Elections
+38950180-5fbb-43a2-8ae4-81b08d90589d,Transportation
+38950180-5fbb-43a2-8ae4-81b08d90589d,Labor
+38950180-5fbb-43a2-8ae4-81b08d90589d,Weather
+4210c6d6-353f-4bad-b09e-d25f9b5d58b4,Science & Research
+ed24d74d-6290-465d-9998-b562d877aea7,Transportation
+ed24d74d-6290-465d-9998-b562d877aea7,Energy
+6cf127b1-4959-46bb-bff7-23e173dfb11a,Environment
+6cf127b1-4959-46bb-bff7-23e173dfb11a,Business
+c3d1e359-6687-42ca-810c-d03437099487,Water
+c3d1e359-6687-42ca-810c-d03437099487,Weather
+c3d1e359-6687-42ca-810c-d03437099487,Elections
+b6989946-3af2-4d2e-ae29-f209e49e3069,Public Safety
+b6989946-3af2-4d2e-ae29-f209e49e3069,Social Services
+b6989946-3af2-4d2e-ae29-f209e49e3069,Housing
+8cbb2bcd-dc65-4f1a-b377-56d161f6573c,Transportation
+8cbb2bcd-dc65-4f1a-b377-56d161f6573c,Housing
+bd283ba1-2e33-4a07-a05c-df901d1ff7a5,Criminal Justice
+bd283ba1-2e33-4a07-a05c-df901d1ff7a5,Business
+c90f454c-0414-4e51-a1f6-f798775b0f79,Labor
+c90f454c-0414-4e51-a1f6-f798775b0f79,Science & Research
+d745dea1-f5f9-4cef-9f9d-e4b97e8d316a,Health
+9cf6524c-82c2-43b3-a697-b059dd929ef5,Finance
+9cf6524c-82c2-43b3-a697-b059dd929ef5,Transportation
+424e272e-00d1-4868-86e6-eae60546e43b,Science & Research
+68e49e78-bb75-4df3-adc1-a37a4ffebc4b,Social Services
+68e49e78-bb75-4df3-adc1-a37a4ffebc4b,Demographics
+9097d17d-8a49-46e4-a2d6-7eefd63f3736,Transportation
+9097d17d-8a49-46e4-a2d6-7eefd63f3736,Demographics
+9097d17d-8a49-46e4-a2d6-7eefd63f3736,Finance
+a646b9eb-1409-4575-bf62-b9b880ed5b0d,Finance
+733cca93-fcce-445e-99b6-74c2f442e53b,Weather
+8e2746f9-2bd2-4117-a889-dd112bac99fe,Labor
+8e2746f9-2bd2-4117-a889-dd112bac99fe,Environment
+8e2746f9-2bd2-4117-a889-dd112bac99fe,Water
+8d4b2999-fa02-406f-a040-9e9c96fe72aa,Health
+8d4b2999-fa02-406f-a040-9e9c96fe72aa,Labor
+e537cfcf-7edb-4d20-9154-9a3b21707daa,Transportation
+e537cfcf-7edb-4d20-9154-9a3b21707daa,Weather
+e537cfcf-7edb-4d20-9154-9a3b21707daa,Social Services
+8003204b-36f1-40c9-9b0a-b4ece69b1f47,Climate
+8003204b-36f1-40c9-9b0a-b4ece69b1f47,Business
+8003204b-36f1-40c9-9b0a-b4ece69b1f47,Health
+4df3f2bd-2e6c-40dd-beab-6d9e0703b541,Social Services
+4df3f2bd-2e6c-40dd-beab-6d9e0703b541,Energy
+4df3f2bd-2e6c-40dd-beab-6d9e0703b541,Criminal Justice
+c6f73d9b-f279-46a7-83a2-5f7d9423fc8f,Health
+c6f73d9b-f279-46a7-83a2-5f7d9423fc8f,Social Services
+543fb4c4-6055-4b24-ae73-181ca3e948a0,Housing
+543fb4c4-6055-4b24-ae73-181ca3e948a0,Water
+2f5e8b05-c9d4-4ddf-a858-2e88bd72eeee,Health
+2f5e8b05-c9d4-4ddf-a858-2e88bd72eeee,Weather
+a5eb6ac2-805f-4852-9b53-2641614b1af1,Demographics
+858346df-3cbe-4453-81f5-cab85aaf5efd,Education
+858346df-3cbe-4453-81f5-cab85aaf5efd,Geospatial
+5452563c-0efa-4423-a5e9-74d0b097d718,Housing
+5452563c-0efa-4423-a5e9-74d0b097d718,Science & Research
+7ce71a1e-1ebd-4993-9b41-dd5b57994282,Water
+8a6daf24-2e4d-48a9-9110-549e50963417,Business
+8a6daf24-2e4d-48a9-9110-549e50963417,Climate
+8a6daf24-2e4d-48a9-9110-549e50963417,Energy
+23a5ab04-b9ef-4962-9347-3055d2c19a5b,Social Services
+23a5ab04-b9ef-4962-9347-3055d2c19a5b,Weather
+23a5ab04-b9ef-4962-9347-3055d2c19a5b,Transportation
+45b549fd-123f-4dfa-8436-fbb295e4e1ef,Housing
+ff84c02f-fd9e-499c-b61f-f0c0f8d5dde3,Housing
+ff84c02f-fd9e-499c-b61f-f0c0f8d5dde3,Geospatial
+a0fb2d33-c8d3-4eff-a389-bda4870cf200,Demographics
+20ab6c4a-b2ec-45af-8887-c17e581c8bbe,Climate
+7463ceea-9291-4306-a1a4-8e65d5f3107b,Social Services
+7463ceea-9291-4306-a1a4-8e65d5f3107b,Demographics
+ba806110-c623-4709-b86f-3deacfa645b3,Transportation
+c29e3a3b-c249-469a-9bd6-40a65d9afa4d,Science & Research
+c29e3a3b-c249-469a-9bd6-40a65d9afa4d,Energy
+c29e3a3b-c249-469a-9bd6-40a65d9afa4d,Housing
+ed16a813-8543-4b3f-ab7b-ad0391639462,Finance
+ed16a813-8543-4b3f-ab7b-ad0391639462,Transportation
+a67c796a-de0a-42c2-bd57-028cba15daec,Water
+a67c796a-de0a-42c2-bd57-028cba15daec,Public Safety
+a67c796a-de0a-42c2-bd57-028cba15daec,Science & Research
+c3e7760b-a716-49b8-a22e-eac1877c6529,Demographics
+c3e7760b-a716-49b8-a22e-eac1877c6529,Public Safety
+c3e7760b-a716-49b8-a22e-eac1877c6529,Finance
+e1e9d3a0-e7d4-43ab-866c-c8d96acb9d8c,Labor
+e907dd2c-9c10-4729-86a8-1806a9ed1b04,Science & Research
+207c4580-0c0e-48bf-bbb2-072a8def8c96,Energy
+207c4580-0c0e-48bf-bbb2-072a8def8c96,Public Safety
+207c4580-0c0e-48bf-bbb2-072a8def8c96,Health
+ba40d97e-4d16-4be2-8a53-e1c51f528980,Criminal Justice
+ba40d97e-4d16-4be2-8a53-e1c51f528980,Labor
+fe826104-3dc7-4832-8aac-ebc3bda2844a,Geospatial
+fe826104-3dc7-4832-8aac-ebc3bda2844a,Science & Research
+fe826104-3dc7-4832-8aac-ebc3bda2844a,Energy
+3afb6942-788e-446c-89fe-19e2cded10f6,Finance
+3afb6942-788e-446c-89fe-19e2cded10f6,Social Services
+c5107efb-ca50-480c-be0c-df843755f0d3,Social Services
+c5107efb-ca50-480c-be0c-df843755f0d3,Geospatial
+70b5752c-9adb-4c88-9a89-470ec1ee348b,Public Safety
+70b5752c-9adb-4c88-9a89-470ec1ee348b,Health
+32ab298d-d542-4620-bb9c-64ee4fcb400b,Business
+cc54a24c-655f-4627-b101-fcf3868cda18,Elections
+84b41206-7b28-4eb3-9115-054300d37419,Weather
+84b41206-7b28-4eb3-9115-054300d37419,Labor
+af17cd57-72ae-458f-a2e4-14dd7b75094b,Science & Research
+af17cd57-72ae-458f-a2e4-14dd7b75094b,Finance
+123f6899-4240-4b99-bff9-82805434120b,Labor
+25c0a556-2c1c-4739-88b6-5c1663e1dc19,Public Safety
+25c0a556-2c1c-4739-88b6-5c1663e1dc19,Energy
+25c0a556-2c1c-4739-88b6-5c1663e1dc19,Environment
+223fffc5-c439-4df6-8dd1-23261bdef5ca,Demographics
+223fffc5-c439-4df6-8dd1-23261bdef5ca,Climate
+ff57407f-0a2a-49b4-907d-7c74f01189f1,Criminal Justice
+76f3ac2e-19ac-4a4f-a2f8-5badc8c406bb,Elections
+76f3ac2e-19ac-4a4f-a2f8-5badc8c406bb,Geospatial
+76f3ac2e-19ac-4a4f-a2f8-5badc8c406bb,Water
+774ac4f7-6a68-4c3c-b9b9-10f6fa5fb2bb,Weather
+524f70b9-671b-4133-8fc9-91093fb234f9,Water
+524f70b9-671b-4133-8fc9-91093fb234f9,Demographics
+f4747789-67aa-42b6-ab58-7a0b4e9d4ecd,Health
+f4747789-67aa-42b6-ab58-7a0b4e9d4ecd,Elections
+15dbc33d-dbb5-4363-bd33-9b665ad20a79,Finance
+27eb151c-c2eb-4102-a421-a44ba9c3ecd1,Transportation
+27eb151c-c2eb-4102-a421-a44ba9c3ecd1,Education
+872104e0-5412-4569-83df-bd445712ba19,Demographics
+872104e0-5412-4569-83df-bd445712ba19,Elections
+872104e0-5412-4569-83df-bd445712ba19,Social Services
+6f99b783-ddf4-4b45-9d63-fc8d4ba94e9d,Weather
+6f99b783-ddf4-4b45-9d63-fc8d4ba94e9d,Environment
+c6b0c0fb-2eff-4a9b-9d85-64b8019d80fd,Business
+c6b0c0fb-2eff-4a9b-9d85-64b8019d80fd,Demographics
+c6b0c0fb-2eff-4a9b-9d85-64b8019d80fd,Transportation
+bc70885b-9320-431f-b840-0c49119eddc1,Transportation
+bc70885b-9320-431f-b840-0c49119eddc1,Elections
+bc70885b-9320-431f-b840-0c49119eddc1,Health
+5c30b600-4930-4d95-b54e-5115f273b47d,Education
+5c30b600-4930-4d95-b54e-5115f273b47d,Business
+5c30b600-4930-4d95-b54e-5115f273b47d,Elections
+83391bce-f303-4dac-8355-2c597a2a97e6,Weather
+0a18bc19-596f-495a-8479-6e39686d019c,Geospatial
+3e88cc65-c782-440c-8195-ff3afcb32d9b,Environment
+163e344b-0a08-44d9-a337-d9fe6331fcab,Transportation
+163e344b-0a08-44d9-a337-d9fe6331fcab,Demographics
+abb38e52-d41b-4c96-befa-80216266977d,Public Safety
+abb38e52-d41b-4c96-befa-80216266977d,Criminal Justice
+3b903b34-a2b9-4de4-a9db-8d5d17709fea,Health
+3b903b34-a2b9-4de4-a9db-8d5d17709fea,Weather
+beb9cf5b-ef2f-46f2-86ac-850891f9ad5e,Environment
+7cb043ed-ef7f-41e2-abd4-7d483f839dd9,Environment
+7cb043ed-ef7f-41e2-abd4-7d483f839dd9,Elections
+1da5c7c9-1bb2-4a0f-8385-bf630572896d,Climate
+e507e3aa-7a25-4c22-bce2-8a4a32e918b8,Water
+e507e3aa-7a25-4c22-bce2-8a4a32e918b8,Science & Research
+385e2047-ad3b-4f73-a3f8-80607a1397ab,Public Safety
+385e2047-ad3b-4f73-a3f8-80607a1397ab,Education
+f15ac98c-ca0e-48a3-9b91-49290100ac25,Public Safety
+5aae1fec-801e-4a82-82c8-499af8d9a5a3,Elections
+5aae1fec-801e-4a82-82c8-499af8d9a5a3,Finance
+5aae1fec-801e-4a82-82c8-499af8d9a5a3,Science & Research
+299d0fe0-7eed-437b-a2cb-ab11fa68aaeb,Public Safety
+c38e5885-f84b-423a-86b2-d46e6cfddd90,Geospatial
+c38e5885-f84b-423a-86b2-d46e6cfddd90,Water
+fef07021-0a09-4ccd-8177-8b292c5eb8c8,Finance
+5bd0547c-328f-4b2b-892a-87ae82cfab53,Public Safety
+5bd0547c-328f-4b2b-892a-87ae82cfab53,Climate
+6e19be6a-7a31-4ff6-98f6-eba6f08a933f,Environment
+073c9fe2-ec4e-449e-82c6-94b6a72cc57b,Social Services
+03586fde-9448-42a6-87d8-15b855a64e52,Education
+03586fde-9448-42a6-87d8-15b855a64e52,Finance
+03586fde-9448-42a6-87d8-15b855a64e52,Agriculture
+36767952-ccc3-4e87-b580-64045d9a6f01,Public Safety
+36767952-ccc3-4e87-b580-64045d9a6f01,Social Services
+b00c133f-7559-4d98-ba43-1ae6481a5930,Health
+195f022e-a5d8-48a1-9dc1-b2c53d2fb063,Business
+195f022e-a5d8-48a1-9dc1-b2c53d2fb063,Geospatial
+195f022e-a5d8-48a1-9dc1-b2c53d2fb063,Agriculture
+27d19390-3b31-4769-a847-241d9b5bc891,Weather
+27d19390-3b31-4769-a847-241d9b5bc891,Water
+27d19390-3b31-4769-a847-241d9b5bc891,Agriculture
+490178b1-c757-4f38-8b07-7cb6cdc74aba,Science & Research
+9cd1e7de-16c8-4dc9-8ec6-e86cb3999666,Criminal Justice
+8f59f7a2-2320-48c1-b96f-e7799f2630fc,Business
+8f59f7a2-2320-48c1-b96f-e7799f2630fc,Finance
+846ef5d7-fa22-48d6-8f80-0f905879b134,Demographics
+8f3765f7-1070-4088-963b-f0c20f8a2e65,Education
+8f3765f7-1070-4088-963b-f0c20f8a2e65,Climate
+191458cb-905f-4828-82bb-bd8b4989d00c,Environment
+191458cb-905f-4828-82bb-bd8b4989d00c,Business
+bf79f7c9-2759-4a5d-8f99-b968a1ff3c05,Housing
+0163ab44-2e53-4cd7-ad6d-5b66e666f084,Climate
+0163ab44-2e53-4cd7-ad6d-5b66e666f084,Transportation
+0163ab44-2e53-4cd7-ad6d-5b66e666f084,Water
+1b1cc182-4b2d-4169-ac6b-3c642a4c58d3,Criminal Justice
+1b1cc182-4b2d-4169-ac6b-3c642a4c58d3,Health
+9f029d90-f9d9-4d45-990a-2d45439799eb,Finance
+9f029d90-f9d9-4d45-990a-2d45439799eb,Environment
+ae7cad10-3e93-4c2b-88ec-fff05c35b85e,Water
+ae7cad10-3e93-4c2b-88ec-fff05c35b85e,Weather
+39ff20a8-4050-4c50-ae1e-950288db6f0a,Finance
+895a07a4-14cf-4083-95d6-ccc6eed236ca,Demographics
+3db3cb8c-a30e-4ba5-ab96-eb2d7b7ab163,Demographics
+3db3cb8c-a30e-4ba5-ab96-eb2d7b7ab163,Housing
+6dd2f6fc-2c83-4f77-b2d7-eb73b53c1d0b,Elections
+6dd2f6fc-2c83-4f77-b2d7-eb73b53c1d0b,Housing
+d1c292ac-7881-42fb-9019-6fd1b8331522,Science & Research
+d1c292ac-7881-42fb-9019-6fd1b8331522,Geospatial
+52f964b0-8fe9-4dd7-b8a9-35c0cc33212b,Energy
+99118894-0b6c-4a3f-97a0-95fb0a124f84,Weather
+99118894-0b6c-4a3f-97a0-95fb0a124f84,Public Safety
+99118894-0b6c-4a3f-97a0-95fb0a124f84,Transportation
+f1f6061d-bdb2-4ded-9e28-52df39dfab50,Demographics
+f1f6061d-bdb2-4ded-9e28-52df39dfab50,Energy
+2a0ad26c-0bcb-4898-a5a6-33bbdda1d427,Demographics
+2a0ad26c-0bcb-4898-a5a6-33bbdda1d427,Public Safety
+849cab32-e1e3-45fa-a608-36aa036369e9,Energy
+3a3cecf8-ab0f-44af-99da-82cc7a27c189,Demographics
+3a3cecf8-ab0f-44af-99da-82cc7a27c189,Geospatial
+3aae740e-96c7-4766-a826-6f9c2e8efbd7,Environment
+3aae740e-96c7-4766-a826-6f9c2e8efbd7,Housing
+3aae740e-96c7-4766-a826-6f9c2e8efbd7,Labor
+a22eeee2-69ba-4e81-852f-d8f2d2be5117,Business
+a22eeee2-69ba-4e81-852f-d8f2d2be5117,Public Safety
+c877d9fd-a973-4d25-96c7-5f5b6d3d9d41,Weather
+c877d9fd-a973-4d25-96c7-5f5b6d3d9d41,Public Safety
+77695e25-f944-44c4-a321-adb914e153b0,Social Services
+77695e25-f944-44c4-a321-adb914e153b0,Climate
+77695e25-f944-44c4-a321-adb914e153b0,Criminal Justice
+d2d4d1f5-5487-49b8-a2c1-42eb5a2ff17b,Environment
+d2d4d1f5-5487-49b8-a2c1-42eb5a2ff17b,Transportation
+d2d4d1f5-5487-49b8-a2c1-42eb5a2ff17b,Education
+1ef41b00-3deb-4821-b918-acb777d8d611,Business
+1ef41b00-3deb-4821-b918-acb777d8d611,Social Services
+cba2ff66-2100-4bc5-ba8c-35d74af745a6,Transportation
+cba2ff66-2100-4bc5-ba8c-35d74af745a6,Housing
+3829c8cf-e53a-4bf2-8d2a-0a74da53178b,Education
+e00030b0-7467-4753-ad77-5ab51efb51bb,Finance
+e00030b0-7467-4753-ad77-5ab51efb51bb,Housing
+9d4c54cd-482b-495a-be1a-5d644d88fa59,Finance
+059c71a6-d1ab-49d1-8d9f-3d15d03509a5,Energy
+059c71a6-d1ab-49d1-8d9f-3d15d03509a5,Public Safety
+059c71a6-d1ab-49d1-8d9f-3d15d03509a5,Weather
+ba11e1a8-edd1-4caf-8cbd-0d535ba357b1,Science & Research
+1e734b83-2fd9-4450-b38b-bf4ee2c42fe0,Energy
+420780bc-ff37-42b7-8014-56f18756a807,Transportation
+420780bc-ff37-42b7-8014-56f18756a807,Health
+772c1afd-58e0-4275-8bc4-936816b3a34b,Demographics
+772c1afd-58e0-4275-8bc4-936816b3a34b,Water
+9c46b1e9-7b9e-4855-b868-3d841ee52610,Business
+9c46b1e9-7b9e-4855-b868-3d841ee52610,Weather
+9c46b1e9-7b9e-4855-b868-3d841ee52610,Energy
+c1dd0614-488f-499d-a6f5-988561aa38ad,Demographics
+4c41ccda-dd82-4424-ae3d-20bf1df6d391,Geospatial
+4c41ccda-dd82-4424-ae3d-20bf1df6d391,Agriculture
+4c41ccda-dd82-4424-ae3d-20bf1df6d391,Education
+41517844-ffdc-44e0-ace4-cf9ede8b93c4,Geospatial
+9fb1ab76-b492-4f0d-ac43-229ee45b021f,Water
+3d17662d-3b59-4721-bec9-20b1767042c1,Climate
+0c4fcf94-485e-428f-b4a7-cf6a0d3f8483,Weather
+0c4fcf94-485e-428f-b4a7-cf6a0d3f8483,Social Services
+0c4fcf94-485e-428f-b4a7-cf6a0d3f8483,Science & Research
+535589e5-a472-4add-8896-6019cbf59afb,Housing
+535589e5-a472-4add-8896-6019cbf59afb,Elections
+f0a24a36-8157-4078-8573-e32bcde2ebad,Demographics
+f0a24a36-8157-4078-8573-e32bcde2ebad,Geospatial
+eb602445-3cd0-4a85-8376-575e76f025e8,Elections
+eb602445-3cd0-4a85-8376-575e76f025e8,Public Safety
+eb602445-3cd0-4a85-8376-575e76f025e8,Housing
+e0a3e710-6d87-4f44-b8b5-3ee808229610,Criminal Justice
+a78e136c-50f3-4ed6-9257-e5a851071b15,Finance
+d5be8fcb-314a-42be-b0c6-5023609ea41a,Labor
+818ab9f9-3068-475e-9ff3-1c36948501cc,Energy
+0fee3b1a-a3b6-4b93-b589-638d44a67590,Elections
+0fee3b1a-a3b6-4b93-b589-638d44a67590,Transportation
+0fee3b1a-a3b6-4b93-b589-638d44a67590,Climate
+fb480ae2-d961-4339-af53-025054eb2967,Public Safety
+7b8d7e14-d469-4ffa-9b4b-06c166d12c3d,Water
+7b8d7e14-d469-4ffa-9b4b-06c166d12c3d,Elections
+35fe0d8e-0661-4a43-9bf6-ac0a7d64c7e8,Water
+35fe0d8e-0661-4a43-9bf6-ac0a7d64c7e8,Finance
+35fe0d8e-0661-4a43-9bf6-ac0a7d64c7e8,Health
+150dfd83-103e-4633-a4f0-a982cbfab195,Energy
+150dfd83-103e-4633-a4f0-a982cbfab195,Labor
+2d9a803c-4fe8-4704-96cd-3d0f63d0cd41,Geospatial
+2d9a803c-4fe8-4704-96cd-3d0f63d0cd41,Business
+2d9a803c-4fe8-4704-96cd-3d0f63d0cd41,Public Safety
+464fc6fb-8265-42ab-b50c-c662f3d2b19f,Geospatial
+464fc6fb-8265-42ab-b50c-c662f3d2b19f,Education
+ee21c7e6-7277-4efa-9664-074ef8ac49f9,Criminal Justice
+ee21c7e6-7277-4efa-9664-074ef8ac49f9,Education
+ee21c7e6-7277-4efa-9664-074ef8ac49f9,Demographics
+c0cbefd4-5372-4c2f-9984-385e0742c56c,Health
+8e2bc2e5-156d-428a-8017-23dc11c0e982,Social Services
+8e2bc2e5-156d-428a-8017-23dc11c0e982,Water
+8782b046-9391-4f11-b135-90e3912a4f8e,Demographics
+b73a1e0c-291d-45f4-9258-66799b5694c8,Business
+b73a1e0c-291d-45f4-9258-66799b5694c8,Climate
+b73a1e0c-291d-45f4-9258-66799b5694c8,Criminal Justice
+af7744d4-2e18-4075-b3c6-86be4650e537,Social Services
+89d8e1cd-33f3-4145-8ffa-19008fdb0686,Transportation
+89d8e1cd-33f3-4145-8ffa-19008fdb0686,Weather
+747b578e-83ab-4282-8146-70b5f13bc94c,Finance
+747b578e-83ab-4282-8146-70b5f13bc94c,Criminal Justice
+18ab3e3e-1d96-4fb4-9288-3c2745f44059,Science & Research
+18ab3e3e-1d96-4fb4-9288-3c2745f44059,Water
+3c29b03f-1ecf-4609-a380-7e2c597688e1,Criminal Justice
+3c29b03f-1ecf-4609-a380-7e2c597688e1,Public Safety
+27f6cdf5-bb47-4407-a26c-bbaf7083ea58,Finance
+27f6cdf5-bb47-4407-a26c-bbaf7083ea58,Agriculture
+c03284cb-6601-4f4d-a85c-1229fdcfc63c,Business
+c03284cb-6601-4f4d-a85c-1229fdcfc63c,Environment
+c03284cb-6601-4f4d-a85c-1229fdcfc63c,Geospatial
+095438b4-b062-458c-8a2c-306526995f0c,Science & Research
+095438b4-b062-458c-8a2c-306526995f0c,Water
+f3d3fa9a-9e01-41a9-9495-1f18fd6a3baa,Education
+a7aa03be-a095-4e9a-9db6-563eb3892692,Energy
+a7aa03be-a095-4e9a-9db6-563eb3892692,Education
+c942b3ef-9fa0-4ce8-9d15-cc1e9144729c,Water
+c942b3ef-9fa0-4ce8-9d15-cc1e9144729c,Health
+cbd17bdd-bfb5-4dbd-a0e4-989c84f865ef,Labor
+cbd17bdd-bfb5-4dbd-a0e4-989c84f865ef,Water
+f00c6912-7d21-4ca0-b92c-61d9b2c547f5,Social Services
+f00c6912-7d21-4ca0-b92c-61d9b2c547f5,Geospatial
+ccf9b393-517a-4368-8aa5-e5b1d3ce66b3,Criminal Justice
+ccf9b393-517a-4368-8aa5-e5b1d3ce66b3,Demographics
+575f2e10-b90a-45e3-b882-eb89f7265f9d,Labor
+ac748731-e823-4d37-95df-b79796ddcacc,Criminal Justice
+0ee6c50a-d2d1-4b13-ac13-ee3dc3450e85,Elections
+0ee6c50a-d2d1-4b13-ac13-ee3dc3450e85,Business
+cc4bc808-6f1b-4df8-85b1-0c9445102bf1,Transportation
+5cde1b13-4604-4737-a284-0013b1421052,Education
+5cde1b13-4604-4737-a284-0013b1421052,Finance
+f7d21910-107c-46d3-b772-9aa96bd093ba,Finance
+f7d21910-107c-46d3-b772-9aa96bd093ba,Elections
+f7d21910-107c-46d3-b772-9aa96bd093ba,Health
+9c5c4445-a29b-4396-aade-4c2660c4e463,Elections
+e8de0f07-4908-46c9-af64-5b5a49fb102d,Environment
+e8de0f07-4908-46c9-af64-5b5a49fb102d,Demographics
+2849a538-b7fd-49ac-a63e-0c83a6e30d0f,Labor
+2849a538-b7fd-49ac-a63e-0c83a6e30d0f,Weather
+44e2b596-3749-4491-b43a-58fd19e94378,Agriculture
+a2b952b3-1526-47f9-a9a2-b5093cc7f943,Climate
+a2b952b3-1526-47f9-a9a2-b5093cc7f943,Geospatial
+e7828263-5ef3-4263-be4e-9367fc1af805,Energy
+e7828263-5ef3-4263-be4e-9367fc1af805,Housing
+cdb79bda-b907-4293-8ad8-f0880eba8f46,Health
+91993e00-21ca-4002-be4c-fad6e15c448b,Finance
+6b22aec0-e3cd-480a-9588-4ac7f3fdd8a5,Environment
+6b22aec0-e3cd-480a-9588-4ac7f3fdd8a5,Agriculture
+30b64d10-a02d-4bea-9470-da92d330e116,Weather
+30b64d10-a02d-4bea-9470-da92d330e116,Education
+30b64d10-a02d-4bea-9470-da92d330e116,Climate
+90aa0897-3813-4158-bfc7-a490dcf6e059,Environment
+655908c6-efff-4acd-a0e2-2881d11e5c17,Business
+372a4623-0cc0-4f10-be78-6f56b1b3e9cf,Criminal Justice
+372a4623-0cc0-4f10-be78-6f56b1b3e9cf,Business
+71773137-7f15-473d-9aff-17c51d20897e,Housing
+1c0feb6a-c7f5-487a-9c56-70eccd27dfa2,Public Safety
+1c0feb6a-c7f5-487a-9c56-70eccd27dfa2,Education
+8e0ba833-d433-4630-98a6-26e98c20e4b0,Health
+258438fe-39c2-4aeb-a2ad-a0a32d5c227f,Climate
+258438fe-39c2-4aeb-a2ad-a0a32d5c227f,Science & Research
+44fa415d-3cc9-46cf-a390-f36d8ee5daea,Climate
+44fa415d-3cc9-46cf-a390-f36d8ee5daea,Social Services
+44fa415d-3cc9-46cf-a390-f36d8ee5daea,Labor
+fdff0955-5eb8-4e9f-8391-610f2e360e14,Transportation
+ce7a7292-afe6-43cc-b676-1b8e1b68f241,Education
+b6eab5ed-a9c1-4c25-9657-323bf3c85b39,Weather
+34667edf-2474-41de-9e40-37898d724dbb,Water
+46b699ca-2309-4f47-aa33-1b386798ec8f,Water
+46b699ca-2309-4f47-aa33-1b386798ec8f,Finance
+17c7c04a-8acf-47fc-99e0-957a8b56a7a2,Weather
+17c7c04a-8acf-47fc-99e0-957a8b56a7a2,Social Services
+17c7c04a-8acf-47fc-99e0-957a8b56a7a2,Finance
+67de540d-386e-4878-a5b3-4e3c03364444,Education
+67de540d-386e-4878-a5b3-4e3c03364444,Public Safety
+67de540d-386e-4878-a5b3-4e3c03364444,Finance
+e5dedd02-9b08-4bcc-91e4-078b115822bf,Weather
+e5dedd02-9b08-4bcc-91e4-078b115822bf,Water
+b615a3d0-e75c-4076-a1b3-11eb692a36b7,Health
+b615a3d0-e75c-4076-a1b3-11eb692a36b7,Transportation
+7c904a08-6ece-4092-aa6c-9ea24b484833,Demographics
+7c904a08-6ece-4092-aa6c-9ea24b484833,Climate
+8a8fcc7b-8bbe-4939-a626-619edd530e29,Demographics
+6b68fa75-359a-4399-9239-8bd6961d355b,Agriculture
+6b68fa75-359a-4399-9239-8bd6961d355b,Geospatial
+6b68fa75-359a-4399-9239-8bd6961d355b,Water
+bf4a8ec4-2522-47c2-9292-498a3c94e775,Social Services
+bf4a8ec4-2522-47c2-9292-498a3c94e775,Science & Research
+9ce133f7-f65d-484e-93b7-49fe3fd6edf6,Health
+9ce133f7-f65d-484e-93b7-49fe3fd6edf6,Environment
+9ce133f7-f65d-484e-93b7-49fe3fd6edf6,Geospatial
+51754dc9-9656-443a-b572-b76306707ea8,Public Safety
+00f4b086-942b-465b-95cb-a23998380011,Weather
+00f4b086-942b-465b-95cb-a23998380011,Education
+00f4b086-942b-465b-95cb-a23998380011,Science & Research
+9a17b7aa-e41a-4759-b22f-679f9ffec46b,Business
+9a17b7aa-e41a-4759-b22f-679f9ffec46b,Social Services
+dbac74fe-0eff-4342-98e0-00cc13f7bb67,Environment
+dbac74fe-0eff-4342-98e0-00cc13f7bb67,Housing
+dbac74fe-0eff-4342-98e0-00cc13f7bb67,Agriculture
+8bbe43cd-b326-4959-886e-5245ee2398ac,Science & Research
+8bbe43cd-b326-4959-886e-5245ee2398ac,Climate
+0c32da92-d7bd-4656-a884-14b8f1949130,Elections
+0c32da92-d7bd-4656-a884-14b8f1949130,Water
+25b03f61-7c9d-4de6-aabb-adb6ac60dab5,Transportation
+25b03f61-7c9d-4de6-aabb-adb6ac60dab5,Education
+c8bb345b-871e-49da-8db3-e42bbe722adb,Science & Research
+c8bb345b-871e-49da-8db3-e42bbe722adb,Social Services
+fbc26d15-ca19-49b6-b08d-b7f62bfd00ba,Finance
+fbc26d15-ca19-49b6-b08d-b7f62bfd00ba,Science & Research
+fbc26d15-ca19-49b6-b08d-b7f62bfd00ba,Agriculture
+6e4a2f1d-cecc-4ea5-b6c2-5a6b04cadfd1,Science & Research
+6e4a2f1d-cecc-4ea5-b6c2-5a6b04cadfd1,Criminal Justice
+477dbda7-c554-4ef9-ad47-08de86e8cfa0,Transportation
+96b00139-3b8c-4706-a393-ce5572d07932,Geospatial
+35c88101-f815-486a-8b27-42a133c85f76,Environment
+35c88101-f815-486a-8b27-42a133c85f76,Geospatial
+35c88101-f815-486a-8b27-42a133c85f76,Demographics
+c2a75b69-3ee2-4771-a850-39b5012df38e,Demographics
+c2a75b69-3ee2-4771-a850-39b5012df38e,Elections
+de132c67-5679-4b5d-8730-8fc8f3063d65,Demographics
+de132c67-5679-4b5d-8730-8fc8f3063d65,Finance
+de132c67-5679-4b5d-8730-8fc8f3063d65,Geospatial
+4c2e64bd-9bf9-4d4b-a422-11d98b0617ad,Transportation
+4c2e64bd-9bf9-4d4b-a422-11d98b0617ad,Climate
+4c2e64bd-9bf9-4d4b-a422-11d98b0617ad,Agriculture
+f18a216b-e215-44ad-af84-aacf6510a4d5,Criminal Justice
+f18a216b-e215-44ad-af84-aacf6510a4d5,Finance
+db176386-7461-48cd-b399-7671456cddb3,Finance
+c79c2b85-5310-449b-9b7c-8ffe75562809,Environment
+c79c2b85-5310-449b-9b7c-8ffe75562809,Social Services
+c79c2b85-5310-449b-9b7c-8ffe75562809,Public Safety
+bf0140be-0eeb-4eec-9c75-8eb3f53b7a7c,Education
+bf0140be-0eeb-4eec-9c75-8eb3f53b7a7c,Health
+dbc4dba4-2910-4b14-93c1-73d220d9abdb,Science & Research
+dbc4dba4-2910-4b14-93c1-73d220d9abdb,Public Safety
+48ff0a90-6e56-42e9-8e4c-7e6a1798be7f,Energy
+c1a15733-5073-4c09-b92e-0dda53472309,Business
+c1a15733-5073-4c09-b92e-0dda53472309,Demographics
+603f45fe-5822-4077-8a13-d3826f2a3f9f,Demographics
+603f45fe-5822-4077-8a13-d3826f2a3f9f,Water
+603f45fe-5822-4077-8a13-d3826f2a3f9f,Business
+c036fe05-fc8c-4ed9-90d7-a3bca25c9658,Criminal Justice
+ac1adb16-e10f-4fbf-a534-04c019b6b20e,Science & Research
+b73f3ca5-1c1f-4e7b-a3a1-b44b2eada8ce,Health
+b73f3ca5-1c1f-4e7b-a3a1-b44b2eada8ce,Climate
+8a5e7e9a-47cf-4ba8-a3d7-31676c3aeea6,Housing
+b8cc9586-1fbd-4290-b952-894dfb88429e,Agriculture
+851b58f7-b1ed-494d-bd47-1bde08b80197,Environment
+851b58f7-b1ed-494d-bd47-1bde08b80197,Housing
+4fda923a-c5c0-4561-b539-7f4e08d9d83e,Housing
+4fda923a-c5c0-4561-b539-7f4e08d9d83e,Labor
+4fda923a-c5c0-4561-b539-7f4e08d9d83e,Environment
+5c4e1f84-d326-4904-b14e-43dfa4d39f15,Geospatial
+1099474f-740f-47ea-92e9-45492707fca8,Environment
+767012f8-127b-4d04-9f69-87e17c8a5d0e,Labor
+52c43ee8-283a-46ac-890a-db02158bf626,Business
+8f1700f3-a423-4cb1-af44-b454a3d8daea,Finance
+8f1700f3-a423-4cb1-af44-b454a3d8daea,Labor
+8f1700f3-a423-4cb1-af44-b454a3d8daea,Housing
+6a5b9716-a884-4d19-9a26-1afd667facb2,Water
+f82889cf-6105-47f2-bc11-c8329dc6d4a0,Weather
+f82889cf-6105-47f2-bc11-c8329dc6d4a0,Criminal Justice
+f82889cf-6105-47f2-bc11-c8329dc6d4a0,Transportation
+d845cb00-3a9b-446c-aacf-1031f9dbafe5,Energy
+d845cb00-3a9b-446c-aacf-1031f9dbafe5,Health
+3353aa6c-f3e8-43a3-88fd-b67f265ae986,Water
+5d44ddab-f65c-4764-88a8-51dbe7eb447f,Environment
+5d44ddab-f65c-4764-88a8-51dbe7eb447f,Climate
+cdcfd5f6-0cbc-4c8a-9012-7ee166960c49,Social Services
+cdcfd5f6-0cbc-4c8a-9012-7ee166960c49,Labor
+0a93a0d8-43cb-495e-b47f-d1b6106cc535,Science & Research
+df1737bd-0eae-4d6d-9bec-414af21920f1,Public Safety
+df1737bd-0eae-4d6d-9bec-414af21920f1,Geospatial
+a5afd6db-cf4a-4d45-aa3b-4db615ef2c69,Education
+a5afd6db-cf4a-4d45-aa3b-4db615ef2c69,Business
+a5afd6db-cf4a-4d45-aa3b-4db615ef2c69,Public Safety
+4bd7cd32-789d-44db-91e1-d16b7b8b78d2,Geospatial
+4bd7cd32-789d-44db-91e1-d16b7b8b78d2,Education
+93446be4-fa46-404d-b778-33285a906b20,Education
+93446be4-fa46-404d-b778-33285a906b20,Geospatial
+215d88be-e1a8-43b0-bcca-75be1f75503d,Agriculture
+215d88be-e1a8-43b0-bcca-75be1f75503d,Labor
+0cec39be-904f-4069-97c4-ef4081f4f5c4,Science & Research
+0cec39be-904f-4069-97c4-ef4081f4f5c4,Finance
+0cec39be-904f-4069-97c4-ef4081f4f5c4,Geospatial
+bb35aaa2-b64b-445c-9682-89d85c399371,Climate
+3af6c0c2-2fd7-4377-9421-aff9486718fa,Transportation
+3bc282f6-e82f-45a6-8498-4ba87c63f1b3,Water
+3bc282f6-e82f-45a6-8498-4ba87c63f1b3,Housing
+099491ba-0a83-4af5-859e-5fe072a2627d,Demographics
+099491ba-0a83-4af5-859e-5fe072a2627d,Business
+35299406-ef64-4174-b33b-0aa8fe44a5c8,Housing
+35299406-ef64-4174-b33b-0aa8fe44a5c8,Finance
+d91fdfa4-ba2f-4b1c-a680-3acb75d07dd7,Climate
+d91fdfa4-ba2f-4b1c-a680-3acb75d07dd7,Health
+62e36a39-d4d7-4ea4-8591-2694a46308b6,Public Safety
+a6e5bab2-b555-469b-a516-8567ce175e0e,Geospatial
+ae82e2d3-a500-485f-8ccc-f4fb2694b41f,Public Safety
+7d1ddecb-83d3-4131-a1b1-6ef0b4a4d292,Elections
+7d1ddecb-83d3-4131-a1b1-6ef0b4a4d292,Science & Research
+7d1ddecb-83d3-4131-a1b1-6ef0b4a4d292,Agriculture
+f1d06af6-7212-4ea4-801e-b10e4c7f9ed9,Finance
+f1d06af6-7212-4ea4-801e-b10e4c7f9ed9,Social Services
+f1d06af6-7212-4ea4-801e-b10e4c7f9ed9,Criminal Justice
+4f0f0bbc-5be9-473a-8971-2bb8aa3918f8,Climate
+0793cafa-1513-41d4-8015-c6428356e7e0,Weather
+ff55ac19-5e8e-400e-b9f5-00177a5f323b,Criminal Justice
+6216df7f-afd7-43bd-82a0-4be0189db5f7,Climate
+6216df7f-afd7-43bd-82a0-4be0189db5f7,Water
+3cf27400-8682-4be6-8fc7-927c9f2211c7,Energy
+a1e9d1c2-e50e-4353-9542-0d23e02bd222,Criminal Justice
+a1e9d1c2-e50e-4353-9542-0d23e02bd222,Environment
+5cf27dc3-1168-4b1e-a48f-73234a8716b5,Climate
+5cf27dc3-1168-4b1e-a48f-73234a8716b5,Environment
+83e66125-d398-4cd7-9286-1a0900c999e9,Climate
+83e66125-d398-4cd7-9286-1a0900c999e9,Environment
+69e256b5-f7af-452c-aa5c-2047f8324b35,Elections
+f82b414b-c1bb-4b3a-a3a4-40fee0fffbf0,Transportation
+e5e2a6a4-06f7-4a97-aa7d-3369f60ced91,Geospatial
+a161b936-7c78-40f6-92fb-48e361a716f0,Transportation
+a161b936-7c78-40f6-92fb-48e361a716f0,Education
+a161b936-7c78-40f6-92fb-48e361a716f0,Criminal Justice
+6633cf17-8544-4f46-ba71-6234cdbc3b0c,Education
+6633cf17-8544-4f46-ba71-6234cdbc3b0c,Weather
+052e3204-7a4a-4dd9-889f-e4d2c380e930,Social Services
+3b123a2e-3898-4be2-bfd6-94af5367d6ae,Science & Research
+47906f0e-2b1e-4760-ad05-ba8615fba413,Business
+47906f0e-2b1e-4760-ad05-ba8615fba413,Science & Research
+47906f0e-2b1e-4760-ad05-ba8615fba413,Education
+3b7090b3-222a-4763-9e46-5fbeb37bf0c0,Labor
+3b7090b3-222a-4763-9e46-5fbeb37bf0c0,Transportation
+0202ea0c-3159-4f54-bc53-a868ed6a7ecc,Energy
+0202ea0c-3159-4f54-bc53-a868ed6a7ecc,Environment
+c700beef-b582-4390-be1c-593e78801cf7,Climate
+c700beef-b582-4390-be1c-593e78801cf7,Science & Research
+3aed8da1-5977-4854-9f1c-9e7bfb593d80,Housing
+e2f8d682-c566-45c1-b3dc-0c458650f0a3,Elections
+62e2c67e-dadf-480f-a034-9eeb1b3c5444,Finance
+62e2c67e-dadf-480f-a034-9eeb1b3c5444,Health
+5045b8c3-bff4-445c-8644-82d254bb09af,Weather
+f0525d38-aeb2-4e7f-a9fd-60ffff67ea27,Environment
+f0525d38-aeb2-4e7f-a9fd-60ffff67ea27,Finance
+ed8dbb6e-c5cb-4a1f-b317-dd6dd8cff788,Weather
+ed8dbb6e-c5cb-4a1f-b317-dd6dd8cff788,Business
+15fd3d6b-c2c0-448a-b271-105b24fe3f6c,Transportation
+f12c32ad-e201-4f98-b099-091f2fc93bb7,Transportation
+f12c32ad-e201-4f98-b099-091f2fc93bb7,Public Safety
+f12c32ad-e201-4f98-b099-091f2fc93bb7,Social Services
+8e4862a4-50ee-4d4a-b108-3ae00b2a472b,Finance
+8e4862a4-50ee-4d4a-b108-3ae00b2a472b,Elections
+1e874911-75f8-415d-ab3a-d64505c07ad2,Water
+54450956-a7ec-4a1b-96b9-5aedc63d7b45,Energy
+e0930d21-c48d-4c1c-afd8-1ef08d34dc57,Climate
+d49df10c-63a6-4ce5-bea7-2ab7e6455c21,Finance
+d49df10c-63a6-4ce5-bea7-2ab7e6455c21,Environment
+0c371d2b-fc9e-4482-85c8-d6699d337577,Business
+0c371d2b-fc9e-4482-85c8-d6699d337577,Social Services
+0c371d2b-fc9e-4482-85c8-d6699d337577,Education
+2fa3a9bb-fb70-4d36-9388-8dcb6ed40215,Finance
+2fa3a9bb-fb70-4d36-9388-8dcb6ed40215,Criminal Justice
+2fa3a9bb-fb70-4d36-9388-8dcb6ed40215,Public Safety
+d3125065-16bf-489c-ac55-88d22d5e6b05,Agriculture
+246afc47-470c-47aa-b577-faf35c4cbac8,Energy
+246afc47-470c-47aa-b577-faf35c4cbac8,Demographics
+246afc47-470c-47aa-b577-faf35c4cbac8,Science & Research
+70595c73-b1b5-48e0-b0ef-cc7981097351,Energy
+5813135d-96f5-4eaf-9ec4-1dbcd7af2a8e,Geospatial
+5813135d-96f5-4eaf-9ec4-1dbcd7af2a8e,Elections
+5813135d-96f5-4eaf-9ec4-1dbcd7af2a8e,Science & Research
+50fc2d59-01ae-4cad-a0d2-68ea96a2aecd,Social Services
+50fc2d59-01ae-4cad-a0d2-68ea96a2aecd,Water
+50fc2d59-01ae-4cad-a0d2-68ea96a2aecd,Geospatial
+8ad5374b-0b54-4570-8737-c3cbf1233f41,Water
+8ad5374b-0b54-4570-8737-c3cbf1233f41,Environment
+6e665f12-1c3f-4069-8f8f-1f10ae944d89,Education
+6e665f12-1c3f-4069-8f8f-1f10ae944d89,Water
+ddcde020-138a-498e-a417-4d34aa81330b,Transportation
+ddcde020-138a-498e-a417-4d34aa81330b,Energy
+ddcde020-138a-498e-a417-4d34aa81330b,Climate
+691fa8f9-1e9e-4b35-9f31-74e17cfd0f3e,Energy
+691fa8f9-1e9e-4b35-9f31-74e17cfd0f3e,Transportation
+6cc94d24-6f4f-4db0-be9d-d9e44b0563af,Agriculture
+a7197398-0fa4-49d3-b162-3413bfdc1910,Water
+a7197398-0fa4-49d3-b162-3413bfdc1910,Finance
+a7197398-0fa4-49d3-b162-3413bfdc1910,Criminal Justice
+cb97f0b3-8116-4586-a69d-3fa95bb2a1a9,Social Services
+cb97f0b3-8116-4586-a69d-3fa95bb2a1a9,Housing
+3f24ac79-0dcb-4023-a2d8-308bd32a2030,Demographics
+3f24ac79-0dcb-4023-a2d8-308bd32a2030,Science & Research
+3f24ac79-0dcb-4023-a2d8-308bd32a2030,Social Services
+907db9c5-9206-4827-9f6f-09532e425a08,Elections
+907db9c5-9206-4827-9f6f-09532e425a08,Energy
+907db9c5-9206-4827-9f6f-09532e425a08,Geospatial
+2cefe35f-a8f7-440c-b15c-e94c33ae449e,Labor
+2cefe35f-a8f7-440c-b15c-e94c33ae449e,Criminal Justice
+2cefe35f-a8f7-440c-b15c-e94c33ae449e,Housing
+cf916829-d0b6-47ad-a9c4-1256fc8aea1b,Business
+cf916829-d0b6-47ad-a9c4-1256fc8aea1b,Geospatial
+62e52c00-f7cb-4fe8-8a26-25596d88fe37,Environment
+62e52c00-f7cb-4fe8-8a26-25596d88fe37,Energy
+c35cb172-ff2d-445b-a54f-245d1e6461c9,Climate
+c35cb172-ff2d-445b-a54f-245d1e6461c9,Housing
+5e61239b-a73e-4b71-92a6-d062842745dc,Elections
+5e61239b-a73e-4b71-92a6-d062842745dc,Geospatial
+974649c9-10fa-4203-8803-333b84c98888,Weather
+974649c9-10fa-4203-8803-333b84c98888,Science & Research
+974649c9-10fa-4203-8803-333b84c98888,Elections
+1c58189a-01b3-4902-9655-35f0db764ee9,Housing
+17a7d129-680c-435c-a3b0-d2c9fc52dbb1,Elections
+c21ba164-807f-4ffc-b0f2-c98e2a2d3438,Finance
+3db4531d-c7b0-471b-b51b-640ca15ac948,Labor
+11cd9d9f-2d29-409e-8afc-ee9d88c5ed33,Energy
+11cd9d9f-2d29-409e-8afc-ee9d88c5ed33,Geospatial
+11cd9d9f-2d29-409e-8afc-ee9d88c5ed33,Climate
+ffceb475-f406-4cb5-a9fb-72b09f22b3f4,Health
+ffceb475-f406-4cb5-a9fb-72b09f22b3f4,Criminal Justice
+ffceb475-f406-4cb5-a9fb-72b09f22b3f4,Education
+60e90ae1-6296-49ae-b596-3c54e63f8114,Elections
+60e90ae1-6296-49ae-b596-3c54e63f8114,Transportation
+60e90ae1-6296-49ae-b596-3c54e63f8114,Agriculture
+dec3c7bd-437a-4982-ab10-74dc0a1396b3,Agriculture
+dec3c7bd-437a-4982-ab10-74dc0a1396b3,Water
+dec3c7bd-437a-4982-ab10-74dc0a1396b3,Demographics
+f38f4ade-8fbc-4404-b029-90105f3e4867,Geospatial
+f38f4ade-8fbc-4404-b029-90105f3e4867,Water
+4da150b2-8c5a-4fe3-877b-3e921130b2eb,Weather
+4da150b2-8c5a-4fe3-877b-3e921130b2eb,Criminal Justice
+9a4f2d03-458f-4cf7-917f-64a3fffeb429,Agriculture
+9a4f2d03-458f-4cf7-917f-64a3fffeb429,Geospatial
+9a4f2d03-458f-4cf7-917f-64a3fffeb429,Environment
+7a18543c-09ff-4b92-aa97-cdc272b22260,Climate
+7a18543c-09ff-4b92-aa97-cdc272b22260,Science & Research
+a84db451-5400-4472-a77f-4e710800b118,Environment
+a84db451-5400-4472-a77f-4e710800b118,Geospatial
+a84db451-5400-4472-a77f-4e710800b118,Energy
+08c892f1-837d-4083-b5bd-9a772019c82a,Transportation
+08c892f1-837d-4083-b5bd-9a772019c82a,Demographics
+c14ecae9-72b7-46d0-abf7-80d3f9b383e6,Labor
+c14ecae9-72b7-46d0-abf7-80d3f9b383e6,Transportation
+c14ecae9-72b7-46d0-abf7-80d3f9b383e6,Criminal Justice
+5ae1a5ab-e9ce-4448-979f-9e935ccfdba9,Education
+b08fc99c-21c1-4e7c-9c82-ed78080bf158,Water
+b08fc99c-21c1-4e7c-9c82-ed78080bf158,Elections
+b08fc99c-21c1-4e7c-9c82-ed78080bf158,Climate
+def97585-fb71-4da3-8e2d-958b490d15fa,Environment
+def97585-fb71-4da3-8e2d-958b490d15fa,Labor
+def97585-fb71-4da3-8e2d-958b490d15fa,Geospatial
+1b4d925d-eb89-4eda-b271-cd3fef9cd691,Health
+0422166a-11b5-4fc8-b8ad-c6aa50bb0e7f,Elections
+0422166a-11b5-4fc8-b8ad-c6aa50bb0e7f,Health
+307698c6-3f43-4b42-945b-59700fdc57c0,Housing
+2cbbf98a-d3f3-4ec5-810c-c09eb811b6ed,Education
+2cbbf98a-d3f3-4ec5-810c-c09eb811b6ed,Environment
+2914d0f1-8ea6-4aef-a395-840016275ed4,Housing
+2914d0f1-8ea6-4aef-a395-840016275ed4,Social Services
+a952b395-2417-406d-9569-f42eb3560503,Weather
+120e91c3-5eb0-4ff4-b452-220f6e5a171a,Labor
+64d02ecb-701b-49e2-8a66-bbf5712af31b,Criminal Justice
+64d02ecb-701b-49e2-8a66-bbf5712af31b,Housing
+93c99511-d408-4b82-8a9c-c65e0f60c7ff,Elections
+93c99511-d408-4b82-8a9c-c65e0f60c7ff,Transportation
+44f28f42-cac3-4724-8f78-050822f7afe4,Weather
+97f17a55-3b6a-4a7c-9368-c0ad507f40cf,Housing
+97f17a55-3b6a-4a7c-9368-c0ad507f40cf,Environment
+2b554fbb-ed04-4a35-b1fb-3b545d44779b,Housing
+2b554fbb-ed04-4a35-b1fb-3b545d44779b,Weather
+1f0f41fa-e265-4b75-be91-b58cffe8cd38,Geospatial
+7b8f2152-09f7-4377-9f60-e512fa4b8262,Climate
+7e0a3b81-ec5f-46c8-b6a3-ccd9d427f099,Transportation
+7e0a3b81-ec5f-46c8-b6a3-ccd9d427f099,Energy
+084373eb-4846-41eb-bc57-bf205d878b93,Environment
+084373eb-4846-41eb-bc57-bf205d878b93,Energy
+09c6295b-c2e4-48bd-a355-4796d05e1448,Public Safety
+09c6295b-c2e4-48bd-a355-4796d05e1448,Science & Research
+09c6295b-c2e4-48bd-a355-4796d05e1448,Geospatial
+5dce51a9-1d14-44a5-b2a8-2cbb781beb52,Demographics
+ceef6405-5b1f-490d-91ed-88affb4f8435,Social Services
+ceef6405-5b1f-490d-91ed-88affb4f8435,Transportation
+ceef6405-5b1f-490d-91ed-88affb4f8435,Agriculture
+6a5803f9-4ca6-4003-9706-b6cb959bd715,Weather
+6a5803f9-4ca6-4003-9706-b6cb959bd715,Finance
+6a5803f9-4ca6-4003-9706-b6cb959bd715,Transportation
+90578967-ee86-4d9f-a48e-a7fd4d99a2e4,Environment
+0e90abee-c45b-4d1f-9c76-2fab463e7b57,Water
+0e90abee-c45b-4d1f-9c76-2fab463e7b57,Science & Research
+8e3d8a69-3bbb-4c4d-a549-3ffac4e1627d,Transportation
+00197eba-e357-40c1-92e4-9945f297680f,Finance
+00197eba-e357-40c1-92e4-9945f297680f,Labor
+00197eba-e357-40c1-92e4-9945f297680f,Science & Research
+072e4863-a9c6-4996-903b-301636017337,Environment
+072e4863-a9c6-4996-903b-301636017337,Education
+77c0e5f8-3fd9-4a98-8e4a-1374f30647be,Health
+790fd388-ad16-4665-a375-dee05c55a5c7,Water
+790fd388-ad16-4665-a375-dee05c55a5c7,Environment
+09ace598-5dbc-441c-bad0-ed104ebefff8,Labor
+09ace598-5dbc-441c-bad0-ed104ebefff8,Criminal Justice
+09ace598-5dbc-441c-bad0-ed104ebefff8,Health
+6d6ce544-d9fe-4a23-bb99-6a7c2cdeb1e3,Demographics
+6d6ce544-d9fe-4a23-bb99-6a7c2cdeb1e3,Education
+6d6ce544-d9fe-4a23-bb99-6a7c2cdeb1e3,Energy
+45c12d0f-b7cc-4858-8426-0c0ed5e9d71d,Science & Research
+45c12d0f-b7cc-4858-8426-0c0ed5e9d71d,Finance
+45c12d0f-b7cc-4858-8426-0c0ed5e9d71d,Housing
+f3ebfc28-7f11-42e8-b2a4-fbda13ec9bde,Health
+7e79c371-2dfc-4e30-a9f9-17c64e45ae59,Labor
+7e79c371-2dfc-4e30-a9f9-17c64e45ae59,Social Services
+7e79c371-2dfc-4e30-a9f9-17c64e45ae59,Public Safety
+e9a425b2-0727-412d-a904-7b659b44e44c,Water
+e1a9ec4f-e662-40a4-be59-e25e34ae6239,Weather
+e1a9ec4f-e662-40a4-be59-e25e34ae6239,Environment
+e1a9ec4f-e662-40a4-be59-e25e34ae6239,Demographics
+aaf288da-cb2c-4a50-8db4-af3e42733f73,Demographics
+159393f5-655e-41d1-a226-485a5c4cd752,Housing
+159393f5-655e-41d1-a226-485a5c4cd752,Environment
+159393f5-655e-41d1-a226-485a5c4cd752,Education
+56f0e3ee-6514-4bbf-8994-bada48aa6f81,Transportation
+56f0e3ee-6514-4bbf-8994-bada48aa6f81,Water
+56f0e3ee-6514-4bbf-8994-bada48aa6f81,Finance
+14089563-0204-44e9-bd16-f742c4b6fc5a,Climate
+84458e5a-695b-434d-bf88-c3b03b20fc93,Geospatial
+84458e5a-695b-434d-bf88-c3b03b20fc93,Criminal Justice
+84458e5a-695b-434d-bf88-c3b03b20fc93,Environment
+025b12af-a986-4bab-ace4-c38c9cadb767,Climate
+025b12af-a986-4bab-ace4-c38c9cadb767,Demographics
+025b12af-a986-4bab-ace4-c38c9cadb767,Transportation
+955ec7ce-c1f9-4e1a-b454-49e5b92d3cff,Education
+955ec7ce-c1f9-4e1a-b454-49e5b92d3cff,Finance
+955ec7ce-c1f9-4e1a-b454-49e5b92d3cff,Geospatial
+4c08faa5-d441-4a56-93e1-aadcf4a4a682,Agriculture
+4c08faa5-d441-4a56-93e1-aadcf4a4a682,Transportation
+4c08faa5-d441-4a56-93e1-aadcf4a4a682,Criminal Justice
+4d438a86-b4c5-4ddd-bd8e-4ad96adc00df,Energy
+4d438a86-b4c5-4ddd-bd8e-4ad96adc00df,Agriculture
+77361be6-3e18-469b-a34f-b5c460325746,Environment
+77361be6-3e18-469b-a34f-b5c460325746,Education
+5f0bf607-e993-4243-82c7-254e8fa4c0d1,Social Services
+5410a960-6816-4a74-bfa9-8381687b983e,Energy
+6666dbec-d6f1-4aed-bbe5-aff3f8c44296,Elections
+9ba74624-f043-4758-b5cf-ee79f91b3772,Weather
+9ba74624-f043-4758-b5cf-ee79f91b3772,Finance
+b482f747-587a-4114-8dfd-b35f219ecaec,Housing
+be9186bb-4069-4260-b629-3f7dba2a1ae6,Education
+be9186bb-4069-4260-b629-3f7dba2a1ae6,Criminal Justice
+0843118b-7562-4420-9639-ed23b51c4713,Elections
+0843118b-7562-4420-9639-ed23b51c4713,Finance
+1ea4886d-f13e-42b2-b9f1-ddd95b737d68,Climate
+1ea4886d-f13e-42b2-b9f1-ddd95b737d68,Education
+1ea4886d-f13e-42b2-b9f1-ddd95b737d68,Science & Research
+d92ce834-8030-4b3b-ae03-8e1d0ba71727,Labor
+0f91a780-8d68-4589-b01c-a2e7c02a8ef9,Water
+0f91a780-8d68-4589-b01c-a2e7c02a8ef9,Health
+b67682e4-a6fd-4585-9f17-4528dcd07b88,Energy
+b67682e4-a6fd-4585-9f17-4528dcd07b88,Environment
+b67682e4-a6fd-4585-9f17-4528dcd07b88,Climate
+2c3e8e18-3c05-487f-aca6-c4d894bd9449,Water
+2c3e8e18-3c05-487f-aca6-c4d894bd9449,Public Safety
+2c3e8e18-3c05-487f-aca6-c4d894bd9449,Labor
+3d90bda4-cdaf-4ca5-b2e7-47d237425a38,Public Safety
+3d90bda4-cdaf-4ca5-b2e7-47d237425a38,Business
+79da096c-a24d-4615-a477-cb6daee712cd,Public Safety
+8aaaa939-c718-4893-95c0-6caf5d51fc29,Climate
+daeda945-ac74-44fa-8cb8-5adf7ad23186,Environment
+e723c1bd-bddd-48ee-b3d0-ff308cec682c,Education
+bd0d91de-ee48-48ad-986f-205f4df735dc,Labor
+bd0d91de-ee48-48ad-986f-205f4df735dc,Science & Research
+e7d93d50-e263-4791-b8b3-ef14e102439c,Elections
+e7d93d50-e263-4791-b8b3-ef14e102439c,Weather
+e7d93d50-e263-4791-b8b3-ef14e102439c,Energy
+ae260180-f45d-4d89-bc1c-afbf1e16b1bd,Housing
+30358b1d-e2de-4da1-9d44-50836de59864,Geospatial
+30358b1d-e2de-4da1-9d44-50836de59864,Housing
+30358b1d-e2de-4da1-9d44-50836de59864,Demographics
+7214231e-3e01-4101-b93e-432c401ff7b4,Social Services
+7214231e-3e01-4101-b93e-432c401ff7b4,Science & Research
+995da8c3-0466-4337-8334-450eb57e2cfc,Energy
+5fc60c67-52f1-410a-8ddc-c36f2ea08eef,Weather
+5fc60c67-52f1-410a-8ddc-c36f2ea08eef,Criminal Justice
+5fc60c67-52f1-410a-8ddc-c36f2ea08eef,Energy
+84c2d337-84a2-41d6-adc7-44abe1dd066a,Geospatial
+84c2d337-84a2-41d6-adc7-44abe1dd066a,Health
+b988283c-fd9d-4df3-8c19-78d7abd7c5cc,Science & Research
+b988283c-fd9d-4df3-8c19-78d7abd7c5cc,Agriculture
+b988283c-fd9d-4df3-8c19-78d7abd7c5cc,Weather
+dc3ac505-7085-4da6-adf4-627e60e97aaa,Agriculture
+1813ca05-9954-4192-9369-13a6881fb328,Environment
+442cb09a-61c1-41d9-a08e-d49968e57a10,Demographics
+530b2273-cb14-4445-a849-80c9d94a2f9b,Health
+cb5065ff-0133-4515-86c5-b27cf0ca5a19,Environment
+cb5065ff-0133-4515-86c5-b27cf0ca5a19,Transportation
+cb5065ff-0133-4515-86c5-b27cf0ca5a19,Finance
+72aa3e5d-edaf-4bfc-a022-ac4e553cbbd0,Elections
+a6ef5f5d-2055-417b-bc8b-0a1a03082f51,Finance
+d733bc47-9681-47f0-b316-5287b31173b5,Education
+d733bc47-9681-47f0-b316-5287b31173b5,Science & Research
+d733bc47-9681-47f0-b316-5287b31173b5,Environment
+96f5c6b4-b7fe-46ea-8207-9fe27b700607,Science & Research
+abc1d5b1-3790-4872-bc81-86613032621a,Housing
+abc1d5b1-3790-4872-bc81-86613032621a,Business
+5fb01bb1-a772-4f74-aa74-1b01cbfd70eb,Transportation
+5fb01bb1-a772-4f74-aa74-1b01cbfd70eb,Education
+2c1522ff-5632-4751-bf6b-ab2ceb48bc26,Education
+34081c6f-b910-474f-90dc-a6ceaf839c0b,Climate
+34081c6f-b910-474f-90dc-a6ceaf839c0b,Water
+33f53d05-e932-43ae-adc0-0a3a33e700d3,Weather
+33f53d05-e932-43ae-adc0-0a3a33e700d3,Health
+2667e287-7aae-4b15-a3ea-675ab6a310b2,Water
+2667e287-7aae-4b15-a3ea-675ab6a310b2,Weather
+6b321da8-3a70-41c0-a766-a748568b21b5,Transportation
+2e9c3354-a25c-4c4c-8907-ec7e26f55c35,Labor
+2e9c3354-a25c-4c4c-8907-ec7e26f55c35,Transportation
+b50e5ec3-de81-4dda-b5d0-1a02015a30fa,Climate
+838e05bf-8116-440e-8aff-77b93b696f8b,Education
+838e05bf-8116-440e-8aff-77b93b696f8b,Science & Research
+da6e91f6-788a-451b-8c4f-5a5b7cde8765,Environment
+da6e91f6-788a-451b-8c4f-5a5b7cde8765,Transportation
+da6e91f6-788a-451b-8c4f-5a5b7cde8765,Agriculture
+fcf1d22b-5f09-4da9-b709-5294cc940ed0,Energy
+fcf1d22b-5f09-4da9-b709-5294cc940ed0,Health
+fcf1d22b-5f09-4da9-b709-5294cc940ed0,Weather
+7c81796d-b63b-4903-934a-139adc892c60,Water
+7c81796d-b63b-4903-934a-139adc892c60,Business
+8500065b-c71f-4dda-8f2e-7b43632156c8,Business
+8500065b-c71f-4dda-8f2e-7b43632156c8,Energy
+8500065b-c71f-4dda-8f2e-7b43632156c8,Geospatial
+79da8a46-1259-462d-a87a-187088854f2c,Geospatial
+79da8a46-1259-462d-a87a-187088854f2c,Public Safety
+87da59b8-5013-4221-9d6f-b2bf656925ea,Climate
+07ecd953-b417-4d4f-b223-76a911714c66,Social Services
+573ce024-319c-424e-a035-bb738f051030,Weather
+573ce024-319c-424e-a035-bb738f051030,Labor
+573ce024-319c-424e-a035-bb738f051030,Demographics
+d7b38ac5-37e0-46d2-921e-65a774cc3d52,Agriculture
+d7b38ac5-37e0-46d2-921e-65a774cc3d52,Housing
+92e346dc-034e-47cf-96cc-61635f4b7154,Education
+92e346dc-034e-47cf-96cc-61635f4b7154,Water
+ecda8af4-3724-4fa9-bb08-2977b88da46d,Public Safety
+d00ae0e7-a14f-49b4-9e0c-e3b6e8caa225,Public Safety
+9c6e9b61-d13a-4569-8c28-4f68b209dfb4,Science & Research
+9c6e9b61-d13a-4569-8c28-4f68b209dfb4,Education
+1b3d534a-fa26-4571-92d3-a5b82f7af742,Science & Research
+c1353fb7-c03e-4d27-aba4-5cfc341563ae,Transportation
+c1353fb7-c03e-4d27-aba4-5cfc341563ae,Business
+fd11da84-1ecc-4751-82f4-94225f3c3e92,Climate
+fd11da84-1ecc-4751-82f4-94225f3c3e92,Finance
+198a18a8-1fb1-4cb8-bfa6-9216779111ff,Education
+198a18a8-1fb1-4cb8-bfa6-9216779111ff,Energy
+198a18a8-1fb1-4cb8-bfa6-9216779111ff,Water
+a9972d34-9d23-4574-b2a8-4cff9e591f0c,Transportation
+a9972d34-9d23-4574-b2a8-4cff9e591f0c,Education
+4ef4d50d-ab91-41d6-ad72-50afe9a63560,Health
+4ef4d50d-ab91-41d6-ad72-50afe9a63560,Labor
+4ef4d50d-ab91-41d6-ad72-50afe9a63560,Criminal Justice
+53d86ca6-88cb-40e3-9f01-a5db56cf0a48,Environment
+570fb8bf-97df-4ca8-9b28-2c512ed9223b,Criminal Justice
+570fb8bf-97df-4ca8-9b28-2c512ed9223b,Housing
+570fb8bf-97df-4ca8-9b28-2c512ed9223b,Demographics
+acc6aa87-592a-4b1d-b725-5bf8ed75785c,Science & Research
+9a2d0873-0481-4cc4-a516-db0bd20df6d6,Business
+9a2d0873-0481-4cc4-a516-db0bd20df6d6,Environment
+9a2d0873-0481-4cc4-a516-db0bd20df6d6,Social Services
+2516e6f5-be6a-4e66-84bc-d98e56c6ee6f,Labor
+2516e6f5-be6a-4e66-84bc-d98e56c6ee6f,Environment
+2ad5df1a-24a3-4426-a447-825cfbdeac41,Science & Research
+2ad5df1a-24a3-4426-a447-825cfbdeac41,Education
+2ad5df1a-24a3-4426-a447-825cfbdeac41,Health
+282d73a5-95fc-41a7-bf08-9d318aa234dc,Environment
+bf260f47-2828-45b6-b9b1-f29323a48ea6,Labor
+bf260f47-2828-45b6-b9b1-f29323a48ea6,Geospatial
+8566f987-9819-48f6-87f5-49bb2534eeb9,Transportation
+8566f987-9819-48f6-87f5-49bb2534eeb9,Business
+8566f987-9819-48f6-87f5-49bb2534eeb9,Water
+c3a73227-5a73-4dcb-b4f1-246ad5abf0d9,Energy
+c3a73227-5a73-4dcb-b4f1-246ad5abf0d9,Transportation
+c3a73227-5a73-4dcb-b4f1-246ad5abf0d9,Weather
+ec472405-7886-4bac-883e-f50d9e4eb256,Water
+5c6a6c4f-63bb-4aaf-b46f-1fce98bfebef,Environment
+5c6a6c4f-63bb-4aaf-b46f-1fce98bfebef,Criminal Justice
+2d700973-5e89-40e3-82c9-617e08984c75,Environment
+2bfea60b-e8e2-4133-971e-8f9a03eb4582,Science & Research
+2bfea60b-e8e2-4133-971e-8f9a03eb4582,Business
+8ff5c340-1ea8-4fd2-a532-0fa9eeef644a,Finance
+0a8601b0-0c86-45c6-b82f-97f0c9c27d3a,Public Safety
+9a1a4d85-cf71-4dfc-a8c3-728dff86780b,Finance
+0bfbd6f8-6c94-4963-8ba4-e7d7272ac643,Geospatial
+7a766ba7-8d66-4dee-9e88-1ed5d89a05cf,Labor
+7a766ba7-8d66-4dee-9e88-1ed5d89a05cf,Business
+c216b548-bf11-4c7b-9f97-5adcf52f98e3,Criminal Justice
+c216b548-bf11-4c7b-9f97-5adcf52f98e3,Social Services
+c216b548-bf11-4c7b-9f97-5adcf52f98e3,Housing
+f12470f1-d0a3-45d6-a5b8-91df1ada4e26,Health
+02784dc2-4f58-4c7a-ae4a-61526d6b906a,Transportation
+2980f172-4325-452e-89e1-687bab0eb208,Education
+2980f172-4325-452e-89e1-687bab0eb208,Demographics
+bd2f3f84-f268-4788-b66d-b67432c42cfd,Housing
+e26e5433-8371-468d-a9de-9ebc6693571d,Criminal Justice
+63dd0cf6-1749-4ae7-841c-018fbc59c3b5,Demographics
+d6520c8e-3584-4500-bd26-ea150484fd8f,Labor
+d6520c8e-3584-4500-bd26-ea150484fd8f,Climate
+4ebc3b3b-14a2-4647-b046-db4bfcce1fdd,Climate
+4ebc3b3b-14a2-4647-b046-db4bfcce1fdd,Finance
+eed76d69-2dd9-48ff-976d-571c093069f6,Labor
+eed76d69-2dd9-48ff-976d-571c093069f6,Climate
+84d220ec-bca7-4f8b-a100-8dc7b8f88017,Business
+84d220ec-bca7-4f8b-a100-8dc7b8f88017,Elections
+9ca725e7-5e60-4291-b10d-d74e03ed8561,Finance
+9ca725e7-5e60-4291-b10d-d74e03ed8561,Elections
+7a16e0a5-1370-4d87-bec2-57e987862318,Labor
+7a16e0a5-1370-4d87-bec2-57e987862318,Science & Research
+416400ef-8436-4514-89ba-dd66645b0673,Geospatial
+416400ef-8436-4514-89ba-dd66645b0673,Climate
+3deb0529-0521-4e6c-90b4-eaafe7d14e22,Business
+3deb0529-0521-4e6c-90b4-eaafe7d14e22,Weather
+a0d1ba0a-f897-4b2f-96a3-41e44405ca5f,Demographics
+a0d1ba0a-f897-4b2f-96a3-41e44405ca5f,Public Safety
+a0d1ba0a-f897-4b2f-96a3-41e44405ca5f,Education
+9bcc8b4f-aa07-489e-8f17-be96c770153f,Criminal Justice
+9bcc8b4f-aa07-489e-8f17-be96c770153f,Agriculture
+11c8fa06-8e5f-4cf3-a2c3-3609ee9899ba,Elections
+11c8fa06-8e5f-4cf3-a2c3-3609ee9899ba,Health
+11c8fa06-8e5f-4cf3-a2c3-3609ee9899ba,Finance
+def2ff0d-c0c9-4f8b-a3cd-5eefcdda0a35,Social Services
+76086209-f2e8-4d0a-ba06-f72d5a0b7324,Criminal Justice
+1bd866e8-aec1-4104-8783-8478cc3aa745,Criminal Justice
+1bd866e8-aec1-4104-8783-8478cc3aa745,Finance
+1bd866e8-aec1-4104-8783-8478cc3aa745,Demographics
+eeb3c101-b6b4-427a-8880-5c23ec21c702,Social Services
+eeb3c101-b6b4-427a-8880-5c23ec21c702,Labor
+ba891457-5e83-4730-b226-8ae7c591a4e7,Transportation
+53674ffb-ec45-4e11-b142-5ebc791bb1a5,Finance
+e8a08c81-9e2c-4a49-a689-6666c0f19906,Elections
+e8a08c81-9e2c-4a49-a689-6666c0f19906,Labor
+5bae0a42-ad1c-47f5-b942-f0b75a54d168,Energy
+5bae0a42-ad1c-47f5-b942-f0b75a54d168,Criminal Justice
+5bae0a42-ad1c-47f5-b942-f0b75a54d168,Social Services
+3a038398-037f-494f-9138-48821d10cc43,Criminal Justice
+3a038398-037f-494f-9138-48821d10cc43,Social Services
+6f7ae625-05e5-4201-aad9-ed79a5dbd0c2,Climate
+6f7ae625-05e5-4201-aad9-ed79a5dbd0c2,Weather
+a1fb2ac4-16c8-40d2-9c4f-f9f576bebb79,Finance
+a1fb2ac4-16c8-40d2-9c4f-f9f576bebb79,Geospatial
+8bd32344-7c7e-4498-9d8e-870976e208e1,Business
+8bd32344-7c7e-4498-9d8e-870976e208e1,Geospatial
+17b38702-083b-47fc-81b5-5d57aaac4561,Energy
+17b38702-083b-47fc-81b5-5d57aaac4561,Finance
+43e0a52e-bb69-4192-be3f-07e549e7e825,Education
+43e0a52e-bb69-4192-be3f-07e549e7e825,Environment
+5772655b-78ec-4a3a-8a4b-4fbe1e5a45f4,Environment
+74d90dba-4908-409b-bf10-14f3c8af47b8,Water
+74d90dba-4908-409b-bf10-14f3c8af47b8,Transportation
+74d90dba-4908-409b-bf10-14f3c8af47b8,Public Safety
+74672efb-879b-4ed6-bd96-29b26a031609,Public Safety
+74672efb-879b-4ed6-bd96-29b26a031609,Transportation
+74672efb-879b-4ed6-bd96-29b26a031609,Finance
+61704799-cb74-4969-b839-78d228b92a44,Transportation
+61704799-cb74-4969-b839-78d228b92a44,Housing
+958cf4df-6c37-49dd-992b-6d05cba79f5d,Social Services
+4c539cc1-9962-4fa9-9a4a-07fd2834e397,Business
+4c539cc1-9962-4fa9-9a4a-07fd2834e397,Geospatial
+ffa23a9c-6f91-425c-b72c-078951affc2a,Environment
+ffa23a9c-6f91-425c-b72c-078951affc2a,Labor
+785e38e7-cfda-4d03-8cc9-4d1072778af0,Energy
+785e38e7-cfda-4d03-8cc9-4d1072778af0,Social Services
+cc9fd23f-a349-48af-9d0b-683dcc96ff51,Transportation
+cc9fd23f-a349-48af-9d0b-683dcc96ff51,Environment
+cc9fd23f-a349-48af-9d0b-683dcc96ff51,Social Services
+8392a742-3df8-47b8-a14e-36606601abb9,Demographics
+8392a742-3df8-47b8-a14e-36606601abb9,Agriculture
+d8388070-bb1a-40fa-9b71-285c35c379c5,Public Safety
+d8388070-bb1a-40fa-9b71-285c35c379c5,Finance
+d8388070-bb1a-40fa-9b71-285c35c379c5,Health
+466b3554-ac7c-4d5a-b51a-f8d96e89ceb9,Environment
+466b3554-ac7c-4d5a-b51a-f8d96e89ceb9,Agriculture
+64cabaa9-008e-4e55-a5f0-f99aa2cd58ca,Science & Research
+79cf5175-c973-4fad-ae21-8547f089eadd,Demographics
+79cf5175-c973-4fad-ae21-8547f089eadd,Finance
+9152e21f-b1df-479a-af67-05b6d92f9d61,Climate
+9152e21f-b1df-479a-af67-05b6d92f9d61,Transportation
+9152e21f-b1df-479a-af67-05b6d92f9d61,Social Services
+bd4b5218-156f-4483-aacb-0bb8cc2f5662,Public Safety
+bd4b5218-156f-4483-aacb-0bb8cc2f5662,Water
+1819e927-e9af-4b8c-9498-8f1cc53078e7,Health
+1819e927-e9af-4b8c-9498-8f1cc53078e7,Climate
+b44e846a-2bfc-4e47-a06b-1bec346a48ea,Public Safety
+b44e846a-2bfc-4e47-a06b-1bec346a48ea,Agriculture
+76612320-201e-4562-ac9b-4c4f52326d85,Energy
+76612320-201e-4562-ac9b-4c4f52326d85,Water
+76612320-201e-4562-ac9b-4c4f52326d85,Social Services
+796e22c3-ceba-4d4c-a39f-14aab74b050e,Climate
+ddabc1e1-cc71-479d-b7e9-339cac19e546,Geospatial
+ddabc1e1-cc71-479d-b7e9-339cac19e546,Water
+9e97cc06-83e7-419c-b6ad-7c6e9940eacf,Housing
+9e97cc06-83e7-419c-b6ad-7c6e9940eacf,Geospatial
+74379c61-a104-425b-9e14-d4f9124f0cef,Water
+74379c61-a104-425b-9e14-d4f9124f0cef,Elections
+74379c61-a104-425b-9e14-d4f9124f0cef,Public Safety
+6fd0d600-cf16-443b-976b-2ec507d34699,Public Safety
+6fd0d600-cf16-443b-976b-2ec507d34699,Energy
+6fd0d600-cf16-443b-976b-2ec507d34699,Water
+951fc366-2530-4b59-bd46-8ab7af40f89e,Transportation
+951fc366-2530-4b59-bd46-8ab7af40f89e,Water
+b6f0164c-52a5-4d8f-9003-73dda24033d8,Social Services
+c43efca7-c06e-42b0-94a6-dd00a46fea11,Water
+c43efca7-c06e-42b0-94a6-dd00a46fea11,Elections
+6ccba48e-60b0-4a38-aece-a238bc826286,Energy
+6ccba48e-60b0-4a38-aece-a238bc826286,Science & Research
+8fafd708-7f27-41db-8aeb-d6a3679c97ee,Criminal Justice
+52dca132-a8c5-42e0-b877-4100c9361750,Education
+52dca132-a8c5-42e0-b877-4100c9361750,Social Services
+52dca132-a8c5-42e0-b877-4100c9361750,Energy
+dbd6f154-03e1-407a-8496-f99e98a55f17,Demographics
+dbd6f154-03e1-407a-8496-f99e98a55f17,Energy
+dbd6f154-03e1-407a-8496-f99e98a55f17,Weather
+51b47f7e-773e-429e-90cf-e17622c791ec,Elections
+51b47f7e-773e-429e-90cf-e17622c791ec,Geospatial
+51b47f7e-773e-429e-90cf-e17622c791ec,Business
+52cffb9a-e5db-473b-8e61-e51e4bf8e912,Energy
+52cffb9a-e5db-473b-8e61-e51e4bf8e912,Agriculture
+d4049941-03d5-4475-a1db-365bcc709a0e,Water
+28af1e8e-7383-4a1b-9cd9-2e27e9b317ee,Finance
+d683c7a3-9cf3-41cc-8de4-fc83635438ee,Social Services
+d683c7a3-9cf3-41cc-8de4-fc83635438ee,Health
+a9a3ff82-a177-4e46-ac79-6eb101e02cbb,Business
+a9a3ff82-a177-4e46-ac79-6eb101e02cbb,Weather
+a1215b65-fcb8-4c9d-8dfe-cda2b01ca6b2,Demographics
+c77d48da-8dc2-4f6e-915e-52b4a3d8ea1a,Environment
+c77d48da-8dc2-4f6e-915e-52b4a3d8ea1a,Business
+f3eda38d-6150-47f6-8a14-4f4f5065f377,Environment
+f3eda38d-6150-47f6-8a14-4f4f5065f377,Elections
+e450bf60-7203-4bb3-b3c1-50d4d7640af6,Transportation
+4126baa9-d725-4779-b10f-9299e06904ca,Health
+4126baa9-d725-4779-b10f-9299e06904ca,Business
+4126baa9-d725-4779-b10f-9299e06904ca,Agriculture
+2c941f67-5cc2-4b4e-8bf3-e08e7c7f0514,Environment
+2c941f67-5cc2-4b4e-8bf3-e08e7c7f0514,Housing
+aba24884-d5c4-480a-945a-d51f2f5e7a9e,Criminal Justice
+bb116e1a-e872-4800-b246-54e7a28879ec,Business
+bb116e1a-e872-4800-b246-54e7a28879ec,Climate
+50c3b587-8987-429e-83a6-26ddd68d91ba,Geospatial
+65a41df3-4876-42ab-83db-8ac2e0079c2c,Geospatial
+0725ccf9-b48f-4956-a8ec-8e4330996b66,Science & Research
+0f3b5779-ab7b-4709-8df8-9322833278fb,Social Services
+90a48a46-caeb-48b9-96c3-997080f125ac,Science & Research
+90a48a46-caeb-48b9-96c3-997080f125ac,Labor
+90a48a46-caeb-48b9-96c3-997080f125ac,Housing
+65125398-fa2c-4a85-b6dc-e0d6494c4eeb,Transportation
+d40aa760-06d6-411e-a45a-4c71348ae786,Health
+d40aa760-06d6-411e-a45a-4c71348ae786,Criminal Justice
+d40aa760-06d6-411e-a45a-4c71348ae786,Environment
+aec0641c-c8bb-4470-a511-03105ae0dffd,Housing
+c6dff0e4-f698-4142-b754-d54c7066e590,Public Safety
+4658ef48-aa6e-486d-bc6f-a18515ecddec,Health
+4658ef48-aa6e-486d-bc6f-a18515ecddec,Transportation
+c7395d2a-1f4d-4641-8b22-8179cccacb4d,Finance
+c7395d2a-1f4d-4641-8b22-8179cccacb4d,Water
+d5247823-e371-4516-94b5-8ffa73f28cd4,Transportation
+2234bc05-9be7-4778-a1fd-82b003ef7af7,Water
+a02f846f-5141-48e3-81c4-0cce6df86956,Demographics
+a02f846f-5141-48e3-81c4-0cce6df86956,Education
+a02f846f-5141-48e3-81c4-0cce6df86956,Transportation
+65bf7e00-a5f3-4aa1-b9cf-c29130ffbbaa,Education
+cb3c6f40-1ad8-4d05-af16-0493fcc99ee4,Water
+9740f187-657a-49b3-8a51-ef1d73bd0362,Elections
+9740f187-657a-49b3-8a51-ef1d73bd0362,Weather
+b78132df-5b9a-4b41-ae4d-638580d3a2e2,Business
+4d514dba-d22c-477d-a0ea-df08bbb5a8cd,Finance
+baf20a91-afad-49b2-877d-21d0888780aa,Finance
+dbb2eb0f-981a-436f-b19e-fd2dbceac409,Geospatial
+9dac45f0-e599-4a60-9c08-b6c144a6db82,Water
+9dac45f0-e599-4a60-9c08-b6c144a6db82,Demographics
+f2c592de-6570-4af1-8baf-3633795e758d,Education
+ec70c462-4fdb-4a66-9aac-30b1717fe8df,Housing
+8666dcbf-9180-44c2-b6a8-8b01332af4ba,Transportation
+ad78a864-e9ef-43d8-9f2b-0433cfcd4e54,Environment
+ad78a864-e9ef-43d8-9f2b-0433cfcd4e54,Water
+ad78a864-e9ef-43d8-9f2b-0433cfcd4e54,Weather
+9d86231c-4fdd-4335-b576-6ec015e3c555,Criminal Justice
+9a6ea86b-dc67-494f-87e1-415d66fb88dd,Geospatial
+f94763d8-41c7-4fa8-b7f7-66471e4993d6,Demographics
+f94763d8-41c7-4fa8-b7f7-66471e4993d6,Transportation
+90f0e471-b329-48b4-86c0-1166ef316cfd,Elections
+90f0e471-b329-48b4-86c0-1166ef316cfd,Energy
+81ea0704-2500-4cc3-846d-5db7911f8c37,Finance
+81ea0704-2500-4cc3-846d-5db7911f8c37,Water
+81ea0704-2500-4cc3-846d-5db7911f8c37,Social Services
+59a7a156-53a1-40e0-b8ba-509cd1654235,Water
+59a7a156-53a1-40e0-b8ba-509cd1654235,Housing
+d85804c8-c3ed-458b-9fc2-498f329f4e23,Business
+d85804c8-c3ed-458b-9fc2-498f329f4e23,Finance
+113e24c3-f6b7-4b46-aacf-1111c55b49d2,Demographics
+dc4f482d-88c5-441f-8ee7-08a0efd82c4d,Social Services
+dc4f482d-88c5-441f-8ee7-08a0efd82c4d,Energy
+c8124387-e308-4e27-b953-f084b28a7eb9,Science & Research
+c8124387-e308-4e27-b953-f084b28a7eb9,Public Safety
+410455ef-0cfb-4e27-997d-d56a501ae2e9,Energy
+484d02f3-d97b-4795-8638-104921e48206,Labor
+484d02f3-d97b-4795-8638-104921e48206,Business
+484d02f3-d97b-4795-8638-104921e48206,Agriculture
+91ac1cc6-d631-4d5c-93ce-b3718e0ff457,Transportation
+91ac1cc6-d631-4d5c-93ce-b3718e0ff457,Public Safety
+39362606-5c37-4094-8204-533014c08553,Transportation
+d28a5509-5324-4035-b49d-3f51919ec284,Demographics
+d28a5509-5324-4035-b49d-3f51919ec284,Science & Research
+d28a5509-5324-4035-b49d-3f51919ec284,Elections
+79f469a6-4711-4e76-bfa9-5f6786560633,Education
+79f469a6-4711-4e76-bfa9-5f6786560633,Labor
+e8dbefbb-95ef-4f88-83f9-3207e19f1674,Agriculture
+e8dbefbb-95ef-4f88-83f9-3207e19f1674,Housing
+e8dbefbb-95ef-4f88-83f9-3207e19f1674,Business
+67524775-0593-4a59-8fcd-c26f86bc689c,Criminal Justice
+66282899-bed3-4297-93cb-99f5c9a9e7df,Transportation
+8b5c6488-4428-4561-a35f-8a6cfa3aadd4,Finance
+8b5c6488-4428-4561-a35f-8a6cfa3aadd4,Science & Research
+8b5c6488-4428-4561-a35f-8a6cfa3aadd4,Transportation
+d19c64bb-a01c-409f-bb42-fe3c1c9ce6de,Elections
+4ac803f2-331d-47b2-911c-57fcea715e37,Energy
+4ac803f2-331d-47b2-911c-57fcea715e37,Health
+e1d96716-fdfe-4aca-bc03-dab000ac81b5,Labor
+b31c94ba-7e6c-40f2-afb4-b8ea2627ed02,Agriculture
+b31c94ba-7e6c-40f2-afb4-b8ea2627ed02,Health
+b31c94ba-7e6c-40f2-afb4-b8ea2627ed02,Geospatial
+4da09189-c8eb-4ba7-afee-eae2cd681711,Weather
+4da09189-c8eb-4ba7-afee-eae2cd681711,Transportation
+4da09189-c8eb-4ba7-afee-eae2cd681711,Geospatial
+eeae78e4-de1f-4e95-b43c-9edd462cf27c,Labor
+eeae78e4-de1f-4e95-b43c-9edd462cf27c,Elections
+eeae78e4-de1f-4e95-b43c-9edd462cf27c,Social Services
+cd686386-a2df-4ffa-beb4-f72e32fa0eef,Finance
+cd686386-a2df-4ffa-beb4-f72e32fa0eef,Climate
+cd686386-a2df-4ffa-beb4-f72e32fa0eef,Social Services
+dbdffe53-46d0-4d65-98fd-358cf5f7e120,Criminal Justice
+dbdffe53-46d0-4d65-98fd-358cf5f7e120,Social Services
+cffe64fc-4400-40fc-af04-c4f97cb268ed,Energy
+cffe64fc-4400-40fc-af04-c4f97cb268ed,Agriculture
+b47459c2-7e90-413a-aa1b-62782a66716d,Labor
+b47459c2-7e90-413a-aa1b-62782a66716d,Business
+825e2d00-543f-417c-bcaa-eed6dc090452,Housing
+19984b95-10ff-4089-a5cc-ac37147539d7,Health
+df5d3280-36b5-4475-91fb-4645931c59e9,Finance
+df5d3280-36b5-4475-91fb-4645931c59e9,Weather
+ed62ee15-a7ef-4e3e-9b69-5deba808ec8e,Housing
+ed62ee15-a7ef-4e3e-9b69-5deba808ec8e,Finance
+1145925c-a554-4b5c-9e8d-5d7a2c7ce3db,Housing
+1145925c-a554-4b5c-9e8d-5d7a2c7ce3db,Elections
+1145925c-a554-4b5c-9e8d-5d7a2c7ce3db,Agriculture
+610e94fa-06d4-439d-8622-8dc3759dd1cd,Energy
+610e94fa-06d4-439d-8622-8dc3759dd1cd,Environment
+610e94fa-06d4-439d-8622-8dc3759dd1cd,Criminal Justice
+61b6248c-0931-43cc-a2f5-8098a993653e,Labor
+247b69fb-b574-44ba-a981-37fb72c80927,Climate
+247b69fb-b574-44ba-a981-37fb72c80927,Water
+54016903-5212-4dd7-a07c-d819db6690f4,Social Services
+54016903-5212-4dd7-a07c-d819db6690f4,Finance
+577655b1-34c8-461b-9224-db8f3f53168d,Weather
+7583ecbb-ce81-4be6-a4e0-fff66ab3d9a5,Criminal Justice
+7583ecbb-ce81-4be6-a4e0-fff66ab3d9a5,Climate
+7583ecbb-ce81-4be6-a4e0-fff66ab3d9a5,Energy
+7250efe2-77c5-449e-9c04-759f4cecc2bb,Climate
+7250efe2-77c5-449e-9c04-759f4cecc2bb,Energy
+4932e6b1-1ef5-4e40-bac1-b942265811a9,Business
+4932e6b1-1ef5-4e40-bac1-b942265811a9,Environment
+0513609a-4721-464c-9f92-d60174cb0bda,Water
+0513609a-4721-464c-9f92-d60174cb0bda,Demographics
+949a0015-b7f7-427c-a757-37e73ccca909,Transportation
+949a0015-b7f7-427c-a757-37e73ccca909,Health
+e3324419-0fe2-4498-8a4c-2fc79ef8c371,Science & Research
+e3324419-0fe2-4498-8a4c-2fc79ef8c371,Agriculture
+036ac95c-f9ea-48e8-bb01-5e3c46c35820,Public Safety
+9d0f91a6-1a20-4e66-88ba-02d3b02aa3f0,Transportation
+4d013270-edc6-4d87-82d4-5a156ac43606,Geospatial
+4d013270-edc6-4d87-82d4-5a156ac43606,Labor
+96bbf166-d4f8-489f-b98a-1d6e75fc7b7c,Transportation
+ef443e9b-5588-47af-96db-19064262fc4a,Criminal Justice
+ef443e9b-5588-47af-96db-19064262fc4a,Labor
+e205dbdc-bb48-49a5-911f-1cb4897002f3,Climate
+e205dbdc-bb48-49a5-911f-1cb4897002f3,Transportation
+011c597b-aa1a-4607-b537-87f835fd1bab,Environment
+011c597b-aa1a-4607-b537-87f835fd1bab,Demographics
+011c597b-aa1a-4607-b537-87f835fd1bab,Business
+c184403f-65bd-4ae2-a061-7de0a713c350,Finance
+0383fab1-692d-46fd-9f11-9019b19fad90,Science & Research
+0383fab1-692d-46fd-9f11-9019b19fad90,Environment
+0383fab1-692d-46fd-9f11-9019b19fad90,Weather
+1dbef05d-43eb-41c1-a208-be580b902d71,Business
+1dbef05d-43eb-41c1-a208-be580b902d71,Environment
+1dbef05d-43eb-41c1-a208-be580b902d71,Education
+cdb71b8d-1d58-4509-a441-ac3971e915c6,Labor
+cdb71b8d-1d58-4509-a441-ac3971e915c6,Criminal Justice
+cdb71b8d-1d58-4509-a441-ac3971e915c6,Weather
+b9459504-ec25-4f0c-9e16-7e4fa2a0a599,Agriculture
+bba37e89-0650-444e-a4c5-f749f199429a,Agriculture
+997dfe9a-ed1d-4750-ae96-425b6214105c,Social Services
+997dfe9a-ed1d-4750-ae96-425b6214105c,Demographics
+60bc267f-9e5b-4504-bd5a-259bd7461184,Public Safety
+60bc267f-9e5b-4504-bd5a-259bd7461184,Elections
+b20e7a98-8bbc-4b87-a3de-35361028739a,Transportation
+534c2244-f3e7-4b60-acf6-ca2a0d93513b,Labor
+d7093818-c99a-41c3-a8fa-eeefe4132f03,Climate
+d7093818-c99a-41c3-a8fa-eeefe4132f03,Demographics
+d7093818-c99a-41c3-a8fa-eeefe4132f03,Agriculture
+4172b752-bace-4d6f-9cf6-cb02a1f56431,Elections
+0ccbe7ba-9063-4708-a38d-36085e71ef65,Water
+0ccbe7ba-9063-4708-a38d-36085e71ef65,Social Services
+0ccbe7ba-9063-4708-a38d-36085e71ef65,Demographics
+66e8053e-bb81-4739-94dc-d773b872e632,Energy
+2a7dcd9c-e3d1-438d-bcd9-9f3a2c8f48c1,Environment
+13fac393-c6f0-4b93-b852-63ceda278d37,Agriculture
+13fac393-c6f0-4b93-b852-63ceda278d37,Science & Research
+d1bb6e6a-a73c-4441-bb2b-942f38e273ef,Public Safety
+d1bb6e6a-a73c-4441-bb2b-942f38e273ef,Environment
+d1bb6e6a-a73c-4441-bb2b-942f38e273ef,Education
+c162bad5-d829-4b7a-976f-50fc2ca23513,Demographics
+c162bad5-d829-4b7a-976f-50fc2ca23513,Agriculture
+97058297-ebe8-4c6b-b86e-dbc9e793f448,Climate
+97058297-ebe8-4c6b-b86e-dbc9e793f448,Elections
+3387db22-ff5f-4caf-a90f-f6699f409c6e,Criminal Justice
+3387db22-ff5f-4caf-a90f-f6699f409c6e,Finance
+d03b3cc2-f7c6-458d-9ed4-5648b5325e60,Elections
+d03b3cc2-f7c6-458d-9ed4-5648b5325e60,Education
+86b36ef7-1652-49f4-acd5-d402ce404ebd,Criminal Justice
+86b36ef7-1652-49f4-acd5-d402ce404ebd,Demographics
+86b36ef7-1652-49f4-acd5-d402ce404ebd,Labor
+b0290abf-3d7b-4a61-8e53-0b98651cf49b,Geospatial
+716901a4-7c65-4617-a4e0-7fcdb3869870,Health
+716901a4-7c65-4617-a4e0-7fcdb3869870,Criminal Justice
+716901a4-7c65-4617-a4e0-7fcdb3869870,Environment
+1d222a63-c55c-428b-9784-eb815f9d1e54,Water
+8dbdc9c0-d3d0-4f43-991a-1df0d5e6195b,Energy
+8dbdc9c0-d3d0-4f43-991a-1df0d5e6195b,Finance
+8dbdc9c0-d3d0-4f43-991a-1df0d5e6195b,Criminal Justice
+81606fd5-c290-4b98-8187-15325d15df6c,Social Services
+81606fd5-c290-4b98-8187-15325d15df6c,Transportation
+81606fd5-c290-4b98-8187-15325d15df6c,Business
+e2574840-0177-4771-9c75-df93c901cc55,Housing
+a6d4e877-fa40-4eb8-b237-e782f1385c1a,Weather
+a6d4e877-fa40-4eb8-b237-e782f1385c1a,Business
+a6d4e877-fa40-4eb8-b237-e782f1385c1a,Education
+05267f86-def3-4b8e-be9f-7fd38749274a,Water
+f74dfb81-4597-4102-a8d3-8d54f67ea900,Climate
+f74dfb81-4597-4102-a8d3-8d54f67ea900,Finance
+4e412151-0cda-43b9-a3df-ee1dea795f1a,Environment
+4e412151-0cda-43b9-a3df-ee1dea795f1a,Education
+4e412151-0cda-43b9-a3df-ee1dea795f1a,Criminal Justice
+11f9bf44-f2f7-4756-9f29-0c2960db6fd3,Water
+11f9bf44-f2f7-4756-9f29-0c2960db6fd3,Weather
+1b0ed445-952f-48b0-b8c0-086a9451cead,Science & Research
+1b0ed445-952f-48b0-b8c0-086a9451cead,Transportation
+71ae2bba-69f1-42a5-b2c6-cb6032c8a054,Social Services
+71ae2bba-69f1-42a5-b2c6-cb6032c8a054,Education
+71ae2bba-69f1-42a5-b2c6-cb6032c8a054,Public Safety
+fec99cd6-6fff-4d14-a1f7-4d04700e268a,Transportation
+fec99cd6-6fff-4d14-a1f7-4d04700e268a,Science & Research
+fec99cd6-6fff-4d14-a1f7-4d04700e268a,Housing
+3fbcc5f7-e0e9-4899-9eda-a719b2b7e3d8,Geospatial
+3fbcc5f7-e0e9-4899-9eda-a719b2b7e3d8,Public Safety
+3fbcc5f7-e0e9-4899-9eda-a719b2b7e3d8,Criminal Justice
+d501f802-631f-4990-b9da-8b1f7624779c,Public Safety
+5a6b14a0-a1ab-40de-98f1-50286c282d0b,Energy
+5a6b14a0-a1ab-40de-98f1-50286c282d0b,Business
+5a6b14a0-a1ab-40de-98f1-50286c282d0b,Housing
+66af630f-74a0-4d06-a3f5-45f8d521533f,Agriculture
+66af630f-74a0-4d06-a3f5-45f8d521533f,Criminal Justice
+66af630f-74a0-4d06-a3f5-45f8d521533f,Transportation
+2efd2f2f-f0e4-41a2-adba-361d39a8a735,Weather
+2efd2f2f-f0e4-41a2-adba-361d39a8a735,Energy
+aee36028-7eb0-4d2e-83de-0dff257b84eb,Business
+aee36028-7eb0-4d2e-83de-0dff257b84eb,Housing
+6d44a038-c061-4c05-8102-90fee0fb50d6,Social Services
+6d44a038-c061-4c05-8102-90fee0fb50d6,Demographics
+0eac41a8-e546-411d-9793-3cf0f93f42c3,Weather
+0eac41a8-e546-411d-9793-3cf0f93f42c3,Business
+9ae431c6-2ae0-47f1-967d-26a01d544d04,Labor
+9ae431c6-2ae0-47f1-967d-26a01d544d04,Health
+9ae431c6-2ae0-47f1-967d-26a01d544d04,Education
+94249802-5c0a-4f60-b831-904883471695,Geospatial
+94249802-5c0a-4f60-b831-904883471695,Health
+94249802-5c0a-4f60-b831-904883471695,Science & Research
+b0474375-f452-4964-85cb-0922642131a7,Education
+a0e6fc99-b5a4-49c4-a94a-09ec4de38522,Health
+a0e6fc99-b5a4-49c4-a94a-09ec4de38522,Climate
+a0e6fc99-b5a4-49c4-a94a-09ec4de38522,Education
+8118d7e0-ffc0-4d76-8415-f9089dd32640,Demographics
+0d9ce367-cfa2-488c-a9cb-096d5896b3f0,Energy
+0d9ce367-cfa2-488c-a9cb-096d5896b3f0,Finance
+0d9ce367-cfa2-488c-a9cb-096d5896b3f0,Science & Research
+eeaaac16-ce95-4a21-a0ee-4982e23d75fe,Environment
+eeaaac16-ce95-4a21-a0ee-4982e23d75fe,Education
+1bab4478-9ac4-4a8f-893d-8c0639db3f99,Education
+1bab4478-9ac4-4a8f-893d-8c0639db3f99,Agriculture
+5925dcec-62c3-46a4-b351-1cce98b06641,Transportation
+1fbcd1e3-dee1-4208-b751-e3693cb1703e,Education
+fc5c0fee-5617-496c-b2e9-f26890c8b5d9,Environment
+fc5c0fee-5617-496c-b2e9-f26890c8b5d9,Transportation
+18df1c69-a496-40e4-9c26-a7a6ccb35994,Public Safety
+18df1c69-a496-40e4-9c26-a7a6ccb35994,Labor
+024b6224-9e0e-4460-9861-2acc653e0380,Elections
+30bbd756-3886-4e60-ad12-b5c0edcd6a3d,Transportation
+30bbd756-3886-4e60-ad12-b5c0edcd6a3d,Criminal Justice
+b5e0d95e-79a5-4d6c-983c-4cccc40ad061,Business
+188ded7e-cf60-4099-8df2-6c6c68b16703,Criminal Justice
+188ded7e-cf60-4099-8df2-6c6c68b16703,Finance
+39de762d-e8fe-47b0-a491-f772d12b7429,Health
+39de762d-e8fe-47b0-a491-f772d12b7429,Demographics
+39de762d-e8fe-47b0-a491-f772d12b7429,Business
+d4fc5ae5-b801-4c43-9064-1bf5f3ca97fa,Labor
+d4fc5ae5-b801-4c43-9064-1bf5f3ca97fa,Transportation
+677d6753-2d73-43f8-874a-44e5f1d526b9,Elections
+677d6753-2d73-43f8-874a-44e5f1d526b9,Demographics
+babf0201-9e47-43c5-ad0c-f957e9eeb758,Business
+4b725d70-f865-4c32-b2c6-e6e5fa31d76e,Agriculture
+4b725d70-f865-4c32-b2c6-e6e5fa31d76e,Weather
+58ec0dab-e551-436a-b165-0e0921929b0c,Geospatial
+58ec0dab-e551-436a-b165-0e0921929b0c,Labor
+93a2b62a-1bc3-4662-8e99-403d4979eb10,Criminal Justice
+7619e22b-777f-4665-a388-2f2c15760fdc,Criminal Justice
+7619e22b-777f-4665-a388-2f2c15760fdc,Education
+33df8af7-93f5-463a-850b-7999d94bb009,Finance
+33df8af7-93f5-463a-850b-7999d94bb009,Education
+0a2f2d2a-e090-420d-88bf-1cd103b3a246,Public Safety
+0a2f2d2a-e090-420d-88bf-1cd103b3a246,Health
+befe4327-4d0d-41d7-b918-9b3a9d5b7df4,Education
+d82772de-921c-4828-a736-aa056e623345,Criminal Justice
+d82772de-921c-4828-a736-aa056e623345,Housing
+932083d4-f11c-4d9a-9814-88c40f049280,Water
+1a634982-047a-4f39-95b8-db11242f0d02,Science & Research
+1a634982-047a-4f39-95b8-db11242f0d02,Business
+e50b9ce4-4657-462d-8d64-5764325aa7cd,Health
+e57fab06-9f84-45fb-8728-b7bb7a02a28e,Elections
+e57fab06-9f84-45fb-8728-b7bb7a02a28e,Public Safety
+b8cbff79-f9b8-45c3-b304-1a502f29ee4e,Criminal Justice
+82c18128-d191-4aa8-b94a-52c1d97d0c6b,Agriculture
+43c3ce45-350d-43c6-9412-f71c6e944b4a,Demographics
+40603998-57ac-42b5-ba86-6ba4ba1c67e2,Criminal Justice
+2698634e-dc43-4b3e-8980-2880cf96437e,Business
+2698634e-dc43-4b3e-8980-2880cf96437e,Finance
+2698634e-dc43-4b3e-8980-2880cf96437e,Housing
+6747c0dd-f631-4433-85df-b6dcecd3f44b,Public Safety
+3aaa4e36-546a-446f-9693-b5fb29a0097d,Criminal Justice
+3aaa4e36-546a-446f-9693-b5fb29a0097d,Environment
+3aaa4e36-546a-446f-9693-b5fb29a0097d,Demographics
+870d4393-5025-4517-b0e2-241c4bc4e5a5,Energy
+870d4393-5025-4517-b0e2-241c4bc4e5a5,Public Safety
+363e6af3-bd7d-40cb-9006-e6240977bfff,Criminal Justice
+363e6af3-bd7d-40cb-9006-e6240977bfff,Business
+6b17fb0f-8529-41e0-83b9-2e10555cb7cd,Demographics
+6b17fb0f-8529-41e0-83b9-2e10555cb7cd,Environment
+36b3f149-510c-43a5-a7e7-168dc9f8ecd0,Education
+a760a68f-2087-4ff2-8027-83516b56f73c,Agriculture
+a760a68f-2087-4ff2-8027-83516b56f73c,Labor
+a760a68f-2087-4ff2-8027-83516b56f73c,Climate
+0c0fa221-287f-4b3e-84cd-d6ae17dcb87c,Agriculture
+0c0fa221-287f-4b3e-84cd-d6ae17dcb87c,Health
+79a5f3ea-7f39-4f36-aac3-0a19840d720d,Public Safety
+79a5f3ea-7f39-4f36-aac3-0a19840d720d,Labor
+16947c2e-e3ce-448d-8e2e-21232e842420,Science & Research
+b05f4ddf-2138-43b8-b3ed-6a23625bf73c,Business
+f043550a-6b96-4ce7-9345-3a38f0afa06a,Agriculture
+f043550a-6b96-4ce7-9345-3a38f0afa06a,Demographics
+116d859e-ce02-481e-9a37-06678a768dcf,Labor
+116d859e-ce02-481e-9a37-06678a768dcf,Transportation
+b9faa923-2e05-4055-81b7-1f656c9f7c73,Labor
+b420d4fb-6d17-4a29-b5a6-e16dc26c9a77,Agriculture
+b420d4fb-6d17-4a29-b5a6-e16dc26c9a77,Weather
+5eac24e4-9ad0-483f-a558-0e843252fe2d,Energy
+384d00e9-9e90-401d-86d7-6468a3c5b5cb,Environment
+384d00e9-9e90-401d-86d7-6468a3c5b5cb,Public Safety
+384d00e9-9e90-401d-86d7-6468a3c5b5cb,Social Services
+b6476087-a7a3-430d-afb0-1f0cc26358da,Labor
+b6476087-a7a3-430d-afb0-1f0cc26358da,Climate
+b6476087-a7a3-430d-afb0-1f0cc26358da,Environment
+8e1186bf-3cec-46e8-b10d-ac348195a60f,Business
+8e1186bf-3cec-46e8-b10d-ac348195a60f,Social Services
+c2cc0cb5-9fcd-4ca4-aeb4-10210c005291,Agriculture
+3cd580bd-78a4-4098-b929-2784e1562616,Science & Research
+3cd580bd-78a4-4098-b929-2784e1562616,Social Services
+3cd580bd-78a4-4098-b929-2784e1562616,Business
+6d6c20a2-e2ad-4def-8c4f-46bbe9233585,Education
+74a3e803-8d44-4c89-859a-c4f29f60ec13,Environment
+f27ac384-5924-4e01-b8f9-6ebca5db68a3,Finance
+f27ac384-5924-4e01-b8f9-6ebca5db68a3,Public Safety
+f27ac384-5924-4e01-b8f9-6ebca5db68a3,Criminal Justice
+3f69ef6b-d632-498e-a0f1-ce6c3260e61d,Finance
+0397808b-ff2e-4261-bd00-244102d922c5,Education
+0397808b-ff2e-4261-bd00-244102d922c5,Energy
+0397808b-ff2e-4261-bd00-244102d922c5,Transportation
+e18211b6-504b-4e3a-a05b-1ada2c147f29,Labor
+e18211b6-504b-4e3a-a05b-1ada2c147f29,Housing
+e18211b6-504b-4e3a-a05b-1ada2c147f29,Demographics
+f1abd5bc-ef37-4a1e-966a-98dcb1636e49,Science & Research
+f1abd5bc-ef37-4a1e-966a-98dcb1636e49,Housing
+117a83c7-3fb1-4be1-bd8c-7e50f15c72e7,Weather
+117a83c7-3fb1-4be1-bd8c-7e50f15c72e7,Climate
+8fb46597-5b1f-49ae-846d-26a41bf30720,Environment
+501875bf-33c2-4eeb-968a-60edc6220cc7,Agriculture
+501875bf-33c2-4eeb-968a-60edc6220cc7,Elections
+501875bf-33c2-4eeb-968a-60edc6220cc7,Health
+ecd19154-e510-4655-8fa3-85c6438530da,Elections
+194722b6-ba28-483c-b92b-2a3e00f73c4f,Climate
+1a1006d1-d124-46ca-9ed1-c4c93f183da1,Geospatial
+1a1006d1-d124-46ca-9ed1-c4c93f183da1,Education
+511209c8-bc5f-42d0-bc5a-3e0f7641dd72,Criminal Justice
+afe1452f-8dd8-49cf-875f-1a71f9d8b1a6,Elections
+afe1452f-8dd8-49cf-875f-1a71f9d8b1a6,Labor
+afe1452f-8dd8-49cf-875f-1a71f9d8b1a6,Social Services
+1333bbf5-b060-4991-965e-40bbde1e220f,Labor
+1333bbf5-b060-4991-965e-40bbde1e220f,Business
+1333bbf5-b060-4991-965e-40bbde1e220f,Transportation
+f79d2e0e-d1eb-4763-ba39-b219a9e8810c,Criminal Justice
+dd536154-3f39-43f8-a6a3-6a1af68e2604,Housing
+02b20ef6-d088-4f82-9dd5-efd808892694,Weather
+02b20ef6-d088-4f82-9dd5-efd808892694,Social Services
+cc9903dd-c0fb-46af-b09d-244ba392b970,Education
+cc9903dd-c0fb-46af-b09d-244ba392b970,Labor
+e4d57000-9fbc-442c-883d-c3fe3f854759,Weather
+e4d57000-9fbc-442c-883d-c3fe3f854759,Education
+e4d57000-9fbc-442c-883d-c3fe3f854759,Environment
+a707f014-118f-48d6-9d9f-d198b7c88e6c,Education
+a707f014-118f-48d6-9d9f-d198b7c88e6c,Health
+a707f014-118f-48d6-9d9f-d198b7c88e6c,Housing
+2e144e8c-8b68-454c-a45e-2097ca757c3e,Geospatial
+2e144e8c-8b68-454c-a45e-2097ca757c3e,Criminal Justice
+2e144e8c-8b68-454c-a45e-2097ca757c3e,Water
+4a1c3091-d3ad-4975-8807-3bf560042285,Elections
+4a1c3091-d3ad-4975-8807-3bf560042285,Science & Research
+46167b42-9aee-40a6-b15e-23afc2eff18d,Public Safety
+46167b42-9aee-40a6-b15e-23afc2eff18d,Education
+46167b42-9aee-40a6-b15e-23afc2eff18d,Environment
+9abc8911-7b85-4ae6-9f98-e04af8e76087,Business
+71de089d-9ee5-4438-a93c-40e7e1d30dda,Geospatial
+c6bb1401-5089-415d-bf88-85871dbbd438,Demographics
+c6bb1401-5089-415d-bf88-85871dbbd438,Energy
+5d05e41e-f912-4d2b-9fa5-ddfa922b9fca,Social Services
+24880da9-68d6-4941-bf33-20fb2b738ca2,Labor
+a6f8114a-3a8c-44fa-b683-d2358d70ae00,Geospatial
+a6f8114a-3a8c-44fa-b683-d2358d70ae00,Public Safety
+30fad474-b144-4e4e-9d8f-295ed16fe166,Geospatial
+30fad474-b144-4e4e-9d8f-295ed16fe166,Housing
+30fad474-b144-4e4e-9d8f-295ed16fe166,Environment
+cb83b4a8-4a64-42d2-bf84-93fa9ffb2e79,Social Services
+cb83b4a8-4a64-42d2-bf84-93fa9ffb2e79,Geospatial
+cb83b4a8-4a64-42d2-bf84-93fa9ffb2e79,Criminal Justice
+03dea6db-e3b6-4a8e-8b16-aa824ae8eef8,Health
+03dea6db-e3b6-4a8e-8b16-aa824ae8eef8,Finance
+03dea6db-e3b6-4a8e-8b16-aa824ae8eef8,Elections
+e44db91d-c37d-48e5-b14d-17c87c40f4cc,Transportation
+e44db91d-c37d-48e5-b14d-17c87c40f4cc,Labor
+b5c1a318-3524-4f53-91c5-2c5da2970476,Labor
+5bfd459b-12e8-4059-9f7a-e434edaa5b3e,Social Services
+5bfd459b-12e8-4059-9f7a-e434edaa5b3e,Housing
+9549328b-4ba6-4c25-a6a0-31b57a5afaab,Transportation
+9549328b-4ba6-4c25-a6a0-31b57a5afaab,Geospatial
+7bd23f58-1c66-4dd1-bb87-583de11bff54,Energy
+7bd23f58-1c66-4dd1-bb87-583de11bff54,Water
+1415e8c1-06eb-44de-80f3-87212c21eaf9,Water
+1415e8c1-06eb-44de-80f3-87212c21eaf9,Health
+0359fc4a-40a9-4a49-8408-09ddfc43d0bb,Transportation
+0359fc4a-40a9-4a49-8408-09ddfc43d0bb,Business
+41dc39f1-f868-4680-b30b-bf1d88b95f00,Climate
+506d5edc-291a-4490-aed2-486a7f429c4a,Business
+506d5edc-291a-4490-aed2-486a7f429c4a,Geospatial
+ec6563ca-74b3-4111-94c6-1263288c8e23,Agriculture
+d7dfc85e-99ae-479e-8cbf-c2bf4b499dc3,Finance
+d7dfc85e-99ae-479e-8cbf-c2bf4b499dc3,Geospatial
+d7dfc85e-99ae-479e-8cbf-c2bf4b499dc3,Water
+f1c73871-f216-4b0e-84c3-c7f1aba194fa,Environment
+16dc5c73-fb3d-44df-b118-36a7c39aede6,Geospatial
+16dc5c73-fb3d-44df-b118-36a7c39aede6,Housing
+16dc5c73-fb3d-44df-b118-36a7c39aede6,Criminal Justice
+bac3cf41-3d13-462d-a842-fd814f8536a6,Criminal Justice
+bac3cf41-3d13-462d-a842-fd814f8536a6,Water
+89726fed-6d7b-409b-9b97-83c734aaa12c,Elections
+89726fed-6d7b-409b-9b97-83c734aaa12c,Public Safety
+e2fdc346-298e-45fc-9f4f-1d60c1865408,Energy
+b45105bd-91dd-4255-8cad-f342bf89d111,Labor
+b45105bd-91dd-4255-8cad-f342bf89d111,Geospatial
+b45105bd-91dd-4255-8cad-f342bf89d111,Social Services
+480b8e9f-d845-43da-a012-95e7dbc4f071,Water
+480b8e9f-d845-43da-a012-95e7dbc4f071,Energy
+59040b6d-cc37-43b4-b265-67b53a497050,Education
+1101b403-03da-42d4-b67d-79f2cd77ddca,Education
+1101b403-03da-42d4-b67d-79f2cd77ddca,Geospatial
+1101b403-03da-42d4-b67d-79f2cd77ddca,Business
+a54e0dd5-d668-47ef-858b-1342481c81ee,Education
+a54e0dd5-d668-47ef-858b-1342481c81ee,Labor
+7ca1eabc-e2b3-43f6-a99a-7cbd40e8e229,Climate
+52a44d15-0fa8-4e5f-a904-df269e2d4f9c,Demographics
+28dbadc8-74b0-4940-910a-ed4e98ead9c8,Housing
+28dbadc8-74b0-4940-910a-ed4e98ead9c8,Water
+945f247e-d1db-4610-a6a5-a25ac13205d9,Agriculture
+945f247e-d1db-4610-a6a5-a25ac13205d9,Climate
+945f247e-d1db-4610-a6a5-a25ac13205d9,Geospatial
+64a58969-90c9-4c63-9002-8996774afdc2,Business
+64a58969-90c9-4c63-9002-8996774afdc2,Science & Research
+64a58969-90c9-4c63-9002-8996774afdc2,Climate
+00afe5af-e62b-4913-a418-18a8be2069c5,Water
+935c578d-b57f-400c-b15c-fe81a44da1c3,Business
+935c578d-b57f-400c-b15c-fe81a44da1c3,Public Safety
+87c2afdb-dc5d-4244-8cf0-a012b829f2e2,Social Services
+4899862d-cdc1-4586-91b7-256ae82a7f19,Energy
+4971dcbc-db03-4641-a2ec-22a5074feb9e,Water
+4971dcbc-db03-4641-a2ec-22a5074feb9e,Demographics
+4971dcbc-db03-4641-a2ec-22a5074feb9e,Health
+67c976ee-7553-4dff-83cc-acc44f3eddd2,Criminal Justice
+2068cc2f-68d2-4925-81e8-85bca6a9b6c7,Geospatial
+f7b9766a-f34f-437c-bc30-4ec2e237b295,Public Safety
+374f9e1c-a703-4cfd-90b2-becd3e0e38d1,Weather
+374f9e1c-a703-4cfd-90b2-becd3e0e38d1,Business
+04ac7e69-fb53-4c00-8f94-94813408c634,Criminal Justice
+04ac7e69-fb53-4c00-8f94-94813408c634,Climate
+d9d9b667-cc25-4571-adb0-c9b914fb8b83,Health
+02cc5a5d-c406-4d7e-a699-93ff6f20ac0d,Education
+02cc5a5d-c406-4d7e-a699-93ff6f20ac0d,Water
+02cc5a5d-c406-4d7e-a699-93ff6f20ac0d,Geospatial
+df03c3a5-dd59-4157-ac96-649717b9c336,Agriculture
+d725a361-0665-49b5-864e-fb8ffc72688c,Business
+d725a361-0665-49b5-864e-fb8ffc72688c,Education
+9936f235-b766-4bb3-8285-c13148556266,Labor
+9936f235-b766-4bb3-8285-c13148556266,Business
+9936f235-b766-4bb3-8285-c13148556266,Science & Research
+f9a3f5e1-eb81-4025-a646-fb1940f40203,Agriculture
+f9a3f5e1-eb81-4025-a646-fb1940f40203,Elections
+ab368f17-9ae3-495d-b966-6da5fe34af6e,Demographics
+ab368f17-9ae3-495d-b966-6da5fe34af6e,Education
+222d2bf5-63fe-46f7-85db-d20a5abef5d1,Labor
+222d2bf5-63fe-46f7-85db-d20a5abef5d1,Transportation
+75115dc0-8fb8-40a7-9d2a-1e3d7f116284,Water
+75115dc0-8fb8-40a7-9d2a-1e3d7f116284,Demographics
+d9c177b9-e11b-461e-b912-a5fb9f813bd2,Environment
+d9c177b9-e11b-461e-b912-a5fb9f813bd2,Elections
+589812dd-46e8-4211-a163-00e5de256c3f,Public Safety
+c25bb33c-79b7-421e-9405-f4639f298e25,Demographics
+c25bb33c-79b7-421e-9405-f4639f298e25,Water
+045bf13e-41cf-4d3d-8c8c-3fa4a1f64e30,Energy
+045bf13e-41cf-4d3d-8c8c-3fa4a1f64e30,Finance
+f3a758fb-b235-4ff7-972c-dcce6d5a7ad2,Environment
+f3a758fb-b235-4ff7-972c-dcce6d5a7ad2,Weather
+f3a758fb-b235-4ff7-972c-dcce6d5a7ad2,Business
+b589ad0e-473c-4212-bfbc-ffb3b79383d8,Health
+b589ad0e-473c-4212-bfbc-ffb3b79383d8,Agriculture
+b589ad0e-473c-4212-bfbc-ffb3b79383d8,Business
+8455ce96-6e6a-4f70-9291-ec23b784750e,Demographics
+8455ce96-6e6a-4f70-9291-ec23b784750e,Business
+8455ce96-6e6a-4f70-9291-ec23b784750e,Health
+a2fd4e36-f61e-47fb-b021-778cd08cf666,Health
+a2fd4e36-f61e-47fb-b021-778cd08cf666,Energy
+8ea8dd8f-65af-44d9-a66b-158f4909fe96,Elections
+393ea51c-0160-4f5e-b9c0-8bac885dd575,Business
+393ea51c-0160-4f5e-b9c0-8bac885dd575,Criminal Justice
+393ea51c-0160-4f5e-b9c0-8bac885dd575,Demographics
+67ddb0da-fcd9-4e30-b6cd-801f03c98913,Public Safety
+67ddb0da-fcd9-4e30-b6cd-801f03c98913,Business
+0e692059-2522-4c28-99df-070d18f5b0f3,Finance
+0e692059-2522-4c28-99df-070d18f5b0f3,Demographics
+898015b2-e6d8-4f4e-abe6-67124437ccfa,Health
+898015b2-e6d8-4f4e-abe6-67124437ccfa,Demographics
+898015b2-e6d8-4f4e-abe6-67124437ccfa,Labor
+c1fd9387-1ebb-41f8-85dd-776531eba6f0,Housing
+c1fd9387-1ebb-41f8-85dd-776531eba6f0,Energy
+c1fd9387-1ebb-41f8-85dd-776531eba6f0,Social Services
+fa729434-494c-4f73-888a-9477fbe86056,Environment
+12e1e9ae-d493-4fa8-b788-6eeaf749e539,Geospatial
+12e1e9ae-d493-4fa8-b788-6eeaf749e539,Social Services
+12e1e9ae-d493-4fa8-b788-6eeaf749e539,Public Safety
+0daf204d-b460-4c8b-b905-b9640522cee6,Social Services
+be49cba4-6c36-433c-9138-23e4e345b393,Elections
+0fea4798-0548-4255-9fbb-8e6afad431a7,Environment
+68b04e45-a461-4ef6-8f17-c3debce3324d,Education
+fb6fe286-bfd8-453f-b786-43d0f6690b3a,Climate
+fb6fe286-bfd8-453f-b786-43d0f6690b3a,Science & Research
+29e8b03f-50af-42e6-9ad6-28274ad79551,Housing
+29e8b03f-50af-42e6-9ad6-28274ad79551,Business
+430400f5-84ff-4ab7-b921-c7ef971a514e,Demographics
+430400f5-84ff-4ab7-b921-c7ef971a514e,Climate
+05d6136a-49e9-4212-81ce-e6918acacab2,Elections
+05d6136a-49e9-4212-81ce-e6918acacab2,Social Services
+b6d3b645-e38b-4582-9c38-3a5f79b49d15,Weather
+76ac6d08-65d7-4642-a6c9-99a8851a1b32,Geospatial
+76ac6d08-65d7-4642-a6c9-99a8851a1b32,Transportation
+9be23e76-b3e8-4fd2-919e-fe760a65d9f7,Education
+06947f00-8349-4b6e-8b47-461394da9258,Criminal Justice
+77154444-9d9c-465b-acdb-6e7367688610,Water
+77154444-9d9c-465b-acdb-6e7367688610,Health
+74d00426-958f-4711-93a9-b0beb6a14156,Education
+03a3fe6b-c7b8-4238-a3e0-f815cf4bb2bc,Climate
+7c6dd6bb-47df-49de-83cf-f9ac25b60caa,Climate
+7c6dd6bb-47df-49de-83cf-f9ac25b60caa,Criminal Justice
+7c6dd6bb-47df-49de-83cf-f9ac25b60caa,Science & Research
+644743a1-fc4d-483e-838a-27d20942cf08,Criminal Justice
+644743a1-fc4d-483e-838a-27d20942cf08,Education
+644743a1-fc4d-483e-838a-27d20942cf08,Weather
+025f84fa-1076-448e-aa14-9bc0ab0a061e,Education
+025f84fa-1076-448e-aa14-9bc0ab0a061e,Public Safety
+d3fed706-4a35-45c6-9afd-adac80337925,Demographics
+fa3dd8b5-aa68-43b5-896a-cac14535c7d8,Finance
+08e70e46-988c-406b-a05b-b9b5f9dede63,Weather
+a2c0be65-34a0-4a31-90b5-479ec3d24592,Social Services
+a2c0be65-34a0-4a31-90b5-479ec3d24592,Weather
+c3c902c3-f11f-4037-902d-09a21979092a,Health
+c3c902c3-f11f-4037-902d-09a21979092a,Energy
+4f1848db-7abf-481d-b4ba-aa2009836756,Criminal Justice
+4f1848db-7abf-481d-b4ba-aa2009836756,Water
+b6d72b07-9960-41e3-a93c-283f40a9b7fe,Education
+b6d72b07-9960-41e3-a93c-283f40a9b7fe,Climate
+eae1776e-017a-4ea9-ac66-d80678962166,Weather
+eae1776e-017a-4ea9-ac66-d80678962166,Education
+efd54838-b9a1-424e-833c-631dc5b9f75a,Criminal Justice
+efd54838-b9a1-424e-833c-631dc5b9f75a,Social Services
+b2e6d050-33aa-4f22-b298-cfbe5b8e7356,Housing
+322f3b6b-f3f1-40f4-a866-291655db8995,Transportation
+f6ce1d3f-fe03-48e9-bee8-c3feb2fa9c91,Climate
+cfb2dc33-a1df-4bc4-8348-c4ade13018f1,Labor
+cfb2dc33-a1df-4bc4-8348-c4ade13018f1,Criminal Justice
+cfb2dc33-a1df-4bc4-8348-c4ade13018f1,Business
+9172d198-5b81-49a7-a891-741d89d9a482,Business
+9172d198-5b81-49a7-a891-741d89d9a482,Finance
+9172d198-5b81-49a7-a891-741d89d9a482,Agriculture
+180ca1f6-40f6-486d-a42d-746e86ad1d8a,Elections
+180ca1f6-40f6-486d-a42d-746e86ad1d8a,Environment
+180ca1f6-40f6-486d-a42d-746e86ad1d8a,Agriculture
+7a20c020-d189-4f33-80ee-5b25621bcd57,Social Services
+3ce803aa-7ab0-428a-a5e4-2827ef8747f6,Transportation
+3ce803aa-7ab0-428a-a5e4-2827ef8747f6,Energy
+3ce803aa-7ab0-428a-a5e4-2827ef8747f6,Social Services
+775c769e-cf76-4923-bcd5-a83ec6867e51,Health
+3edf9629-630b-4a9e-9077-141e2236cc55,Finance
+585099fa-9b5b-48f8-b9be-dce6404beb1a,Finance
+585099fa-9b5b-48f8-b9be-dce6404beb1a,Education
+585099fa-9b5b-48f8-b9be-dce6404beb1a,Business
+39709653-a1af-4c6e-93e8-0aa3777c82a8,Agriculture
+7601e3dd-10a1-4d03-ab1c-3edf036e3997,Education
+7601e3dd-10a1-4d03-ab1c-3edf036e3997,Health
+f7fc8850-13de-4dcb-a9e3-0082dec35a8a,Business
+30e254d0-b6e0-4c5c-bd16-98f4df61191d,Science & Research
+30e254d0-b6e0-4c5c-bd16-98f4df61191d,Demographics
+30e254d0-b6e0-4c5c-bd16-98f4df61191d,Health
+8cdc9136-5664-4447-86cf-98cf4c8736bb,Education
+8cdc9136-5664-4447-86cf-98cf4c8736bb,Social Services
+8cdc9136-5664-4447-86cf-98cf4c8736bb,Climate
+e19b90b4-7443-4dd3-aeac-2167e3e02dc8,Weather
+e19b90b4-7443-4dd3-aeac-2167e3e02dc8,Geospatial
+40d2d3f9-91a7-422a-9c9e-1079ad0439ec,Elections
+40d2d3f9-91a7-422a-9c9e-1079ad0439ec,Water
+c19edc0a-c00e-4460-b886-6e4716fa8121,Public Safety
+c19edc0a-c00e-4460-b886-6e4716fa8121,Environment
+00a0a965-a5d2-485c-a0ad-048d769e3431,Education
+d9e9375a-9df7-4631-aacd-f0d38b143bf3,Demographics
+69eb3f81-4fb4-41d8-ae32-cfd7f46a7419,Elections
+69eb3f81-4fb4-41d8-ae32-cfd7f46a7419,Labor
+a55706c0-08f4-4864-8a21-5ce5fa2a50af,Elections
+a55706c0-08f4-4864-8a21-5ce5fa2a50af,Public Safety
+b009f5e1-d482-40d1-b192-200874138f9e,Public Safety
+b009f5e1-d482-40d1-b192-200874138f9e,Geospatial
+541a0700-7edb-4e41-9562-043e6692e4e4,Business
+541a0700-7edb-4e41-9562-043e6692e4e4,Transportation
+d3eccc3a-8b30-4292-800e-c0d0e5b00739,Health
+d3eccc3a-8b30-4292-800e-c0d0e5b00739,Social Services
+1d3190c8-d435-4493-83cf-ce1ae7386da8,Housing
+1d3190c8-d435-4493-83cf-ce1ae7386da8,Weather
+040cd6d9-12fc-49e9-912b-125fca5561c3,Health
+040cd6d9-12fc-49e9-912b-125fca5561c3,Business
+6691b088-f2ba-41bb-910b-70cb6b4d8167,Environment
+383217bf-46b5-4328-89bc-67934b801f69,Demographics
+383217bf-46b5-4328-89bc-67934b801f69,Environment
+de8dfe44-d141-4d6b-98a3-31e6c9b2e814,Finance
+de8dfe44-d141-4d6b-98a3-31e6c9b2e814,Health
+830cf0e0-d440-4356-afeb-62c4f88d7336,Demographics
+d204e69a-f764-44bf-8713-50fc7b797471,Labor
+d204e69a-f764-44bf-8713-50fc7b797471,Health
+592bb6ac-4341-4698-8e53-0dab230f69ce,Criminal Justice
+9c2bca5d-328a-48ba-aedd-9bff175dec20,Education
+9c2bca5d-328a-48ba-aedd-9bff175dec20,Health
+15020084-3df7-4f1b-9533-68425740777d,Agriculture
+41cf2d2d-4285-478e-9db6-7784ef86e25b,Elections
+41cf2d2d-4285-478e-9db6-7784ef86e25b,Demographics
+41cf2d2d-4285-478e-9db6-7784ef86e25b,Agriculture
+b06edf97-bd1b-4a8a-b3fa-aea31b06480e,Environment
+b06edf97-bd1b-4a8a-b3fa-aea31b06480e,Transportation
+4587d1f4-dad8-4fc7-a840-0363e22e6b96,Criminal Justice
+4587d1f4-dad8-4fc7-a840-0363e22e6b96,Science & Research
+2e617e2e-3d22-4d09-b0a2-7cfb580ddba3,Geospatial
+2e617e2e-3d22-4d09-b0a2-7cfb580ddba3,Climate
+2e617e2e-3d22-4d09-b0a2-7cfb580ddba3,Public Safety
+8715c34b-803b-4087-9ccc-4279ef11c969,Transportation
+8715c34b-803b-4087-9ccc-4279ef11c969,Criminal Justice
+8715c34b-803b-4087-9ccc-4279ef11c969,Water
+bce0172f-4ed7-46b3-a43f-dce227ebf22a,Transportation
+8b8d3202-1822-4353-8dfc-e0b6870ca83c,Social Services
+8b8d3202-1822-4353-8dfc-e0b6870ca83c,Public Safety
+f8485037-11ce-4df6-8718-fafe64cc1157,Demographics
+f8485037-11ce-4df6-8718-fafe64cc1157,Elections
+f8485037-11ce-4df6-8718-fafe64cc1157,Health
+b9c36eba-7dff-40fa-8162-b29852d5bbd6,Social Services
+b9c36eba-7dff-40fa-8162-b29852d5bbd6,Geospatial
+b9c36eba-7dff-40fa-8162-b29852d5bbd6,Finance
+661104a4-4173-4a48-9551-c1033fee669e,Environment
+31fbe644-30e2-4c31-9886-73b783a46ee7,Criminal Justice
+120c6252-8183-4df1-92b8-4191ef5a6c87,Water
+120c6252-8183-4df1-92b8-4191ef5a6c87,Elections
+f0cd22ac-e8cf-4905-9d3b-48df2645f509,Demographics
+946c8db3-650f-4ca2-ad2f-a329e75b9ade,Geospatial
+946c8db3-650f-4ca2-ad2f-a329e75b9ade,Transportation
+946c8db3-650f-4ca2-ad2f-a329e75b9ade,Finance
+78e5961d-900c-411d-bb82-099e3e7bb99c,Environment
+7f66cb6f-f5c6-4c05-8de2-6839c3b6d2b4,Transportation
+4aba3b30-7fef-4aad-a3ce-86eee6a64f08,Housing
+4aba3b30-7fef-4aad-a3ce-86eee6a64f08,Water
+4aba3b30-7fef-4aad-a3ce-86eee6a64f08,Transportation
+ccc6e613-5237-4bf2-b88e-4928a01856a1,Water
+a20b3c7f-31e6-415b-b87a-fe270cff642e,Health
+a20b3c7f-31e6-415b-b87a-fe270cff642e,Environment
+a20b3c7f-31e6-415b-b87a-fe270cff642e,Transportation
+1b7982b5-568c-412d-bcdf-fa48e7f4f454,Public Safety
+8f0e6dba-28db-4ceb-9942-d7ca7c9f6ed6,Demographics
+a4cbe771-2453-45e2-a00b-676a392da16b,Geospatial
+1a3b0d6a-c10c-475c-9c05-cbaccf858470,Water
+1a3b0d6a-c10c-475c-9c05-cbaccf858470,Finance
+103e306c-7eec-4443-8b6e-c6d563115d12,Transportation
+103e306c-7eec-4443-8b6e-c6d563115d12,Social Services
+45a7c6fa-1e0c-4494-a96b-89815cc939af,Geospatial
+e9ce4fe8-d8ab-48f4-a265-245c6e66d12e,Transportation
+8bdf6c5c-f3d4-4d38-9f0c-93de6ae278ee,Water
+8bdf6c5c-f3d4-4d38-9f0c-93de6ae278ee,Finance
+8bdf6c5c-f3d4-4d38-9f0c-93de6ae278ee,Business
+9fd4dda8-3794-4457-8e57-e2188a01e7ba,Health
+9fd4dda8-3794-4457-8e57-e2188a01e7ba,Elections
+9fd4dda8-3794-4457-8e57-e2188a01e7ba,Climate
+58ea732b-f620-458a-9284-7a8b49c7fe08,Labor
+58ea732b-f620-458a-9284-7a8b49c7fe08,Business
+58ea732b-f620-458a-9284-7a8b49c7fe08,Elections
+581ba15f-db48-406f-b0cc-2db7e809758b,Energy
+581ba15f-db48-406f-b0cc-2db7e809758b,Geospatial
+d0aa0e68-35c9-40f4-b46e-0e168b565872,Demographics
+a4f9e8fe-4ff6-486f-8f83-bcda8669a9a3,Science & Research
+a4f9e8fe-4ff6-486f-8f83-bcda8669a9a3,Weather
+f358f829-66ab-44c7-9e28-6028f7fc7b7a,Weather
+f358f829-66ab-44c7-9e28-6028f7fc7b7a,Health
+f358f829-66ab-44c7-9e28-6028f7fc7b7a,Agriculture
+57ff775b-6885-4f7c-9d35-dba56018da3c,Health
+57ff775b-6885-4f7c-9d35-dba56018da3c,Agriculture
+57ff775b-6885-4f7c-9d35-dba56018da3c,Water
+6698b10a-53bf-4b6c-9bed-d20b815294cb,Criminal Justice
+6698b10a-53bf-4b6c-9bed-d20b815294cb,Weather
+6698b10a-53bf-4b6c-9bed-d20b815294cb,Demographics
+265a6baa-3680-47e3-900f-a61bf6e03950,Education
+e1c1c296-db4b-4a58-8a51-bdbe7b9445ec,Labor
+e1c1c296-db4b-4a58-8a51-bdbe7b9445ec,Transportation
+bc0c3877-3aa0-417c-a864-7e4d79453b42,Demographics
+bc0c3877-3aa0-417c-a864-7e4d79453b42,Business
+7cbc638f-d2c9-4a4f-a6fd-d0b98dec2b22,Energy
+7cbc638f-d2c9-4a4f-a6fd-d0b98dec2b22,Finance
+7cbc638f-d2c9-4a4f-a6fd-d0b98dec2b22,Demographics
+de086ec5-3e27-4d55-bbe0-71098f1c4d33,Health
+de086ec5-3e27-4d55-bbe0-71098f1c4d33,Agriculture
+de086ec5-3e27-4d55-bbe0-71098f1c4d33,Geospatial
+2c921531-532e-4f52-bd6e-5cca94709ec3,Public Safety
+2c921531-532e-4f52-bd6e-5cca94709ec3,Geospatial
+2c921531-532e-4f52-bd6e-5cca94709ec3,Science & Research
+f626f8de-988d-4528-bfee-14f8dda4c12b,Science & Research
+f626f8de-988d-4528-bfee-14f8dda4c12b,Elections
+2139dcdc-13e0-405a-8fe5-689a175b2531,Criminal Justice
+a7ec22dc-7ddf-410f-9e52-40b279427122,Weather
+a7ec22dc-7ddf-410f-9e52-40b279427122,Environment
+bca9f80a-bddf-4874-a914-8ef0b16510f6,Weather
+e01619b0-1eee-4cb2-967c-090ec7e8de54,Demographics
+e01619b0-1eee-4cb2-967c-090ec7e8de54,Science & Research
+e01619b0-1eee-4cb2-967c-090ec7e8de54,Business
+fc340f9a-a066-40a8-b200-406683363f49,Agriculture
+09d4e3a5-6ef4-4f32-b305-35b3c4a20f18,Weather
+fa32ea9f-6bb2-4542-a92c-317015600c88,Health
+fa32ea9f-6bb2-4542-a92c-317015600c88,Transportation
+fa32ea9f-6bb2-4542-a92c-317015600c88,Water
+82ce7076-179b-403f-8abd-7d3ae3f65682,Elections
+82ce7076-179b-403f-8abd-7d3ae3f65682,Labor
+82ce7076-179b-403f-8abd-7d3ae3f65682,Demographics
+f2862211-9be3-4921-b8b1-d64a75751f2e,Environment
+f2862211-9be3-4921-b8b1-d64a75751f2e,Transportation
+f2862211-9be3-4921-b8b1-d64a75751f2e,Health
+d020f6d3-28a0-4d50-847d-6ff9b95ff0a8,Water
+d020f6d3-28a0-4d50-847d-6ff9b95ff0a8,Weather
+87032432-8557-47eb-b810-a508500455df,Science & Research
+87032432-8557-47eb-b810-a508500455df,Criminal Justice
+075f8f6c-ce49-40af-9cfd-c8f95d821a69,Transportation
+075f8f6c-ce49-40af-9cfd-c8f95d821a69,Environment
+075f8f6c-ce49-40af-9cfd-c8f95d821a69,Social Services
+840c74ac-fff0-4062-84c4-61d12778e60a,Environment
+840c74ac-fff0-4062-84c4-61d12778e60a,Labor
+cee1cacb-3b7c-4780-bf89-5eec2046ea20,Environment
+09e65df6-68c0-4ef3-923c-5be421356e5b,Criminal Justice
+09e65df6-68c0-4ef3-923c-5be421356e5b,Elections
+09e65df6-68c0-4ef3-923c-5be421356e5b,Transportation
+ba809df7-e878-40e0-a33f-a2a893460321,Transportation
+ba809df7-e878-40e0-a33f-a2a893460321,Weather
+56e371f2-4e7a-4978-b6ff-68626434d97e,Water
+56e371f2-4e7a-4978-b6ff-68626434d97e,Weather
+56e371f2-4e7a-4978-b6ff-68626434d97e,Education
+11471fa0-aa98-4dd6-ad96-d151007696d3,Weather
+22abbba8-dcbc-42b7-af69-0fc4022a5948,Agriculture
+c16897cf-e030-43a3-aca2-2c257225ba21,Geospatial
+747a8eb1-ad9c-4adb-9773-23449f7087ee,Finance
+747a8eb1-ad9c-4adb-9773-23449f7087ee,Energy
+0a7c62b8-d892-4255-97e3-cade88a4dbaa,Climate
+3dadffb6-fb28-4445-8f6a-489fa322db57,Demographics
+59208589-dcc4-4dfe-8f04-396a1d86f9ce,Water
+59208589-dcc4-4dfe-8f04-396a1d86f9ce,Labor
+8cd50890-098e-455d-8643-de1965d30b73,Labor
+8cd50890-098e-455d-8643-de1965d30b73,Public Safety
+93278b98-079a-4e6c-9115-534b61be3191,Climate
+7b54e632-6003-4c9d-9a76-5283417f13a1,Elections
+7b54e632-6003-4c9d-9a76-5283417f13a1,Labor
+7b54e632-6003-4c9d-9a76-5283417f13a1,Criminal Justice
+1e04c136-edd4-4c81-a8f2-d14e482e355e,Climate
+1e04c136-edd4-4c81-a8f2-d14e482e355e,Transportation
+8db7c432-7595-4e2c-b3ef-db11e55eab22,Elections
+8db7c432-7595-4e2c-b3ef-db11e55eab22,Housing
+7d337389-c17a-4418-b89f-1a8f4af5c8a0,Elections
+7d337389-c17a-4418-b89f-1a8f4af5c8a0,Agriculture
+7d337389-c17a-4418-b89f-1a8f4af5c8a0,Weather
+ddfb8f6b-2c47-4b17-9da8-168650eb2a1f,Housing
+ddfb8f6b-2c47-4b17-9da8-168650eb2a1f,Climate
+ddfb8f6b-2c47-4b17-9da8-168650eb2a1f,Water
+ff9409f4-0f82-4402-a348-504af65973cd,Education
+ff9409f4-0f82-4402-a348-504af65973cd,Environment
+ff9409f4-0f82-4402-a348-504af65973cd,Weather
+61b34360-c1c0-4099-b023-b731e0fc7c6f,Elections
+45673e42-f7ca-4322-b963-4ab53f230efa,Business
+45673e42-f7ca-4322-b963-4ab53f230efa,Demographics
+45673e42-f7ca-4322-b963-4ab53f230efa,Geospatial
+97019251-4dd1-46c5-b33b-8abf1af349bb,Climate
+97019251-4dd1-46c5-b33b-8abf1af349bb,Geospatial
+f4dc353e-8e76-44da-8e70-9a57eb7349fa,Labor
+e126fdab-a7f6-4493-b6a6-e228a7bc6fa3,Demographics
+e126fdab-a7f6-4493-b6a6-e228a7bc6fa3,Agriculture
+13e6d68f-221d-4926-b8c7-308b15ce8008,Labor
+13e6d68f-221d-4926-b8c7-308b15ce8008,Agriculture
+13e6d68f-221d-4926-b8c7-308b15ce8008,Criminal Justice
+fb5316ef-365e-4e10-8b59-da027c26038a,Demographics
+b791d2f3-9f7f-4073-9cb1-d36adb1d9ffd,Criminal Justice
+b791d2f3-9f7f-4073-9cb1-d36adb1d9ffd,Business
+b791d2f3-9f7f-4073-9cb1-d36adb1d9ffd,Public Safety
+5e78ff4a-d4f3-4042-ba4b-60756d69b7e1,Housing
+213d387d-bbfe-47a7-9498-db7fc215256f,Business
+213d387d-bbfe-47a7-9498-db7fc215256f,Social Services
+7ab608c8-ffbe-4518-9533-c78c751beed7,Labor
+7ab608c8-ffbe-4518-9533-c78c751beed7,Transportation
+a7662bc4-50d3-4a3b-97b8-661ce7b1cea5,Agriculture
+a7662bc4-50d3-4a3b-97b8-661ce7b1cea5,Social Services
+a7662bc4-50d3-4a3b-97b8-661ce7b1cea5,Criminal Justice
+63618ea7-2aee-4c9b-aa96-1f189c6687a5,Criminal Justice
+b9f49893-eb16-4deb-a146-940765b5a14f,Environment
+431eb9a2-e09b-4d1c-ba65-fc2a49cd48fe,Elections
+431eb9a2-e09b-4d1c-ba65-fc2a49cd48fe,Housing
+c1b30e37-f2ed-4f60-b4a0-69d2385624d4,Agriculture
+00800a44-8535-4193-b65c-1583597793e0,Elections
+00800a44-8535-4193-b65c-1583597793e0,Transportation
+d8d9ccfb-4918-498d-b2cd-e36c75e2f6ec,Housing
+d8d9ccfb-4918-498d-b2cd-e36c75e2f6ec,Energy
+daeef4b6-cc82-4ef4-b487-ad7eff5d8aca,Transportation
+8bec0197-1ef5-42f2-a52b-1becc947f909,Health
+8bec0197-1ef5-42f2-a52b-1becc947f909,Science & Research
+ab23dcef-2928-4245-ae7f-5453270ba348,Geospatial
+ab23dcef-2928-4245-ae7f-5453270ba348,Finance
+7b0d486d-85de-4bcb-b30c-d026dcb8e06f,Environment
+7b0d486d-85de-4bcb-b30c-d026dcb8e06f,Demographics
+e276e556-caa6-4dc4-8d23-bd4fb4300011,Education
+e276e556-caa6-4dc4-8d23-bd4fb4300011,Housing
+e276e556-caa6-4dc4-8d23-bd4fb4300011,Water
+66fdd816-5e96-4b20-91e2-107e96f4213f,Social Services
+ece05a84-df35-4ae2-ab47-3298ca055e3b,Public Safety
+995c747b-ada4-49b1-befe-58abf9afac79,Geospatial
+ac208fb0-6f01-4a90-a476-b30294763c3b,Energy
+ac208fb0-6f01-4a90-a476-b30294763c3b,Climate
+aaef7cb8-4050-4ce5-be06-bdb6559ad6a0,Labor
+60f18904-ac23-4dd4-9b1c-54cd46b220ee,Energy
+60f18904-ac23-4dd4-9b1c-54cd46b220ee,Climate
+60f18904-ac23-4dd4-9b1c-54cd46b220ee,Social Services
+9f100830-55a2-404f-9f4b-55f5629a1edd,Geospatial
+9f100830-55a2-404f-9f4b-55f5629a1edd,Health
+dd139c1b-dc02-4bf5-b740-01ed61536aeb,Geospatial
+dd139c1b-dc02-4bf5-b740-01ed61536aeb,Weather
+dd139c1b-dc02-4bf5-b740-01ed61536aeb,Criminal Justice
+7e59ae5c-6e83-4775-9a36-f12c6f2cf1d7,Housing
+7e59ae5c-6e83-4775-9a36-f12c6f2cf1d7,Elections
+7e59ae5c-6e83-4775-9a36-f12c6f2cf1d7,Water
+1fef7254-7878-4665-8da8-b4aee0a08c1a,Public Safety
+1fef7254-7878-4665-8da8-b4aee0a08c1a,Environment
+0f8d05a4-e2a1-479c-b7e1-6a5c25b6995e,Water
+0f8d05a4-e2a1-479c-b7e1-6a5c25b6995e,Finance
+51d7a0bf-78f5-4516-aff1-32dcf257b57d,Climate
+51d7a0bf-78f5-4516-aff1-32dcf257b57d,Social Services
+5b43d2b3-7d98-4a35-9d4d-c0beb821c470,Science & Research
+860a94b2-07b0-4836-bb74-88f45bbdbd9e,Labor
+860a94b2-07b0-4836-bb74-88f45bbdbd9e,Environment
+44008ed8-d64d-408c-8acc-bddfde117e3b,Energy
+44008ed8-d64d-408c-8acc-bddfde117e3b,Public Safety
+f38a0405-3f01-4eb1-85a0-193e41dfa4c4,Weather
+5124018d-9bda-46c6-8363-526b2c712f73,Geospatial
+998dd2bf-cfca-4080-a321-aee3a17f8fb8,Social Services
+998dd2bf-cfca-4080-a321-aee3a17f8fb8,Science & Research
+9dd6d1ce-dc86-4d2e-bf9f-f600bc795a35,Public Safety
+9dd6d1ce-dc86-4d2e-bf9f-f600bc795a35,Finance
+9dd6d1ce-dc86-4d2e-bf9f-f600bc795a35,Housing
+6ce39bd4-13cb-4ed5-b101-093f57c6aa18,Agriculture
+25410dd0-522c-49ce-a1bd-cb3e8e13c6d0,Education
+25410dd0-522c-49ce-a1bd-cb3e8e13c6d0,Transportation
+25410dd0-522c-49ce-a1bd-cb3e8e13c6d0,Water
+845cc5e4-0db4-443b-b63f-776af2698136,Agriculture
+837ef893-5245-4883-bad8-667785f66b0c,Energy
+31c1e5c6-b372-4889-aae5-eeba684b25ab,Criminal Justice
+31c1e5c6-b372-4889-aae5-eeba684b25ab,Health
+48ad6c43-d18a-4312-8f08-fe7448c15db4,Agriculture
+48ad6c43-d18a-4312-8f08-fe7448c15db4,Criminal Justice
+ac9177d7-9ac6-4eda-9174-abbeccfe7233,Health
+ed95fbf4-cdb5-41f7-ab14-ba63f4587123,Water
+ed95fbf4-cdb5-41f7-ab14-ba63f4587123,Energy
+ed95fbf4-cdb5-41f7-ab14-ba63f4587123,Demographics
+402db6e4-752b-4441-a94c-5ae6995d5455,Criminal Justice
+402db6e4-752b-4441-a94c-5ae6995d5455,Public Safety
+ecf01d65-53ac-4250-9769-d568a16a6a52,Agriculture
+ecf01d65-53ac-4250-9769-d568a16a6a52,Energy
+ecf01d65-53ac-4250-9769-d568a16a6a52,Criminal Justice
+c2ce4d83-ced3-4156-8947-7c5cc1843fdb,Education
+5600fc26-35f1-4882-bf0f-d76daa10b26b,Education
+13f09ea9-f42b-401a-9dab-8348b637f362,Weather
+13f09ea9-f42b-401a-9dab-8348b637f362,Labor
+13f09ea9-f42b-401a-9dab-8348b637f362,Energy
+a2665185-2474-41a0-ad60-10759ae5f787,Criminal Justice
+a2665185-2474-41a0-ad60-10759ae5f787,Housing
+6c71fd0b-ea28-4962-b580-036449f3901b,Criminal Justice
+12bdeaa1-07fe-4eb3-b83a-f816e3c65385,Labor
+12bdeaa1-07fe-4eb3-b83a-f816e3c65385,Agriculture
+12bdeaa1-07fe-4eb3-b83a-f816e3c65385,Weather
+52c3a53e-0563-43f8-a36c-443c700dd6c7,Criminal Justice
+52c3a53e-0563-43f8-a36c-443c700dd6c7,Agriculture
+c138c784-c86b-43b3-8c55-58aa424c93a8,Finance
+c138c784-c86b-43b3-8c55-58aa424c93a8,Water
+1683dd0d-27be-4e7f-a07b-9aba7d79e641,Labor
+1683dd0d-27be-4e7f-a07b-9aba7d79e641,Demographics
+1683dd0d-27be-4e7f-a07b-9aba7d79e641,Criminal Justice
+2a952aad-18fd-4064-817f-e2b04f1ad6f4,Criminal Justice
+2a952aad-18fd-4064-817f-e2b04f1ad6f4,Social Services
+cc9e20e2-6d39-42d3-b178-4033fb2689a5,Transportation
+f96d58bd-1238-4b27-999d-77b9ca7b9b2e,Health
+f96d58bd-1238-4b27-999d-77b9ca7b9b2e,Public Safety
+7d996498-4b3b-4ac9-8163-8dd4467ec2e1,Labor
+60b2f1b2-74ea-42cc-a423-beb42a878777,Housing
+8d045058-84ce-4453-837a-c4983e2b3803,Education
+9bbf89f4-bf86-4f7c-9fff-299dc3cc3d19,Social Services
+4d9f7f2f-2648-47d7-a53e-19ceca091a8e,Weather
+0a32aa4a-4221-40d0-9be9-c90b5b8df074,Water
+0a32aa4a-4221-40d0-9be9-c90b5b8df074,Transportation
+1d838b38-b4a2-4183-813f-4fc51eb8317c,Agriculture
+1d838b38-b4a2-4183-813f-4fc51eb8317c,Health
+00220f06-bbe1-4945-b5a1-ba319e9d25a0,Transportation
+00220f06-bbe1-4945-b5a1-ba319e9d25a0,Elections
+14bfcd47-8f7d-4839-96d0-769ed63003ed,Business
+14bfcd47-8f7d-4839-96d0-769ed63003ed,Public Safety
+14bfcd47-8f7d-4839-96d0-769ed63003ed,Labor
+3ed41a0d-a379-40d8-b095-23130ac88912,Criminal Justice
+3ed41a0d-a379-40d8-b095-23130ac88912,Public Safety
+5cd66a08-f4f7-4043-b15f-450124596299,Demographics
+5cd66a08-f4f7-4043-b15f-450124596299,Science & Research
+f85f53f3-262f-488e-96ba-a992f52ace4f,Weather
+f85f53f3-262f-488e-96ba-a992f52ace4f,Elections
+f85f53f3-262f-488e-96ba-a992f52ace4f,Demographics
+6b660e33-761e-4682-b4dd-113b840de921,Business
+6b660e33-761e-4682-b4dd-113b840de921,Geospatial
+73a19d8d-a00c-4d4e-8066-8f540d475f91,Energy
+73a19d8d-a00c-4d4e-8066-8f540d475f91,Housing
+a98442c5-349a-42a5-b8fc-a90c58cc3ae1,Housing
+a98442c5-349a-42a5-b8fc-a90c58cc3ae1,Science & Research
+a98442c5-349a-42a5-b8fc-a90c58cc3ae1,Criminal Justice
+182ba25c-b5a7-4a2d-b3ed-9f6eacc02a8c,Climate
+3a4a09a6-93fc-4315-a579-5f7c54d3524d,Social Services
+3a4a09a6-93fc-4315-a579-5f7c54d3524d,Agriculture
+c2a0cb84-5f12-421b-811a-b6353d6bef8b,Science & Research
+c2a0cb84-5f12-421b-811a-b6353d6bef8b,Water
+e0c9e46c-47e7-423e-be85-555f46b218d3,Education
+e0c9e46c-47e7-423e-be85-555f46b218d3,Finance
+fdebbff0-388c-4d0b-b165-226ed8947a4c,Agriculture
+f0e31cc9-700b-4b28-8b51-07636644b546,Environment
+48e71221-eb8d-40cd-b415-b36d72af0087,Transportation
+48e71221-eb8d-40cd-b415-b36d72af0087,Agriculture
+48e71221-eb8d-40cd-b415-b36d72af0087,Business
+31e52b48-e142-4240-946c-e098bfab22d2,Environment
+31e52b48-e142-4240-946c-e098bfab22d2,Public Safety
+740d7399-1880-48e8-badb-2a9dc81d9453,Health
+740d7399-1880-48e8-badb-2a9dc81d9453,Water
+740d7399-1880-48e8-badb-2a9dc81d9453,Housing
+b34e4c62-7fe1-4a49-915a-f8060f8f6702,Geospatial
+b34e4c62-7fe1-4a49-915a-f8060f8f6702,Labor
+29445cf1-1085-48c9-bec0-900ec1a6c374,Water
+29445cf1-1085-48c9-bec0-900ec1a6c374,Public Safety
+adc32e89-269f-4bcc-b810-581d612667c5,Environment
+adc32e89-269f-4bcc-b810-581d612667c5,Criminal Justice
+b1d1ae97-e299-4146-8ac1-33e97ddf4079,Science & Research
+b1d1ae97-e299-4146-8ac1-33e97ddf4079,Demographics
+f3f29694-7656-4d05-8509-6c59191871fe,Business
+f3f29694-7656-4d05-8509-6c59191871fe,Environment
+f3f29694-7656-4d05-8509-6c59191871fe,Demographics
+e1379884-803f-470b-83c5-ba89dde5a61a,Water
+3f8c03e1-9439-4e83-934a-b537ec634d79,Demographics
+3f8c03e1-9439-4e83-934a-b537ec634d79,Labor
+3f8c03e1-9439-4e83-934a-b537ec634d79,Climate
+7044042f-505c-4808-9a1c-0f261c32fc4d,Energy
+7044042f-505c-4808-9a1c-0f261c32fc4d,Health
+d6d61cf9-ff88-46e1-b8ed-15b24502744f,Finance
+d6d61cf9-ff88-46e1-b8ed-15b24502744f,Water
+d6d61cf9-ff88-46e1-b8ed-15b24502744f,Demographics
+4c082d78-3ca6-4aba-902c-c17cee7bafe6,Agriculture
+4c082d78-3ca6-4aba-902c-c17cee7bafe6,Energy
+4733356c-131e-4118-a34a-4bd84064d8c9,Housing
+4733356c-131e-4118-a34a-4bd84064d8c9,Education
+01c1b5fe-150e-4543-8a31-a6f13bfb40b8,Weather
+01c1b5fe-150e-4543-8a31-a6f13bfb40b8,Elections
+f101d124-09df-4119-ad93-66af7cacd226,Elections
+f101d124-09df-4119-ad93-66af7cacd226,Climate
+d5a16f46-971e-4c82-b644-fc92c9e616c5,Health
+d5a16f46-971e-4c82-b644-fc92c9e616c5,Elections
+89943c6e-f260-4c38-a5b7-01f65dddf4a6,Transportation
+89943c6e-f260-4c38-a5b7-01f65dddf4a6,Labor
+89943c6e-f260-4c38-a5b7-01f65dddf4a6,Agriculture
+645a0930-998c-4081-897a-099240ffe046,Agriculture
+645a0930-998c-4081-897a-099240ffe046,Water
+645a0930-998c-4081-897a-099240ffe046,Elections
+092d59f8-31b6-4816-b014-443b77412400,Geospatial
+a0ada69f-52dc-4b02-a6df-4270373aeb3a,Housing
+a0ada69f-52dc-4b02-a6df-4270373aeb3a,Energy
+a0ada69f-52dc-4b02-a6df-4270373aeb3a,Weather
+c1951603-1a6c-44d3-a0ec-6bf147523504,Education
+3b6be5d8-ce4e-4ca5-bc14-90498a5afe5c,Demographics
+3b6be5d8-ce4e-4ca5-bc14-90498a5afe5c,Climate
+4ba687f0-4415-4dcb-85e6-e5e7d1c17ae1,Education
+76a584d4-9a57-4350-9623-2c2912a88d5d,Water
+8f14eabe-aa80-4399-9a65-08c7826151b2,Agriculture
+164fdeb6-f9c2-472d-ab8d-f8d897792a54,Agriculture
+164fdeb6-f9c2-472d-ab8d-f8d897792a54,Health
+164fdeb6-f9c2-472d-ab8d-f8d897792a54,Demographics
+b79295bc-df89-48fc-8173-9013e4e369df,Elections
+b55d4f76-fbba-421f-a6d0-667182d4dc3d,Energy
+43bcb650-24a8-4e55-9abc-442c32fd8765,Climate
+43bcb650-24a8-4e55-9abc-442c32fd8765,Demographics
+1adba788-a4ef-4b38-b233-894c02634f23,Education
+1adba788-a4ef-4b38-b233-894c02634f23,Geospatial
+1adba788-a4ef-4b38-b233-894c02634f23,Criminal Justice
+389ee88b-4a01-4158-857d-3150e800e621,Public Safety
+389ee88b-4a01-4158-857d-3150e800e621,Geospatial
+d57d8270-4083-4dba-9152-048288332dab,Education
+26ba6471-1c09-4d18-a5d6-47d4455c2770,Public Safety
+26ba6471-1c09-4d18-a5d6-47d4455c2770,Labor
+f17822ab-a758-49c4-b25a-fee5a40aa57d,Health
+f17822ab-a758-49c4-b25a-fee5a40aa57d,Science & Research
+e7904211-2c90-45fc-9bb6-17150f328ce4,Labor
+1f9dc298-15f2-49cc-b38e-c8e211d58c3b,Finance
+1f9dc298-15f2-49cc-b38e-c8e211d58c3b,Environment
+48bfecc9-539a-4f81-9e81-2369b7a16ee1,Finance
+48bfecc9-539a-4f81-9e81-2369b7a16ee1,Weather
+48bfecc9-539a-4f81-9e81-2369b7a16ee1,Education
+075ae662-36fb-4c48-a38b-49eead14afcb,Agriculture
+6ef67a92-15f3-48d6-b767-bef329240e9a,Science & Research
+6ef67a92-15f3-48d6-b767-bef329240e9a,Finance
+99c35f0f-6fed-45d5-82d3-bb432a17f4c5,Science & Research
+64e97cc0-861f-4d03-87fb-f4eb142a0345,Housing
+d3a3cc05-fcaf-4725-9c9f-b0e0c15e9657,Public Safety
+d5c6b18a-c7ca-4e10-86da-f36bbfdd0a4d,Housing
+b9863546-08bb-4ab2-b300-5e9277b6f4d7,Public Safety
+b9863546-08bb-4ab2-b300-5e9277b6f4d7,Health
+b9863546-08bb-4ab2-b300-5e9277b6f4d7,Transportation
+1cfd3994-7330-4ffa-9814-c62d7580861c,Education
+0fcae0b6-f2c0-4252-ade8-c804afbcfde6,Water
+81c609ed-d11d-4cf4-a38a-d5ecb615f3c3,Energy
+81c609ed-d11d-4cf4-a38a-d5ecb615f3c3,Business
+81c609ed-d11d-4cf4-a38a-d5ecb615f3c3,Public Safety
+484fb396-4c24-4b32-89fe-a87d3f783367,Transportation
+2379046c-980e-45ca-aa94-e593c66ea9e4,Demographics
+2379046c-980e-45ca-aa94-e593c66ea9e4,Business
+2379046c-980e-45ca-aa94-e593c66ea9e4,Elections
+b46df30d-dd47-4e3a-8645-812e6954a3cd,Climate
+db4ce8ca-440e-48c0-bbe2-b0519eb32fc2,Public Safety
+db4ce8ca-440e-48c0-bbe2-b0519eb32fc2,Energy
+4ee181ab-50c6-458a-ac78-d5d6bbfc4fc4,Social Services
+4ee181ab-50c6-458a-ac78-d5d6bbfc4fc4,Environment
+695d2dc1-7423-4c97-ac14-72a7627db335,Transportation
+695d2dc1-7423-4c97-ac14-72a7627db335,Weather
+695d2dc1-7423-4c97-ac14-72a7627db335,Finance
+3dfdca90-b996-49c9-81cf-01f42911038e,Housing
+50449758-5583-4d55-b75f-bf0c6b57721b,Agriculture
+a64700f7-b1db-48e3-875f-ec831b206b37,Water
+a64700f7-b1db-48e3-875f-ec831b206b37,Demographics
+b0064a5e-0fc9-44b5-a982-6460d0c98d02,Education
+b0064a5e-0fc9-44b5-a982-6460d0c98d02,Elections
+b0064a5e-0fc9-44b5-a982-6460d0c98d02,Criminal Justice
+44e55cc1-6da7-4270-8dd9-8aaedc550b60,Finance
+44e55cc1-6da7-4270-8dd9-8aaedc550b60,Business
+44e55cc1-6da7-4270-8dd9-8aaedc550b60,Transportation
+7ef23352-f057-4a1f-9d65-efbaf933d078,Elections
+7ef23352-f057-4a1f-9d65-efbaf933d078,Weather
+7ef23352-f057-4a1f-9d65-efbaf933d078,Climate
+1ac9fc65-ab9b-4429-8d88-0fecc1aef197,Criminal Justice
+1ac9fc65-ab9b-4429-8d88-0fecc1aef197,Social Services
+1ac9fc65-ab9b-4429-8d88-0fecc1aef197,Geospatial
+653ad53d-157a-4a63-9f78-99ce8c457d0b,Demographics
+653ad53d-157a-4a63-9f78-99ce8c457d0b,Energy
+653ad53d-157a-4a63-9f78-99ce8c457d0b,Finance
+3450e7e8-2248-4f9b-9fef-fbe6c208aa2a,Energy
+4a9487b4-ce65-44bb-88eb-f0e2133c72c8,Public Safety
+4a9487b4-ce65-44bb-88eb-f0e2133c72c8,Social Services
+475ddf87-91c0-4074-a46c-6d9b94733e88,Geospatial
+2749fe5b-504e-4dd0-819a-129b7f8f8045,Education
+fc5ab35b-9c37-4bf8-adcf-18dbe66b0d40,Finance
+104b7dbd-d3c1-4883-bb87-9bb87abbb73a,Finance
+1be82c71-eeb6-464d-9388-c144a9e2159f,Environment
+1be82c71-eeb6-464d-9388-c144a9e2159f,Elections
+4530c060-b849-4190-a8ab-0fbddc2c28b8,Education
+4530c060-b849-4190-a8ab-0fbddc2c28b8,Public Safety
+4530c060-b849-4190-a8ab-0fbddc2c28b8,Elections
+85df98f7-1601-4c25-bc1c-71ef725b6c85,Geospatial
+35dcc69a-ded9-42a7-9646-db85f04d3d14,Geospatial
+35dcc69a-ded9-42a7-9646-db85f04d3d14,Public Safety
+510f5ff4-3265-4020-a9b5-820d6664e14a,Elections
+b915d4f1-569d-486c-81f8-c99ebf835ddb,Criminal Justice
+b915d4f1-569d-486c-81f8-c99ebf835ddb,Demographics
+b915d4f1-569d-486c-81f8-c99ebf835ddb,Labor
+4b813fcd-cf19-41b3-b7b3-273871d8fba4,Labor
+917dc868-7309-40ce-9351-828cd3e36948,Science & Research
+917dc868-7309-40ce-9351-828cd3e36948,Climate
+8fa9125f-449a-4791-8718-54d1051706fc,Environment
+8fa9125f-449a-4791-8718-54d1051706fc,Health
+404291be-16c2-4509-a208-0ccd6a959ea7,Agriculture
+404291be-16c2-4509-a208-0ccd6a959ea7,Environment
+9d5c1f36-1ca4-499a-aade-e40acaf209e3,Agriculture
+9d5c1f36-1ca4-499a-aade-e40acaf209e3,Education
+e8d1cc07-45f5-4225-8755-76c4a9364a8a,Geospatial
+e8d1cc07-45f5-4225-8755-76c4a9364a8a,Business
+9ddeac5f-f34a-4ef7-9fb0-2abf3853fda1,Social Services
+9ddeac5f-f34a-4ef7-9fb0-2abf3853fda1,Labor
+58fa80cf-ac35-4ed4-b082-ca9fd8b809c7,Agriculture
+58fa80cf-ac35-4ed4-b082-ca9fd8b809c7,Elections
+e341b9a6-cdfe-4a99-8739-1ab3d37fd86f,Labor
+e341b9a6-cdfe-4a99-8739-1ab3d37fd86f,Agriculture
+e341b9a6-cdfe-4a99-8739-1ab3d37fd86f,Transportation
+23582209-93e2-4d21-94f5-75107cdfa394,Energy
+91b1c582-48b0-451c-8b97-0ac6038315f3,Transportation
+a30dd0a6-6fbb-481d-8e77-3a009a43e58e,Labor
+a30dd0a6-6fbb-481d-8e77-3a009a43e58e,Transportation
+3fde3fe5-d743-493a-9a6c-6dd29a1155a7,Demographics
+3fde3fe5-d743-493a-9a6c-6dd29a1155a7,Water
+3fde3fe5-d743-493a-9a6c-6dd29a1155a7,Labor
+b25c331a-aa2e-4cbe-b998-e619acca77a3,Labor
+fdba61aa-0737-4f57-9ec0-49be3cb16be3,Labor
+fdba61aa-0737-4f57-9ec0-49be3cb16be3,Demographics
+e93e2c9a-166a-4f37-8dc1-af0213449fa6,Elections
+e93e2c9a-166a-4f37-8dc1-af0213449fa6,Environment
+5c09d37d-5c69-420a-91b0-2c658aa10500,Business
+a6f39a84-12bc-4a0f-b28e-a0871e221419,Criminal Justice
+a6f39a84-12bc-4a0f-b28e-a0871e221419,Social Services
+192d5ced-fa42-4dbc-842f-d23445ddef18,Labor
+192d5ced-fa42-4dbc-842f-d23445ddef18,Finance
+192d5ced-fa42-4dbc-842f-d23445ddef18,Demographics
+9a687f47-87e1-4cf9-b060-3e502333f906,Science & Research
+9a687f47-87e1-4cf9-b060-3e502333f906,Water
+12b075fa-fb49-40a7-83fc-c35be455b5e0,Criminal Justice
+a0338043-eab7-4b04-9bb4-bf430690c740,Labor
+a0338043-eab7-4b04-9bb4-bf430690c740,Criminal Justice
+d60dccc9-8664-4a90-a1a2-fb145144dc32,Labor
+d60dccc9-8664-4a90-a1a2-fb145144dc32,Public Safety
+d60dccc9-8664-4a90-a1a2-fb145144dc32,Education
+72016676-5c18-460b-8982-cf810a46321e,Weather
+03dbffa3-04c9-4b96-a980-ffa1e1b85223,Education
+03dbffa3-04c9-4b96-a980-ffa1e1b85223,Housing
+5ec016aa-ef52-4585-924a-462e150c61dd,Environment
+d1f8a2cc-116a-4560-b0d5-ad35de9b0f6b,Science & Research
+d1f8a2cc-116a-4560-b0d5-ad35de9b0f6b,Transportation
+6f5ce2d5-240a-46c6-8c09-69fc31fe3c42,Weather
+6f5ce2d5-240a-46c6-8c09-69fc31fe3c42,Science & Research
+727e1f0e-84f5-455a-be76-f768fc0bca50,Labor
+727e1f0e-84f5-455a-be76-f768fc0bca50,Elections
+15ef49e0-1ae9-453b-8550-9cc5ceda134f,Environment
+15ef49e0-1ae9-453b-8550-9cc5ceda134f,Demographics
+cf3012d6-08ae-4072-8c6e-a84c56fe2af0,Water
+c5635682-5173-4fe5-a1f3-864ad3c68711,Water
+c5635682-5173-4fe5-a1f3-864ad3c68711,Business
+c5635682-5173-4fe5-a1f3-864ad3c68711,Health
+e6f97acb-a460-4049-81cd-f382deaf26dd,Energy
+e6f97acb-a460-4049-81cd-f382deaf26dd,Health
+2859898e-4283-4724-b4aa-53bb80cf54ea,Water
+2859898e-4283-4724-b4aa-53bb80cf54ea,Weather
+0c39bffb-82c0-45e9-9f69-3cf56c54fa63,Elections
+8992aa13-fe48-481b-a39b-630a7f200747,Finance
+ed5df24c-5ef7-4238-8e39-487694d51fae,Science & Research
+faf373af-38ac-45dc-9ddd-bb4db85540a2,Social Services
+7425623b-bc87-450f-8485-a13351b5c0bb,Geospatial
+7425623b-bc87-450f-8485-a13351b5c0bb,Health
+60b48a0a-122d-4f2b-b5d0-c15cfbf2ed8b,Climate
+60b48a0a-122d-4f2b-b5d0-c15cfbf2ed8b,Geospatial
+670462ba-56da-4f4e-91cd-7bff00969c78,Finance
+670462ba-56da-4f4e-91cd-7bff00969c78,Housing
+902358cd-c54f-4df6-a38a-408662eee9e7,Demographics
+b0f457c0-73e6-4059-b3de-fbc6c655eb82,Climate
+30e671ca-8ac3-4cac-8c81-a9bb2ce4448a,Public Safety
+30e671ca-8ac3-4cac-8c81-a9bb2ce4448a,Elections
+30e671ca-8ac3-4cac-8c81-a9bb2ce4448a,Finance
+788e8d69-641f-4107-9ff8-91f8fb807b44,Business
+788e8d69-641f-4107-9ff8-91f8fb807b44,Health
+788e8d69-641f-4107-9ff8-91f8fb807b44,Energy
+f68ef735-79f4-4c91-902d-7c36c7748087,Demographics
+f68ef735-79f4-4c91-902d-7c36c7748087,Water
+f68ef735-79f4-4c91-902d-7c36c7748087,Agriculture
+8b509fbd-9725-4141-88f8-744df5c3d9f5,Criminal Justice
+8b509fbd-9725-4141-88f8-744df5c3d9f5,Agriculture
+8b509fbd-9725-4141-88f8-744df5c3d9f5,Health
+25d149b7-ef40-4e5d-b298-2e2ec4ea6a81,Transportation
+25d149b7-ef40-4e5d-b298-2e2ec4ea6a81,Water
+cb2dfa3b-df9c-41d9-952a-8cab9f3a179f,Demographics
+31e6e041-b6d3-4ea0-9917-b1e3f83a0d77,Energy
+460c28dc-205d-4d0d-8f3b-78438c8c3489,Elections
+460c28dc-205d-4d0d-8f3b-78438c8c3489,Business
+460c28dc-205d-4d0d-8f3b-78438c8c3489,Housing
+6e479b1d-b05b-41dc-80e7-0e9a014e0964,Environment
+6e479b1d-b05b-41dc-80e7-0e9a014e0964,Finance
+9823fa1e-ec1a-4a9c-a71f-3fa0c6efe6a6,Transportation
+9823fa1e-ec1a-4a9c-a71f-3fa0c6efe6a6,Demographics
+05c713ed-8c8c-4e49-aca2-8c46e6efde73,Environment
+05c713ed-8c8c-4e49-aca2-8c46e6efde73,Health
+9aaa1c0e-9832-404b-88cb-ec996f0b3399,Water
+9aaa1c0e-9832-404b-88cb-ec996f0b3399,Geospatial
+9aaa1c0e-9832-404b-88cb-ec996f0b3399,Social Services
+30d45027-b249-4b87-8836-57801e028c03,Science & Research
+836f5e47-32c1-4c87-90a5-b247a20154a3,Finance
+1774e18a-b192-45b6-b18f-91b98998a05c,Science & Research
+1774e18a-b192-45b6-b18f-91b98998a05c,Energy
+5b7241e7-a8f1-4ca4-820d-34397c4ac889,Labor
+5b7241e7-a8f1-4ca4-820d-34397c4ac889,Public Safety
+5b7241e7-a8f1-4ca4-820d-34397c4ac889,Transportation
+04d3653e-389a-47ee-9e7a-3ab4bde9b643,Demographics
+7d60dd64-4778-4951-a149-cae7b724476b,Social Services
+7d60dd64-4778-4951-a149-cae7b724476b,Weather
+7d60dd64-4778-4951-a149-cae7b724476b,Demographics
+42c33cb8-800a-4582-9a65-129b35098b1d,Demographics
+7d7a30b9-2574-467e-ad04-f0ed49a0274e,Education
+7d7a30b9-2574-467e-ad04-f0ed49a0274e,Climate
+7d7a30b9-2574-467e-ad04-f0ed49a0274e,Elections
+8d21d778-c444-4b6e-95d7-7a7bea5f1376,Social Services
+8d21d778-c444-4b6e-95d7-7a7bea5f1376,Housing
+a515eb02-1cc6-486a-aecf-17465772598b,Environment
+a515eb02-1cc6-486a-aecf-17465772598b,Elections
+ea262d2a-8584-4ec4-b1f4-24158924e92d,Energy
+ea262d2a-8584-4ec4-b1f4-24158924e92d,Criminal Justice
+ea262d2a-8584-4ec4-b1f4-24158924e92d,Environment
+fa7b6819-ee02-4208-9e35-8d6cadb2e2e8,Housing
+fa7b6819-ee02-4208-9e35-8d6cadb2e2e8,Water
+25f10798-13da-419d-ab90-83d75a4be954,Finance
+25f10798-13da-419d-ab90-83d75a4be954,Environment
+25f10798-13da-419d-ab90-83d75a4be954,Transportation
+7dd3a067-50bf-4da1-9f07-e4dfdf66be97,Business
+7dd3a067-50bf-4da1-9f07-e4dfdf66be97,Criminal Justice
+42a2d9af-9a48-457d-8a01-7998bf920778,Climate
+42a2d9af-9a48-457d-8a01-7998bf920778,Labor
+d542e985-4b61-4ad4-a911-99e060ff8541,Energy
+d542e985-4b61-4ad4-a911-99e060ff8541,Education
+a2b13d58-b2e9-431f-b6e5-e68753359546,Public Safety
+a2b13d58-b2e9-431f-b6e5-e68753359546,Energy
+b7c05dce-748a-45af-a50d-5954f508054d,Weather
+0d20d3a0-2adc-4cb2-a94a-25da8de3bb6b,Finance
+fed5886f-bdb9-4323-958a-ca435607654f,Environment
+fed5886f-bdb9-4323-958a-ca435607654f,Energy
+fed5886f-bdb9-4323-958a-ca435607654f,Climate
+a5ca941d-4ad4-48b9-91e6-30d2c53e41e7,Business
+a5ca941d-4ad4-48b9-91e6-30d2c53e41e7,Social Services
+b0cd287f-6860-451c-8579-8ecef28ad1a8,Energy
+200545cc-ab89-4c20-a749-08dfdbdf7a87,Business
+bd18ff7e-5788-454e-9476-9beac9f62715,Finance
+c1d03ef9-7c83-4f14-92dd-b5d06a185863,Housing
+c1d03ef9-7c83-4f14-92dd-b5d06a185863,Climate
+c1d03ef9-7c83-4f14-92dd-b5d06a185863,Criminal Justice
+02f7a6f3-9b59-48a3-ae63-4ea976eb999f,Labor
+02f7a6f3-9b59-48a3-ae63-4ea976eb999f,Weather
+02f7a6f3-9b59-48a3-ae63-4ea976eb999f,Health
+6d05929b-314c-4a79-882e-c3d0a261daad,Labor
+6d05929b-314c-4a79-882e-c3d0a261daad,Business
+6d05929b-314c-4a79-882e-c3d0a261daad,Social Services
+2164625c-e9b6-473c-af91-cf80bad1844e,Science & Research
+2164625c-e9b6-473c-af91-cf80bad1844e,Elections
+2164625c-e9b6-473c-af91-cf80bad1844e,Housing
+c974eecc-c79a-4631-acda-3f1d9f5f44b6,Housing
+c974eecc-c79a-4631-acda-3f1d9f5f44b6,Water
+c974eecc-c79a-4631-acda-3f1d9f5f44b6,Agriculture
+785e55a6-4da5-4f4e-8185-bc07cedc739f,Environment
+785e55a6-4da5-4f4e-8185-bc07cedc739f,Agriculture
+d270fd61-bcdf-40cc-979a-5efb094b61ca,Health
+d270fd61-bcdf-40cc-979a-5efb094b61ca,Education
+d8677594-996c-40a8-9c42-23b921c44201,Elections
+d8677594-996c-40a8-9c42-23b921c44201,Weather
+47e513af-24ea-492f-9a74-e2afc964c3e0,Water
+ec42da88-7992-421f-a6c9-adc905bc9db2,Elections
+ec42da88-7992-421f-a6c9-adc905bc9db2,Health
+ec42da88-7992-421f-a6c9-adc905bc9db2,Social Services
+650eb3c6-2ad6-4b22-814c-b41c99645146,Labor
+82349ef7-0454-4c4e-a8ef-695af04cd5b9,Finance
+82349ef7-0454-4c4e-a8ef-695af04cd5b9,Housing
+82349ef7-0454-4c4e-a8ef-695af04cd5b9,Agriculture
+48f6fedc-5ca1-4c9e-a784-122d745ee097,Business
+48f6fedc-5ca1-4c9e-a784-122d745ee097,Demographics
+05e2ee20-cce3-4855-9790-7043d3be7548,Demographics
+05e2ee20-cce3-4855-9790-7043d3be7548,Social Services
+3ae23c02-6f01-4412-97c8-e03af4acb401,Housing
+9d0271ff-7128-45a8-bc76-f29d239de923,Water
+9d0271ff-7128-45a8-bc76-f29d239de923,Weather
+69eb4c10-1673-4cc1-99b9-2e8fcdb7dbe5,Science & Research
+69eb4c10-1673-4cc1-99b9-2e8fcdb7dbe5,Climate
+69eb4c10-1673-4cc1-99b9-2e8fcdb7dbe5,Geospatial
+f8d9e5b0-4f02-42b0-81ae-3aad89b076d1,Public Safety
+f8d9e5b0-4f02-42b0-81ae-3aad89b076d1,Agriculture
+f8d9e5b0-4f02-42b0-81ae-3aad89b076d1,Science & Research
+035a3393-d14c-4838-b487-bbd4ef35f965,Science & Research
+035a3393-d14c-4838-b487-bbd4ef35f965,Energy
+7ec0b833-9a3b-4402-a584-a1f3e5645d4d,Agriculture
+7ec0b833-9a3b-4402-a584-a1f3e5645d4d,Water
+7ec0b833-9a3b-4402-a584-a1f3e5645d4d,Environment
+5c967b90-2f99-4989-9aae-36feb992e8c5,Water
+5c967b90-2f99-4989-9aae-36feb992e8c5,Science & Research
+290ab8c2-9daa-4b22-bbd5-ba72d8492aae,Geospatial
+290ab8c2-9daa-4b22-bbd5-ba72d8492aae,Environment
+8b130258-e3ce-42e5-aca1-563a288ec1f2,Business
+8b130258-e3ce-42e5-aca1-563a288ec1f2,Labor
+8b130258-e3ce-42e5-aca1-563a288ec1f2,Education
+0b802376-a963-4c61-8899-9ca128ef6e93,Education
+0c628a83-77e6-4e4d-b2dc-34d38387c70b,Elections
+15caf49e-4fcd-4c3d-9fbf-001ee5eb8f29,Environment
+e504b4df-addf-4424-a979-4f261c1343e0,Water
+e504b4df-addf-4424-a979-4f261c1343e0,Criminal Justice
+e504b4df-addf-4424-a979-4f261c1343e0,Energy
+531d6fcc-c433-4c76-a797-03a407bd9baf,Housing
+531d6fcc-c433-4c76-a797-03a407bd9baf,Elections
+531d6fcc-c433-4c76-a797-03a407bd9baf,Labor
+470f47d9-06c6-4ff6-86e0-80b4715eb549,Geospatial
+a476d9f7-4566-4b3b-960a-a2976d7fa224,Climate
+a476d9f7-4566-4b3b-960a-a2976d7fa224,Water
+3176c020-be68-472a-8876-adf846f0f0f9,Geospatial
+01602246-9d8a-415b-ae7a-b2f50b106cee,Energy
+01602246-9d8a-415b-ae7a-b2f50b106cee,Science & Research
+01602246-9d8a-415b-ae7a-b2f50b106cee,Health
+98a441e2-bfdd-4f80-a84a-c5dbb8d5bf89,Elections
+98a441e2-bfdd-4f80-a84a-c5dbb8d5bf89,Labor
+f007a19d-f307-4d4c-aed4-d28c57dcaf29,Education
+7ecaf8a1-48ed-415c-b812-c0504cedf6e1,Energy
+7ecaf8a1-48ed-415c-b812-c0504cedf6e1,Agriculture
+9e4699a7-38a6-402e-923a-48d811bc4b37,Science & Research
+9e4699a7-38a6-402e-923a-48d811bc4b37,Education
+f5d4b1ad-87f0-4a9c-8f5c-92f8fa50c9e2,Social Services
+f5d4b1ad-87f0-4a9c-8f5c-92f8fa50c9e2,Environment
+3613ecfb-deea-4ca5-bef9-be680522a774,Social Services
+03b04af5-d169-4edf-97ed-be83affbc82c,Energy
+03b04af5-d169-4edf-97ed-be83affbc82c,Public Safety
+7715103d-c1bd-4dc2-b132-94bdfe2d23cb,Demographics
+7715103d-c1bd-4dc2-b132-94bdfe2d23cb,Labor
+beb53824-9cac-49d3-aac6-b7e7bd1ff23f,Criminal Justice
+beb53824-9cac-49d3-aac6-b7e7bd1ff23f,Finance
+6ada8bc4-2962-427e-aa36-8dc87f34d953,Health
+6ada8bc4-2962-427e-aa36-8dc87f34d953,Geospatial
+cd6dc4bd-a7a0-4229-9851-5b9d6d5ef22f,Environment
+cd6dc4bd-a7a0-4229-9851-5b9d6d5ef22f,Energy
+cd6dc4bd-a7a0-4229-9851-5b9d6d5ef22f,Elections
+a37dc775-4b4e-48b1-9d8f-2aaae27a2ef4,Housing
+44974779-0eb3-4ec2-846a-fa28c67e9a54,Social Services
+a8a24108-412d-4dc4-b8b3-9849558303ef,Environment
+a8a24108-412d-4dc4-b8b3-9849558303ef,Social Services
+a8a24108-412d-4dc4-b8b3-9849558303ef,Transportation
+c546ddce-c424-4a9f-89ed-25359038a6ca,Weather
+c546ddce-c424-4a9f-89ed-25359038a6ca,Elections
+c546ddce-c424-4a9f-89ed-25359038a6ca,Energy
+f21d8601-a6df-4a88-ab00-a444031d7232,Weather
+53280696-2cf4-408d-99cb-740b3a919990,Energy
+53280696-2cf4-408d-99cb-740b3a919990,Labor
+53280696-2cf4-408d-99cb-740b3a919990,Agriculture
+b153d61d-3f2a-4c96-bf2e-31d808c512bb,Weather
+b153d61d-3f2a-4c96-bf2e-31d808c512bb,Environment
+2b6fa8ce-2682-4f51-864d-74be746291f5,Business
+2b6fa8ce-2682-4f51-864d-74be746291f5,Labor
+2b6fa8ce-2682-4f51-864d-74be746291f5,Science & Research
+55b31cca-0100-437d-b401-430413138f1a,Finance
+5b628e24-bbe3-4d3b-b3a5-f04124654523,Science & Research
+5b628e24-bbe3-4d3b-b3a5-f04124654523,Weather
+04164117-2820-48a0-aad9-9fe954204987,Social Services
+04164117-2820-48a0-aad9-9fe954204987,Climate
+f8daf7bb-6e3b-421a-bfe0-8991e37db720,Weather
+f8daf7bb-6e3b-421a-bfe0-8991e37db720,Health
+f8daf7bb-6e3b-421a-bfe0-8991e37db720,Climate
+9dd02d70-d564-4086-87f9-d64019ce201e,Demographics
+9dd02d70-d564-4086-87f9-d64019ce201e,Elections
+9dd02d70-d564-4086-87f9-d64019ce201e,Housing
+c13891fd-d8e5-4dda-a803-78f6343eee45,Finance
+4421c0cf-eb31-4ed7-9ed3-51725bf88c79,Weather
+4421c0cf-eb31-4ed7-9ed3-51725bf88c79,Agriculture
+0ef88612-92c4-4fb1-b037-127ef800adb0,Health
+0ef88612-92c4-4fb1-b037-127ef800adb0,Energy
+0ef88612-92c4-4fb1-b037-127ef800adb0,Environment
+82b05aaf-1db5-47bb-a8c8-3441dcac262d,Social Services
+82b05aaf-1db5-47bb-a8c8-3441dcac262d,Geospatial
+ea280c72-54f3-4424-b4d3-89fba76315c9,Energy
+ea280c72-54f3-4424-b4d3-89fba76315c9,Demographics
+29489f9a-ca5f-485a-993c-63be6a575e22,Transportation
+29489f9a-ca5f-485a-993c-63be6a575e22,Housing
+29489f9a-ca5f-485a-993c-63be6a575e22,Water
+d84eca10-a23c-4e96-8c53-cc3ea95f5151,Transportation
+d84eca10-a23c-4e96-8c53-cc3ea95f5151,Health
+0229a09a-231d-4316-8709-3805e8000659,Transportation
+0229a09a-231d-4316-8709-3805e8000659,Education
+0229a09a-231d-4316-8709-3805e8000659,Business
+554d9735-62ee-43a6-a82b-54cc708bee15,Labor
+a1fea136-a3d6-46e7-a33d-e35d3e72930e,Weather
+a1fea136-a3d6-46e7-a33d-e35d3e72930e,Transportation
+e8841486-43cc-4e2f-8d20-169e407dc576,Public Safety
+a8696577-ee9d-4a9f-a021-97d0a4204adc,Business
+482003af-56eb-4106-b8bc-1da64b73c082,Climate
+482003af-56eb-4106-b8bc-1da64b73c082,Transportation
+482003af-56eb-4106-b8bc-1da64b73c082,Finance
+eae42f4f-0609-402e-9ab3-d18873c0180d,Labor
+eae42f4f-0609-402e-9ab3-d18873c0180d,Geospatial
+eae42f4f-0609-402e-9ab3-d18873c0180d,Water
+48114891-8719-4e73-814c-f4f53bc01adb,Environment
+48114891-8719-4e73-814c-f4f53bc01adb,Demographics
+b97552e5-54ff-4cac-880a-99f258250dca,Science & Research
+cb355861-4ac2-4c01-8ecf-f0107050d849,Agriculture
+2d500575-084d-4184-9c2b-fcbc36913152,Demographics
+2d500575-084d-4184-9c2b-fcbc36913152,Geospatial
+2d500575-084d-4184-9c2b-fcbc36913152,Criminal Justice
+2a50d205-7ed7-417f-86d3-37aefd16aebe,Weather
+1dbfe95f-7f52-437b-8de6-30046f6e81dd,Business
+1dbfe95f-7f52-437b-8de6-30046f6e81dd,Demographics
+5fe90427-a6bd-4d19-a0b3-20574ae611c9,Geospatial
+5fe90427-a6bd-4d19-a0b3-20574ae611c9,Weather
+dd5ce2d9-6a05-4bd9-a290-f9df14b6c63a,Health
+ea8301be-c487-4089-b230-eb14fb25ca46,Finance
+ea8301be-c487-4089-b230-eb14fb25ca46,Weather
+ea8301be-c487-4089-b230-eb14fb25ca46,Transportation
+67eea0ca-f049-494d-a8a0-0aa9a269ddeb,Education
+4f37f511-1ff0-4e55-af21-acec8d0957dc,Climate
+4f37f511-1ff0-4e55-af21-acec8d0957dc,Water
+4f37f511-1ff0-4e55-af21-acec8d0957dc,Criminal Justice
+995bf28a-fc36-428a-8eb0-fc699b516def,Energy
+995bf28a-fc36-428a-8eb0-fc699b516def,Water
+c162e8b7-5e13-4f2d-a9e1-03248601f619,Climate
+c162e8b7-5e13-4f2d-a9e1-03248601f619,Transportation
+3a392e86-e823-4664-b3c8-4de14e76d164,Science & Research
+3a392e86-e823-4664-b3c8-4de14e76d164,Energy
+3a392e86-e823-4664-b3c8-4de14e76d164,Agriculture
+acb47e87-b576-4b99-882b-22c061a4c14f,Weather
+cc871d2c-88ce-41d7-8fcf-b800c147b407,Weather
+cc871d2c-88ce-41d7-8fcf-b800c147b407,Water
+cc871d2c-88ce-41d7-8fcf-b800c147b407,Environment
+3185aaf1-0fd7-4a2e-8cfa-f983c9a17755,Geospatial
+dabf47ef-1d51-41e1-99ef-f544dce5079c,Transportation
+d6fc3369-ef8f-4c5f-82f2-dc16d84d48d7,Public Safety
+d6fc3369-ef8f-4c5f-82f2-dc16d84d48d7,Housing
+3cce10ba-0fe2-4566-959d-ad38e8c8fe7a,Water
+3cce10ba-0fe2-4566-959d-ad38e8c8fe7a,Climate
+b6c11614-8c6a-44d5-a77c-c34053b51db1,Housing
+b6c11614-8c6a-44d5-a77c-c34053b51db1,Agriculture
+7533850a-d6a0-46ee-8327-1e1be81361c4,Criminal Justice
+e6cdd520-a232-43f2-a5e3-08709880202f,Water
+e6cdd520-a232-43f2-a5e3-08709880202f,Social Services
+e6cdd520-a232-43f2-a5e3-08709880202f,Business
+96afb656-f40c-4d95-9f2f-07de12ad0ab6,Health
+96afb656-f40c-4d95-9f2f-07de12ad0ab6,Housing
+f221d0fc-5387-440b-9c9f-b519459eebc8,Transportation
+f221d0fc-5387-440b-9c9f-b519459eebc8,Public Safety
+947bd87a-a58e-483e-822e-87613e45ceb8,Education
+68d07cd1-7aef-4e5b-b78b-dfb91fd9add6,Social Services
+68d07cd1-7aef-4e5b-b78b-dfb91fd9add6,Water
+7e42e789-613f-4ef4-89b0-7cff96cf6cf5,Science & Research
+a51080c6-9d9e-44fe-958f-6c6b2ce96d3c,Education
+a51080c6-9d9e-44fe-958f-6c6b2ce96d3c,Health
+a51080c6-9d9e-44fe-958f-6c6b2ce96d3c,Environment
+406dde52-ca30-4ca5-ae15-39774b13f5e2,Public Safety
+193c3ab4-3499-4559-ab27-ff58ed617e16,Water
+193c3ab4-3499-4559-ab27-ff58ed617e16,Finance
+193c3ab4-3499-4559-ab27-ff58ed617e16,Environment
+ca961e56-f04a-4610-835e-bd837778be62,Housing
+ca961e56-f04a-4610-835e-bd837778be62,Climate
+ca961e56-f04a-4610-835e-bd837778be62,Health
+4249eaa3-e78a-4a7e-98ef-64b8ee9dd1c0,Housing
+590864be-2ca6-4a7b-b05b-4e8045d7adc0,Demographics
+e08d9d2e-b0ed-48c7-8693-6567db9349df,Health
+e08d9d2e-b0ed-48c7-8693-6567db9349df,Geospatial
+7263f68d-01e4-4ac6-af2b-1b08a39ac17d,Climate
+7263f68d-01e4-4ac6-af2b-1b08a39ac17d,Criminal Justice
+c73a4eb1-b160-4363-af08-d6c6969e2073,Public Safety
+c73a4eb1-b160-4363-af08-d6c6969e2073,Climate
+c73a4eb1-b160-4363-af08-d6c6969e2073,Energy
+946be413-20be-48c9-ae6f-11843b10b011,Geospatial
+946be413-20be-48c9-ae6f-11843b10b011,Public Safety
+0f218028-ca0e-4cfb-9302-939db76bc1d3,Environment
+74a5da5a-c643-4b79-b521-04ab9624101a,Social Services
+74a5da5a-c643-4b79-b521-04ab9624101a,Science & Research
+74a5da5a-c643-4b79-b521-04ab9624101a,Geospatial
+0c76a04f-ef93-44b9-be23-f449f300fbe7,Energy
+0c76a04f-ef93-44b9-be23-f449f300fbe7,Water
+0c76a04f-ef93-44b9-be23-f449f300fbe7,Transportation
+c7c4e2cd-73b6-45e0-90c4-5dbd2ac18ee7,Water
+58da1201-b675-407b-beb3-c3fb7c53a697,Demographics
+58da1201-b675-407b-beb3-c3fb7c53a697,Criminal Justice
+2284f339-29e1-45d8-aca7-a38c851a5f4c,Business
+ed41ef8e-5cad-4e15-aef1-3cd20db2bc3f,Education
+ed41ef8e-5cad-4e15-aef1-3cd20db2bc3f,Weather
+830e10d6-b90e-49ea-9992-197f8fffd281,Transportation
+830e10d6-b90e-49ea-9992-197f8fffd281,Water
+a099b877-c55b-4093-a393-0f7826832caf,Business
+98307994-addb-4cb4-9cb0-c3477533fcf0,Health
+98307994-addb-4cb4-9cb0-c3477533fcf0,Public Safety
+bec57d16-af35-4411-9a3c-6b1cfdc5b33e,Public Safety
+bec57d16-af35-4411-9a3c-6b1cfdc5b33e,Transportation
+bec57d16-af35-4411-9a3c-6b1cfdc5b33e,Finance
+708bfbe8-6021-4241-9da5-bde9b1393127,Elections
+535aa450-120b-46ce-be2e-c6589cb4418e,Social Services
+535aa450-120b-46ce-be2e-c6589cb4418e,Demographics
+46eda1db-d126-44e8-a931-e0e0249083e3,Agriculture
+b399a46d-18f5-4ae9-8cce-602ffe7247e9,Science & Research
+b399a46d-18f5-4ae9-8cce-602ffe7247e9,Transportation
+b399a46d-18f5-4ae9-8cce-602ffe7247e9,Demographics
+ed525b40-962c-46da-964f-fdbb9530e808,Criminal Justice
+ed525b40-962c-46da-964f-fdbb9530e808,Environment
+ed525b40-962c-46da-964f-fdbb9530e808,Agriculture
+9aa78263-0ea3-4e7c-9e4a-3064e35ab2f1,Energy
+9aa78263-0ea3-4e7c-9e4a-3064e35ab2f1,Agriculture
+702feeef-4ebb-475a-86bd-717a19a3d6d6,Weather
+702feeef-4ebb-475a-86bd-717a19a3d6d6,Social Services
+702feeef-4ebb-475a-86bd-717a19a3d6d6,Geospatial
+95bbd9db-aa51-4421-92ea-54c3f0eff0b7,Labor
+95bbd9db-aa51-4421-92ea-54c3f0eff0b7,Transportation
+42ecf39b-05cd-4a04-8070-c96bf6a0da6e,Water
+42ecf39b-05cd-4a04-8070-c96bf6a0da6e,Environment
+42ecf39b-05cd-4a04-8070-c96bf6a0da6e,Criminal Justice
+4c58431a-1c99-4e3b-a143-19bbf1203617,Environment
+4c58431a-1c99-4e3b-a143-19bbf1203617,Elections
+3db016d1-1c9c-4ab3-ab58-2befe032a18b,Transportation
+ff0cf930-d3a2-4435-b7a8-a873e9f8a3d0,Geospatial
+226aa267-74a0-403c-9546-874b00edbb3f,Elections
+226aa267-74a0-403c-9546-874b00edbb3f,Weather
+7509028b-52a1-4217-ad9b-715d63567e73,Energy
+7509028b-52a1-4217-ad9b-715d63567e73,Finance
+6d541681-b9f2-4813-84e9-7301791220b7,Science & Research
+6d541681-b9f2-4813-84e9-7301791220b7,Weather
+6d541681-b9f2-4813-84e9-7301791220b7,Health
+f32e03c0-ac91-4ef0-8548-332bb2084f5f,Environment
+f32e03c0-ac91-4ef0-8548-332bb2084f5f,Criminal Justice
+c1d90acb-c961-4268-8441-b5a4d1670a32,Education
+2aaab026-05e0-464f-bce3-81bcc714f07e,Climate
+e1a4a9cb-1b36-4afb-b9d7-7c413c05244b,Geospatial
+e1a4a9cb-1b36-4afb-b9d7-7c413c05244b,Science & Research
+54dd0631-ae22-4ce4-a51e-f75df32c19c7,Social Services
+0fd87aef-311f-47f0-bd41-256f0d49c666,Demographics
+82d3c33e-a420-49c9-a623-d4f1de33f9da,Social Services
+12ef978e-a523-4f1f-b47f-6605627c1a35,Agriculture
+101dd064-161e-47e3-887b-d2ce8084aab1,Agriculture
+101dd064-161e-47e3-887b-d2ce8084aab1,Demographics
+c4f30008-db6d-45b5-8103-f363933b40ff,Energy
+26d515db-e29d-4c36-b4c0-f50197650344,Environment
+8c6bba10-fa7d-4e47-9a0d-e5441425107e,Elections
+17aadb02-dc03-483b-8f25-60c26546e858,Elections
+17aadb02-dc03-483b-8f25-60c26546e858,Social Services
+90d1e929-6e80-422c-a977-1f9e3d97741b,Water
+db6d1659-1d9e-4dd4-bda5-c8dac591ff63,Criminal Justice
+db6d1659-1d9e-4dd4-bda5-c8dac591ff63,Geospatial
+5dfc1de4-9f25-4170-b7f4-1488137dd79c,Science & Research
+5dfc1de4-9f25-4170-b7f4-1488137dd79c,Climate
+5dfc1de4-9f25-4170-b7f4-1488137dd79c,Health
+3929fd81-bf94-490a-b347-e9c719c904bf,Science & Research
+3929fd81-bf94-490a-b347-e9c719c904bf,Business
+a1f0e78c-92ea-43c4-895e-bd5a28c9dfd6,Finance
+a1f0e78c-92ea-43c4-895e-bd5a28c9dfd6,Transportation
+b4e94387-e489-4939-942d-e1075134b9b9,Health
+d4d356ab-030b-49c4-8160-521a562318f6,Science & Research
+d4d356ab-030b-49c4-8160-521a562318f6,Agriculture
+d4d356ab-030b-49c4-8160-521a562318f6,Health
+cd89212e-0d59-4cbe-a0d4-9b82e7ad5fee,Science & Research
+cd89212e-0d59-4cbe-a0d4-9b82e7ad5fee,Geospatial
+e5b89226-4210-44e7-b200-22a74f084cc1,Environment
+e5b89226-4210-44e7-b200-22a74f084cc1,Climate
+e5b89226-4210-44e7-b200-22a74f084cc1,Business
+130c06d9-2675-4c9b-966c-062f281d1ed3,Science & Research
+130c06d9-2675-4c9b-966c-062f281d1ed3,Labor
+130c06d9-2675-4c9b-966c-062f281d1ed3,Transportation
+f530e080-4088-4f0a-804c-bafc30088f0b,Agriculture
+f530e080-4088-4f0a-804c-bafc30088f0b,Public Safety
+4a30d3e3-fc03-440d-b0c6-be28280c56c8,Water
+4a30d3e3-fc03-440d-b0c6-be28280c56c8,Education
+ba2de0ac-f4ec-4362-b3e9-b772a006ae75,Public Safety
+96d0e557-822e-49aa-8e3b-5c900c9b8c4a,Environment
+96d0e557-822e-49aa-8e3b-5c900c9b8c4a,Energy
+684678ca-3d98-4051-90cf-fc4624311d4b,Environment
+684678ca-3d98-4051-90cf-fc4624311d4b,Finance
+72a1e48f-d098-4589-8e0e-745ecfccaa8a,Water
+72a1e48f-d098-4589-8e0e-745ecfccaa8a,Elections
+72a1e48f-d098-4589-8e0e-745ecfccaa8a,Demographics
+53ecf628-4061-4b25-be23-37fe3914f037,Education
+73606948-6849-4159-8419-dc8c3e54c2fe,Social Services
+73606948-6849-4159-8419-dc8c3e54c2fe,Environment
+73606948-6849-4159-8419-dc8c3e54c2fe,Elections
+60e9e83e-7e08-4733-9531-8782da0156fc,Weather
+60e9e83e-7e08-4733-9531-8782da0156fc,Finance
+024a4076-a7de-4e06-89f6-765accaed7a1,Science & Research
+970aa558-bdab-4df6-b44c-c5c664c30cd7,Geospatial
+970aa558-bdab-4df6-b44c-c5c664c30cd7,Climate
+970aa558-bdab-4df6-b44c-c5c664c30cd7,Business
+f1657524-19a3-440d-a987-bb7ff5466f28,Education
+f1657524-19a3-440d-a987-bb7ff5466f28,Climate
+f1657524-19a3-440d-a987-bb7ff5466f28,Geospatial
+be55ae87-0386-456e-a263-210fbc7d9bdf,Climate
+965e9de1-2fc4-4ea9-9dd9-38e593c16666,Elections
+3deca39a-7392-4cc1-90df-901e79b72ad3,Agriculture
+3deca39a-7392-4cc1-90df-901e79b72ad3,Environment
+3deca39a-7392-4cc1-90df-901e79b72ad3,Finance
+cf51bdbd-43d4-4fe9-94e0-f60f98b8d5ae,Housing
+cf51bdbd-43d4-4fe9-94e0-f60f98b8d5ae,Public Safety
+aa90f87a-60ea-4494-b33a-cab1f6a57037,Business
+aa90f87a-60ea-4494-b33a-cab1f6a57037,Demographics
+aa90f87a-60ea-4494-b33a-cab1f6a57037,Climate
+7d7b0d5a-fd6c-4148-9ea1-6561310c1807,Climate
+46acd74b-2040-4581-af3f-3a2d369e17db,Social Services
+46acd74b-2040-4581-af3f-3a2d369e17db,Climate
+46acd74b-2040-4581-af3f-3a2d369e17db,Criminal Justice
+a54f0b9c-dfba-4f74-b35a-d6bea1875d09,Demographics
+809d7d26-3ccf-4b3a-8617-b143d5448efa,Geospatial
+08d4db02-a101-4da1-a210-7c1f877a967c,Education
+08d4db02-a101-4da1-a210-7c1f877a967c,Business
+84d2504b-7455-4b33-9c9c-80db7f98e475,Public Safety
+84d2504b-7455-4b33-9c9c-80db7f98e475,Labor
+84d2504b-7455-4b33-9c9c-80db7f98e475,Health
+8d5f3c8a-b5a1-413b-927a-cc6b9b4b219d,Agriculture
+8d5f3c8a-b5a1-413b-927a-cc6b9b4b219d,Social Services
+1ed9147b-03be-4b79-b9c2-a67bc4a03c0a,Public Safety
+9e47ba84-3ab0-4967-8e20-aa1841a2f397,Agriculture
+210d00aa-f120-44a0-8f7d-44db72484fae,Water
+2fb89b21-910a-4fe0-b968-4889db2f5724,Demographics
+d86de225-f520-441e-8c4c-5a67df926f5a,Climate
+d86de225-f520-441e-8c4c-5a67df926f5a,Energy
+dad7546b-1d33-473b-a9db-3fea2f5ca875,Business
+35cf7aa5-e000-489a-a79d-98cf8a965b6a,Water
+35cf7aa5-e000-489a-a79d-98cf8a965b6a,Health
+35cf7aa5-e000-489a-a79d-98cf8a965b6a,Demographics
+cf61a823-ec67-4fbe-b4ba-6aaefdd46ce0,Weather
+cf61a823-ec67-4fbe-b4ba-6aaefdd46ce0,Water
+cf61a823-ec67-4fbe-b4ba-6aaefdd46ce0,Social Services
+5a854614-0f0b-4968-95c0-bce40b55e990,Demographics
+5a854614-0f0b-4968-95c0-bce40b55e990,Water
+1a53c5e1-5323-48e0-a9a3-d3092fdccc58,Finance
+e45fd98e-d40b-439f-ad14-ce841aba431b,Transportation
+e45fd98e-d40b-439f-ad14-ce841aba431b,Finance
+5e6b6c0f-b9c9-40a8-958f-cd07df6a8bc2,Climate
+5e6b6c0f-b9c9-40a8-958f-cd07df6a8bc2,Housing
+15d5a37a-2fe2-4f3c-8042-4d9cf0b93498,Finance
+15d5a37a-2fe2-4f3c-8042-4d9cf0b93498,Elections
+15d5a37a-2fe2-4f3c-8042-4d9cf0b93498,Demographics
+486b97aa-d825-4b71-9811-8b76c6531528,Public Safety
+eb8869d9-5ae7-4659-af6c-430ae6b4fe15,Education
+4a21f5fe-452f-460d-b4f8-2a2e58ddfd41,Weather
+4a21f5fe-452f-460d-b4f8-2a2e58ddfd41,Finance
+ab89cf80-d433-4bc1-aaa5-407abbe06d1c,Weather
+ab89cf80-d433-4bc1-aaa5-407abbe06d1c,Public Safety
+ab89cf80-d433-4bc1-aaa5-407abbe06d1c,Labor
+f89b7ba5-928b-4158-918a-8c2ba7df2a30,Energy
+f89b7ba5-928b-4158-918a-8c2ba7df2a30,Weather
+27a39f9d-44d9-4021-b119-ad95323749ed,Health
+3401ec5c-22a1-47f4-947f-487bd85bda8d,Demographics
+3401ec5c-22a1-47f4-947f-487bd85bda8d,Housing
+3401ec5c-22a1-47f4-947f-487bd85bda8d,Weather
+966bc498-bef2-4abd-8dcc-0c05eba44594,Education
+966bc498-bef2-4abd-8dcc-0c05eba44594,Social Services
+966bc498-bef2-4abd-8dcc-0c05eba44594,Business
+d495b8ef-5067-4609-b1a4-cf96790c9254,Business
+d495b8ef-5067-4609-b1a4-cf96790c9254,Labor
+3b2e4f45-6b53-4ff5-a7b6-a8fffbf0a2b1,Finance
+014916d9-2670-41ad-8b4f-ceac8e1148e2,Labor
+014916d9-2670-41ad-8b4f-ceac8e1148e2,Education
+3d6ee45c-86c6-4099-aa14-6e5894dcac5f,Business
+3d6ee45c-86c6-4099-aa14-6e5894dcac5f,Education
+d44fa1e2-1da0-447b-81b5-420411c60568,Science & Research
+393920b5-a7d0-4bf0-bc9c-77a63e75ab5b,Social Services
+393920b5-a7d0-4bf0-bc9c-77a63e75ab5b,Finance
+393920b5-a7d0-4bf0-bc9c-77a63e75ab5b,Elections
+2e3db5d6-6eef-42c6-83bd-887883c3db50,Demographics
+19337668-6850-4448-8872-e66d28d8f111,Demographics
+19337668-6850-4448-8872-e66d28d8f111,Science & Research
+4b8944cd-6775-42a0-91b8-b1e4b85549e3,Social Services
+b9f6ac45-d722-4cfe-9713-6682b4dab0b4,Labor
+b9f6ac45-d722-4cfe-9713-6682b4dab0b4,Science & Research
+b9f6ac45-d722-4cfe-9713-6682b4dab0b4,Environment
+8b0c5380-fde4-4013-b214-99f00629cd0b,Water
+8a5bdf5b-2f60-4613-806e-03f54dd58c95,Criminal Justice
+8a5bdf5b-2f60-4613-806e-03f54dd58c95,Labor
+8a5bdf5b-2f60-4613-806e-03f54dd58c95,Water
+c1abcbd2-c9a1-4bca-871a-6a6af092b111,Water
+c1abcbd2-c9a1-4bca-871a-6a6af092b111,Science & Research
+c1abcbd2-c9a1-4bca-871a-6a6af092b111,Transportation
+529bcd00-0b8a-4452-86a0-9b0d3e212851,Energy
+dadeb4b5-6317-4066-a178-e65fad1eb410,Demographics
+c115b5e9-480e-4661-907c-30606f37e7a6,Environment
+c115b5e9-480e-4661-907c-30606f37e7a6,Elections
+40679a61-2079-41a3-ba47-b50f17210299,Weather
+21bc34fb-3369-49a8-8c52-f02da35220ed,Weather
+21bc34fb-3369-49a8-8c52-f02da35220ed,Finance
+5d7a4653-cb31-40b4-b757-8073f09aa987,Science & Research
+5d7a4653-cb31-40b4-b757-8073f09aa987,Criminal Justice
+d90d4571-ac40-4682-bc42-f3ca4b3e7aff,Criminal Justice
+e8315af0-577e-4f84-90c0-ad09d03a0c88,Energy
+24063b8e-f3b3-4b69-a377-07840b4cd20a,Science & Research
+24063b8e-f3b3-4b69-a377-07840b4cd20a,Demographics
+24063b8e-f3b3-4b69-a377-07840b4cd20a,Transportation
+230a78b0-fbb1-4c44-b9f2-3184fb10f415,Transportation
+230a78b0-fbb1-4c44-b9f2-3184fb10f415,Weather
+ca6aa21b-57e3-43bd-9338-1300cadd1135,Transportation
+ca6aa21b-57e3-43bd-9338-1300cadd1135,Demographics
+8c087002-5cbf-4094-bd4d-c96b14a260eb,Elections
+8c087002-5cbf-4094-bd4d-c96b14a260eb,Demographics
+8c087002-5cbf-4094-bd4d-c96b14a260eb,Energy
+4de6cb8b-bb9c-4a1e-b996-c5991510f557,Labor
+4de6cb8b-bb9c-4a1e-b996-c5991510f557,Climate
+845e556a-b3c5-45ba-9136-4df0ff47b670,Business
+845e556a-b3c5-45ba-9136-4df0ff47b670,Climate
+845e556a-b3c5-45ba-9136-4df0ff47b670,Public Safety
+911acc7b-66fc-493b-baa8-e0ec4ba1d05f,Labor
+911acc7b-66fc-493b-baa8-e0ec4ba1d05f,Energy
+51b3f23c-9c0f-44a8-8d72-1a62575a0dfb,Agriculture
+51b3f23c-9c0f-44a8-8d72-1a62575a0dfb,Education
+51b3f23c-9c0f-44a8-8d72-1a62575a0dfb,Elections
+00357699-d362-4e62-bd91-6fa3cb6a2ae3,Labor
+33d0b258-34a9-4b4c-8c94-174553e4e81b,Elections
+33d0b258-34a9-4b4c-8c94-174553e4e81b,Geospatial
+33d0b258-34a9-4b4c-8c94-174553e4e81b,Health
+6da9a3ff-b9a0-496d-b47a-1fa247309047,Social Services
+6da9a3ff-b9a0-496d-b47a-1fa247309047,Business
+7bff9b96-55e5-4cae-9d06-d1ddacaff549,Agriculture
+7bff9b96-55e5-4cae-9d06-d1ddacaff549,Elections
+7bff9b96-55e5-4cae-9d06-d1ddacaff549,Public Safety
+01d3899b-319e-4772-bdd0-2753a652547c,Weather
+d8027380-79f8-43e4-bb21-2a8e294c8c29,Demographics
+aa5eadb5-6564-4e53-87a8-0c71f5f93a5c,Education
+3471df6f-e973-460d-966f-84545cca595a,Agriculture
+3471df6f-e973-460d-966f-84545cca595a,Energy
+86768c06-e20c-46f5-b1ae-7316a01614da,Science & Research
+b989a7fb-3365-40d1-995b-437b497e63f3,Climate
+b989a7fb-3365-40d1-995b-437b497e63f3,Labor
+b989a7fb-3365-40d1-995b-437b497e63f3,Weather
+2419955f-7f8b-47e9-9dce-bc1c5a5ff3be,Health
+2419955f-7f8b-47e9-9dce-bc1c5a5ff3be,Science & Research
+2419955f-7f8b-47e9-9dce-bc1c5a5ff3be,Public Safety
+f05a2631-a9e5-4ee4-8e07-541532b767da,Weather
+1980c9b1-6f94-4c6f-a994-0a58e25c75fb,Criminal Justice
+1980c9b1-6f94-4c6f-a994-0a58e25c75fb,Social Services
+821f3b55-f694-4221-a9b2-3004017cafa0,Education
+821f3b55-f694-4221-a9b2-3004017cafa0,Agriculture
+66d22151-847d-4ddf-b5e5-4dcff1867161,Water
+66d22151-847d-4ddf-b5e5-4dcff1867161,Business
+f7da4eff-fb0c-491d-b51a-e6e9a0603693,Weather
+563a0f6a-4a6e-4401-b91e-f6628d58dc65,Finance
+563a0f6a-4a6e-4401-b91e-f6628d58dc65,Education
+9c58c851-db8d-4f2f-8ad5-e117d222dca3,Elections
+9c58c851-db8d-4f2f-8ad5-e117d222dca3,Education
+b7040d02-e5be-4f86-b291-0caa6764b48e,Water
+b7040d02-e5be-4f86-b291-0caa6764b48e,Social Services
+6bd1e76e-7ef4-43f2-86e4-de53174956f6,Public Safety
+6bd1e76e-7ef4-43f2-86e4-de53174956f6,Education
+6bd1e76e-7ef4-43f2-86e4-de53174956f6,Criminal Justice
+b892af56-2dad-4a4b-b303-ba507526731d,Weather
+b892af56-2dad-4a4b-b303-ba507526731d,Business
+5de9a8c4-5f8d-428f-86b1-67f37b71be6e,Geospatial
+69223103-b25e-4e6e-ba87-a0c7d36b7961,Environment
+305ea316-9b7e-49f5-8dfe-349bef51277e,Elections
+305ea316-9b7e-49f5-8dfe-349bef51277e,Science & Research
+6668e10f-3a29-45ee-b631-428f643d7d81,Elections
+6668e10f-3a29-45ee-b631-428f643d7d81,Weather
+6668e10f-3a29-45ee-b631-428f643d7d81,Social Services
+3b206dd0-0b00-48d4-87ef-2ba85a5b4dee,Elections
+3b206dd0-0b00-48d4-87ef-2ba85a5b4dee,Health
+3b206dd0-0b00-48d4-87ef-2ba85a5b4dee,Agriculture
+522a7f7a-c069-4e46-822c-5eb81b123dab,Science & Research
+1d8b791b-7adb-49ae-a51c-8f969f901fd8,Elections
+1d8b791b-7adb-49ae-a51c-8f969f901fd8,Labor
+704bda8e-5fd4-4361-b349-1b38ad7b2f80,Geospatial
+22e402fb-49e9-4f4f-aec2-076df2f5c7c3,Science & Research
+22e402fb-49e9-4f4f-aec2-076df2f5c7c3,Climate
+1c1deec5-fe39-4bf1-afe3-d2a677348cec,Education
+1c1deec5-fe39-4bf1-afe3-d2a677348cec,Business
+7ecec07f-c4a0-48c5-92f4-8447fdd7a4d3,Weather
+7ecec07f-c4a0-48c5-92f4-8447fdd7a4d3,Public Safety
+7ecec07f-c4a0-48c5-92f4-8447fdd7a4d3,Transportation
+bdf25e33-aaa1-476c-8598-eb86eefd41f4,Environment
+ccae88bb-1c3c-416a-8b23-727f9176aa36,Demographics
+ccae88bb-1c3c-416a-8b23-727f9176aa36,Housing
+f41211f3-4fbe-4676-b0ee-d0960b502d8a,Demographics
+f41211f3-4fbe-4676-b0ee-d0960b502d8a,Science & Research
+f41211f3-4fbe-4676-b0ee-d0960b502d8a,Water
+b9baacb0-8912-41dc-beaf-07901db86f11,Transportation
+a487a388-7603-429e-bfef-ccaa62340700,Finance
+a487a388-7603-429e-bfef-ccaa62340700,Environment
+27321762-1e43-4d03-bad5-8fdf24395b76,Housing
+27321762-1e43-4d03-bad5-8fdf24395b76,Labor
+27321762-1e43-4d03-bad5-8fdf24395b76,Health
+66967a36-5206-457f-8bca-b7695c8f7314,Science & Research
+aea92ae8-85f2-4df5-bdcd-9af197128711,Criminal Justice
+aea92ae8-85f2-4df5-bdcd-9af197128711,Business
+f7dc57f6-376a-4089-b0af-8fc25096ef4b,Education
+f7dc57f6-376a-4089-b0af-8fc25096ef4b,Business
+676ffdc9-b7cd-41e1-9c23-8096fd7e5f4b,Energy
+676ffdc9-b7cd-41e1-9c23-8096fd7e5f4b,Science & Research
+676ffdc9-b7cd-41e1-9c23-8096fd7e5f4b,Elections
+905a4252-7b1e-4773-b501-c1b543c15581,Weather
+905a4252-7b1e-4773-b501-c1b543c15581,Criminal Justice
+905a4252-7b1e-4773-b501-c1b543c15581,Climate
+90470a82-3ea3-4eac-ac80-e4140b676ffe,Elections
+85a0d028-2196-440a-95b6-c91cd883382d,Elections
+a5fd1641-702e-44e5-ba1d-0ff939dde908,Environment
+1e6c9763-f188-4356-9310-d3568ba2e3a0,Housing
+595acca3-b83c-44b9-b15d-2e53df31a90e,Agriculture
+595acca3-b83c-44b9-b15d-2e53df31a90e,Climate
+2a4fa545-f237-4ee3-aaab-bd8a0f78d4b8,Transportation
+45d4aea3-8936-4402-9575-38def0748e55,Elections
+0984cb4c-5772-4da3-9bc1-d97653685519,Public Safety
+0984cb4c-5772-4da3-9bc1-d97653685519,Elections
+fff63025-b60b-4e92-83cd-254c92019fac,Housing
+453fc0d4-05a0-47c7-8525-fe96c4db04a2,Demographics
+d41528cd-3d4f-4c2e-bc66-3f651c8817bd,Public Safety
+7fc43663-7331-492e-9037-36a355817293,Weather
+7fc43663-7331-492e-9037-36a355817293,Labor
+9fdc4d3b-e501-4a42-af9c-6e7d15ff0a41,Public Safety
+9fdc4d3b-e501-4a42-af9c-6e7d15ff0a41,Finance
+9f7d62f4-832c-463f-8fe6-7ea6c5af7056,Social Services
+9f7d62f4-832c-463f-8fe6-7ea6c5af7056,Climate
+9f7d62f4-832c-463f-8fe6-7ea6c5af7056,Criminal Justice
+93d6182a-85fc-4eed-9ad5-3d96eb3e919a,Housing
+93d6182a-85fc-4eed-9ad5-3d96eb3e919a,Public Safety
+93d6182a-85fc-4eed-9ad5-3d96eb3e919a,Elections
+050f8f0a-d63b-4a04-b389-033c7f55e441,Agriculture
+050f8f0a-d63b-4a04-b389-033c7f55e441,Demographics
+050f8f0a-d63b-4a04-b389-033c7f55e441,Business
+c2c48c46-c57a-4901-9d33-6ae6af4c110b,Water
+c2c48c46-c57a-4901-9d33-6ae6af4c110b,Criminal Justice
+bc248d23-59a7-41ef-9345-a4bcb3fcc9f1,Labor
+1e0cc81d-51a0-4219-862e-7f8f32215b4c,Weather
+1e0cc81d-51a0-4219-862e-7f8f32215b4c,Labor
+1e0cc81d-51a0-4219-862e-7f8f32215b4c,Transportation
+271c784e-4cc8-450a-b4b4-a0248a108ba9,Housing
+271c784e-4cc8-450a-b4b4-a0248a108ba9,Public Safety
+3e452544-9765-4229-b263-f77c0bcad250,Elections
+3e452544-9765-4229-b263-f77c0bcad250,Criminal Justice
+3e452544-9765-4229-b263-f77c0bcad250,Energy
+4dd29c56-0872-4322-bd7a-5fb3826c443a,Science & Research
+4dd29c56-0872-4322-bd7a-5fb3826c443a,Housing
+989aa17d-6050-416f-803a-6d5ee8dc9282,Environment
+989aa17d-6050-416f-803a-6d5ee8dc9282,Elections
+989aa17d-6050-416f-803a-6d5ee8dc9282,Agriculture
+83b83512-b8d3-4095-8565-8da05d4123ae,Climate
+83b83512-b8d3-4095-8565-8da05d4123ae,Demographics
+e948626f-5dbf-4110-b9a4-549c39e32ea4,Environment
+e948626f-5dbf-4110-b9a4-549c39e32ea4,Climate
+dde7aa6e-d7d5-4125-8177-4400129f59cb,Business
+dde7aa6e-d7d5-4125-8177-4400129f59cb,Finance
+e5db42c1-2164-4fdb-bfc3-5fa427a752b1,Weather
+00169911-13e5-41ca-a922-d4a9272dc956,Finance
+a5dbe742-219d-42c2-bbae-681d2df93150,Finance
+a5dbe742-219d-42c2-bbae-681d2df93150,Weather
+51a74535-dfaa-48dd-84f8-1f92aa5a2709,Labor
+51a74535-dfaa-48dd-84f8-1f92aa5a2709,Housing
+51a74535-dfaa-48dd-84f8-1f92aa5a2709,Energy
+d83d6563-38cb-4f58-a940-b338ab63fe37,Climate
+d83d6563-38cb-4f58-a940-b338ab63fe37,Energy
+d83d6563-38cb-4f58-a940-b338ab63fe37,Elections
+abefd240-dd8b-48a9-abbd-e10cdd0a00fa,Education
+abefd240-dd8b-48a9-abbd-e10cdd0a00fa,Business
+d187b042-9f80-474a-bd3e-66c695df06c1,Science & Research
+186253cb-0712-474c-9b1a-61d14b3d0bab,Housing
+186253cb-0712-474c-9b1a-61d14b3d0bab,Geospatial
+186253cb-0712-474c-9b1a-61d14b3d0bab,Weather
+a26a6d7c-c84f-4712-8ead-80700729f04a,Education
+a26a6d7c-c84f-4712-8ead-80700729f04a,Agriculture
+a26a6d7c-c84f-4712-8ead-80700729f04a,Finance
+40343dad-a192-4c60-924d-8fc927b40987,Social Services
+40343dad-a192-4c60-924d-8fc927b40987,Agriculture
+40343dad-a192-4c60-924d-8fc927b40987,Labor
+b1a4f5c8-5a31-43ea-a89d-26c755010fd0,Finance
+b1a4f5c8-5a31-43ea-a89d-26c755010fd0,Agriculture
+cd00ae35-2deb-4175-87ab-5da3fd5c9633,Science & Research
+572370bb-e739-4356-8682-06e33df4b3bd,Health
+27930d17-8669-4dbf-bcab-cab9b5068326,Climate
+27930d17-8669-4dbf-bcab-cab9b5068326,Geospatial
+f5470ee8-037d-4fba-ba09-8c642fed7a65,Water
+f5470ee8-037d-4fba-ba09-8c642fed7a65,Elections
+e031c4e6-311f-4e52-a275-f033dc605422,Environment
+e031c4e6-311f-4e52-a275-f033dc605422,Transportation
+e031c4e6-311f-4e52-a275-f033dc605422,Finance
+3177b9b5-f571-455e-ac12-d57cba74bdf1,Education
+4006accd-6281-49d4-b012-b15e3ae1ed4b,Demographics
+4006accd-6281-49d4-b012-b15e3ae1ed4b,Labor
+950bd19b-b19d-44f8-b378-118f9364b85f,Health
+950bd19b-b19d-44f8-b378-118f9364b85f,Science & Research
+5c5c9d4f-4656-421e-b3ea-fe2d1722fb7c,Criminal Justice
+5c5c9d4f-4656-421e-b3ea-fe2d1722fb7c,Climate
+8fdd44aa-66e1-452f-ab2a-6ce22e53c2c7,Transportation
+8fdd44aa-66e1-452f-ab2a-6ce22e53c2c7,Weather
+8fdd44aa-66e1-452f-ab2a-6ce22e53c2c7,Labor
+2840c5d6-c02b-49f9-b04f-f6932ea45117,Business
+68b686f0-7778-4694-9274-ed57ff3cc759,Geospatial
+ead23c7d-e98a-4392-b0c5-bf0d79a1e207,Elections
+ead23c7d-e98a-4392-b0c5-bf0d79a1e207,Water
+ead23c7d-e98a-4392-b0c5-bf0d79a1e207,Agriculture
+a77fa14c-67e4-4df1-a648-6ffd15d6e40d,Criminal Justice
+2990550d-e14b-4178-badf-e129d07ba2d4,Finance
+2990550d-e14b-4178-badf-e129d07ba2d4,Labor
+2990550d-e14b-4178-badf-e129d07ba2d4,Climate
+7bd6e752-9950-402d-a893-1214f91758d5,Education
+7bd6e752-9950-402d-a893-1214f91758d5,Labor
+7bd6e752-9950-402d-a893-1214f91758d5,Housing
+4d86e2d4-57d2-4aa3-8428-cd71644ecc1d,Criminal Justice
+4d86e2d4-57d2-4aa3-8428-cd71644ecc1d,Social Services
+4d86e2d4-57d2-4aa3-8428-cd71644ecc1d,Weather
+4d885a73-7b1c-4491-99a9-5e89ef261ca0,Demographics
+4d885a73-7b1c-4491-99a9-5e89ef261ca0,Energy
+2c42d07b-abf3-4a9a-8e4e-8717cdaf706d,Agriculture
+71142de9-1fee-4e0f-914c-3e3fd288a4ed,Criminal Justice
+71142de9-1fee-4e0f-914c-3e3fd288a4ed,Elections
+71142de9-1fee-4e0f-914c-3e3fd288a4ed,Labor
+d2530a0a-b557-47af-a087-ba32d0f6c467,Public Safety
+d2530a0a-b557-47af-a087-ba32d0f6c467,Elections
+d2530a0a-b557-47af-a087-ba32d0f6c467,Science & Research
+d03613bf-39ce-48ce-959c-5f2cb0aa2218,Water
+49a62bfc-dc1c-4875-83bc-3300f18805cc,Demographics
+49a62bfc-dc1c-4875-83bc-3300f18805cc,Water
+1d5ca6ad-dc4d-41ef-b94f-4511f8e10433,Health
+1d5ca6ad-dc4d-41ef-b94f-4511f8e10433,Climate
+4f0b529f-802f-4113-a860-a4426313fcdd,Social Services
+0d2a6435-2f8f-4c09-ae49-2c212e7844e7,Social Services
+0d2a6435-2f8f-4c09-ae49-2c212e7844e7,Education
+0d2a6435-2f8f-4c09-ae49-2c212e7844e7,Finance
+ba3d8e9d-3faf-479f-8704-63a59f3dd4e7,Education
+ba3d8e9d-3faf-479f-8704-63a59f3dd4e7,Science & Research
+ba3d8e9d-3faf-479f-8704-63a59f3dd4e7,Climate
+f8ad92a3-7e59-40f6-9653-51b7b0dd4369,Finance
+f8ad92a3-7e59-40f6-9653-51b7b0dd4369,Geospatial
+18c89eb2-59c8-47ea-aa17-598979ed5940,Social Services
+18c89eb2-59c8-47ea-aa17-598979ed5940,Health
+5a489214-f0f4-41f6-a54c-59266bf793f0,Energy
+6752b55e-80c3-4d0c-a85c-bca62025c318,Environment
+c718cb53-4b8b-4993-8460-e9f3edc59896,Elections
+c718cb53-4b8b-4993-8460-e9f3edc59896,Labor
+07b6b181-9bdd-42bb-8f56-91ed717c5bc2,Demographics
+fc4e0b3a-4587-40f9-87cd-8f74874bc8c7,Labor
+3efe514b-d6a0-45e9-b1e0-12873337cad3,Elections
+3efe514b-d6a0-45e9-b1e0-12873337cad3,Criminal Justice
+174236e3-85a6-447f-9e85-83ee9057a803,Labor
+174236e3-85a6-447f-9e85-83ee9057a803,Agriculture
+34d7ebf8-c024-4eba-8be0-e8728b435a2d,Social Services
+e0a92788-bc8b-446f-b125-8451a76efb92,Energy
+92f7a392-345f-4d28-807d-83e9e6e23015,Business
+92f7a392-345f-4d28-807d-83e9e6e23015,Public Safety
+92f7a392-345f-4d28-807d-83e9e6e23015,Housing
+22f05798-8590-4654-94d4-f5b289ab9d6c,Education
+22f05798-8590-4654-94d4-f5b289ab9d6c,Environment
+1d979c8d-08f0-47a1-98c6-f76b20ca43e9,Labor
+581f7135-95ff-4ac3-a4f0-e3582575ec7e,Business
+581f7135-95ff-4ac3-a4f0-e3582575ec7e,Education
+3de1f8a0-ab19-416d-be5b-9b37816a3378,Public Safety
+3de1f8a0-ab19-416d-be5b-9b37816a3378,Weather
+3de1f8a0-ab19-416d-be5b-9b37816a3378,Agriculture
+cbb0fb41-62d6-49be-aaeb-bcbb48dcce94,Education
+cbb0fb41-62d6-49be-aaeb-bcbb48dcce94,Weather
+cbb0fb41-62d6-49be-aaeb-bcbb48dcce94,Agriculture
+7d85d6e8-7a25-495d-85b6-3666514844b7,Demographics
+c6e21db4-4567-443d-9dd6-926aa804f2f5,Demographics
+726442bd-accd-4e2a-82bf-d4de73f18f00,Public Safety
+726442bd-accd-4e2a-82bf-d4de73f18f00,Science & Research
+e3eadb93-8648-4d63-8742-415e53a64e92,Business
+53955afc-b6f2-40fc-a78d-19ab347a8ba5,Housing
+53955afc-b6f2-40fc-a78d-19ab347a8ba5,Transportation
+53955afc-b6f2-40fc-a78d-19ab347a8ba5,Social Services
+2cd2f528-87a5-4d47-8481-54705e700057,Public Safety
+2cd2f528-87a5-4d47-8481-54705e700057,Finance
+864c1aab-f4bf-4598-9709-ef152c57aa4f,Geospatial
+864c1aab-f4bf-4598-9709-ef152c57aa4f,Water
+e67e9188-d4bf-4e90-a4fa-cbcd23141a8a,Agriculture
+e67e9188-d4bf-4e90-a4fa-cbcd23141a8a,Public Safety
+7dfd7016-99c5-4edc-a5c2-0ebc8fcd5fc8,Water
+7dfd7016-99c5-4edc-a5c2-0ebc8fcd5fc8,Criminal Justice
+7dfd7016-99c5-4edc-a5c2-0ebc8fcd5fc8,Business
+8a180db8-aa95-4ed8-8cf9-73ae92c3c63a,Public Safety
+a5d15540-9fcb-4d1e-a211-6b30b8c07092,Science & Research
+a5d15540-9fcb-4d1e-a211-6b30b8c07092,Public Safety
+a5d15540-9fcb-4d1e-a211-6b30b8c07092,Criminal Justice
+e41de420-be3d-4b50-bb07-6dd80320857c,Labor
+e41de420-be3d-4b50-bb07-6dd80320857c,Health
+e41de420-be3d-4b50-bb07-6dd80320857c,Business
+18840576-e5c4-46ed-9815-9a96ede10110,Agriculture
+18840576-e5c4-46ed-9815-9a96ede10110,Energy
+a23532db-a18b-4f4b-a100-8fa669f4e2a7,Environment
+a23532db-a18b-4f4b-a100-8fa669f4e2a7,Social Services
+d77a2dae-20d4-4944-ad15-1f8c30efd4a7,Climate
+d77a2dae-20d4-4944-ad15-1f8c30efd4a7,Social Services
+5933b7d0-fb53-46a8-a514-f1efc1aac370,Water
+40b1697b-b890-422d-b8e4-069ea579fe48,Labor
+40b1697b-b890-422d-b8e4-069ea579fe48,Criminal Justice
+40b1697b-b890-422d-b8e4-069ea579fe48,Transportation
+298a45a3-5f53-46d9-87ea-7ba82e6b9518,Water
+298a45a3-5f53-46d9-87ea-7ba82e6b9518,Weather
+002260c5-cdc8-4082-b9ab-e8629e6160b7,Labor
+002260c5-cdc8-4082-b9ab-e8629e6160b7,Geospatial
+002260c5-cdc8-4082-b9ab-e8629e6160b7,Housing
+3b6b7239-6f7f-4a4b-982f-371dc0b12d77,Weather
+3b6b7239-6f7f-4a4b-982f-371dc0b12d77,Energy
+3b6b7239-6f7f-4a4b-982f-371dc0b12d77,Climate
+ab2899d8-4a62-49f3-ba78-f34a9f68844b,Geospatial
+fbe34e9f-01ca-48d7-be16-df41bf27fb2e,Housing
+fbe34e9f-01ca-48d7-be16-df41bf27fb2e,Social Services
+bb82ca73-143f-40ae-af3b-e63f4484f9cb,Labor
+39bbe4dd-57f9-44f4-a593-c672554b11aa,Energy
+39bbe4dd-57f9-44f4-a593-c672554b11aa,Weather
+3763822b-7a3b-4bda-a307-350139926cfd,Water
+3763822b-7a3b-4bda-a307-350139926cfd,Environment
+dc22bb9a-cf9e-4269-9575-997341de91d2,Energy
+dc22bb9a-cf9e-4269-9575-997341de91d2,Weather
+f46e043d-d36a-44c2-a823-5581bfbe564c,Business
+f46e043d-d36a-44c2-a823-5581bfbe564c,Water
+34518f7f-31ab-41ce-af67-ea4ac585a6da,Public Safety
+34518f7f-31ab-41ce-af67-ea4ac585a6da,Energy
+df3a4aa0-a57c-41ab-82f8-dc9a5e7e622e,Climate
+df3a4aa0-a57c-41ab-82f8-dc9a5e7e622e,Housing
+4112a34e-07e7-4f55-9b55-10e78791d35b,Business
+92437fd4-6914-4e3d-997f-ccb577888c15,Health
+92437fd4-6914-4e3d-997f-ccb577888c15,Elections
+92437fd4-6914-4e3d-997f-ccb577888c15,Water
+cce40875-2295-4bb5-96ae-8f6ed7029055,Water
+cce40875-2295-4bb5-96ae-8f6ed7029055,Housing
+cce40875-2295-4bb5-96ae-8f6ed7029055,Labor
+b44112fa-771f-4716-8c3b-6e39594d9351,Criminal Justice
+b44112fa-771f-4716-8c3b-6e39594d9351,Geospatial
+f7328277-3c69-4ce9-946e-69f83834b46c,Public Safety
+38f3f668-afdf-4831-a7fa-605f98045482,Elections
+38f3f668-afdf-4831-a7fa-605f98045482,Health
+38f3f668-afdf-4831-a7fa-605f98045482,Science & Research
+84d3a4fe-642e-4520-bc41-ee428ec976a3,Demographics
+84d3a4fe-642e-4520-bc41-ee428ec976a3,Agriculture
+c8eec241-1536-49b4-bc9c-21d46bb6f716,Agriculture
+9fe09961-a28f-4a45-a0d4-c99b382aca71,Finance
+9fe09961-a28f-4a45-a0d4-c99b382aca71,Education
+9fe09961-a28f-4a45-a0d4-c99b382aca71,Housing
+f7a5a87f-e595-43b7-ade3-9c17aeea6ce6,Social Services
+f7a5a87f-e595-43b7-ade3-9c17aeea6ce6,Demographics
+f7a5a87f-e595-43b7-ade3-9c17aeea6ce6,Elections
+451fc00e-c957-4f85-8ad7-961d77ea9c9b,Education
+b4fe45b4-4d6b-436d-8b68-99593eca9bed,Housing
+b4fe45b4-4d6b-436d-8b68-99593eca9bed,Education
+4adb6736-41c6-4a4c-ab45-fddc1a305051,Transportation
+4adb6736-41c6-4a4c-ab45-fddc1a305051,Social Services
+4adb6736-41c6-4a4c-ab45-fddc1a305051,Environment
+9a0b0a96-14aa-420d-b8b0-a58e1d57049a,Criminal Justice
+9a0b0a96-14aa-420d-b8b0-a58e1d57049a,Finance
+2a305c9a-635a-4a00-8aae-0f5c7fea51bf,Water
+2a305c9a-635a-4a00-8aae-0f5c7fea51bf,Social Services
+bc911559-02a4-4def-9805-c623d0260b4f,Environment
+891ce6d7-5c51-40ed-8185-533bc97986cb,Labor
+891ce6d7-5c51-40ed-8185-533bc97986cb,Education
+b726fbbf-f89a-4c81-802a-b3393304d0ec,Finance
+b726fbbf-f89a-4c81-802a-b3393304d0ec,Transportation
+7dc9326b-4c96-4b8f-8076-d2feeda6f762,Business
+7dc9326b-4c96-4b8f-8076-d2feeda6f762,Housing
+c8d5a0d0-3fa9-4a12-b00f-fc0903216387,Public Safety
+c8d5a0d0-3fa9-4a12-b00f-fc0903216387,Social Services
+c8d5a0d0-3fa9-4a12-b00f-fc0903216387,Labor
+8b41a2cf-fe49-4fe9-bc72-e658ce6652ee,Demographics
+8b41a2cf-fe49-4fe9-bc72-e658ce6652ee,Science & Research
+72c39f4e-2232-49ae-a791-03b4697d08c2,Housing
+36c920ae-72af-48fd-ab6e-02e93fe50307,Energy
+8cb7cdc4-ed38-47a3-b852-f72126ec9b91,Labor
+604c3300-b7f9-4f68-a371-4bf7f8a341e4,Agriculture
+604c3300-b7f9-4f68-a371-4bf7f8a341e4,Housing
+604c3300-b7f9-4f68-a371-4bf7f8a341e4,Demographics
+0f75cff8-36ff-453c-bb1a-ec1a463c32a0,Public Safety
+0f75cff8-36ff-453c-bb1a-ec1a463c32a0,Agriculture
+7081ad63-799f-404d-b29d-f816d31d9fb4,Health
+7081ad63-799f-404d-b29d-f816d31d9fb4,Social Services
+5ee139c0-1786-479d-9c7c-fd1865a14b4a,Weather
+dca0300f-ec77-4233-95ce-f7556a7a57f7,Water
+dca0300f-ec77-4233-95ce-f7556a7a57f7,Transportation
+dca0300f-ec77-4233-95ce-f7556a7a57f7,Business
+fac4bf3d-148f-4f37-aede-3bd19bb73fd8,Transportation
+fac4bf3d-148f-4f37-aede-3bd19bb73fd8,Geospatial
+fac4bf3d-148f-4f37-aede-3bd19bb73fd8,Science & Research
+e5432dc8-b152-4bb2-a26a-95951b2e4a9e,Water
+e5432dc8-b152-4bb2-a26a-95951b2e4a9e,Environment
+e5432dc8-b152-4bb2-a26a-95951b2e4a9e,Public Safety
+8e04750b-8e39-4c7c-9e4d-85dfcb6363e5,Weather
+8e04750b-8e39-4c7c-9e4d-85dfcb6363e5,Housing
+8e04750b-8e39-4c7c-9e4d-85dfcb6363e5,Climate
+371fb6ca-0163-494b-a983-b597f72a3423,Demographics
+371fb6ca-0163-494b-a983-b597f72a3423,Housing
+371fb6ca-0163-494b-a983-b597f72a3423,Climate
+13cf58c1-72fd-45a1-afe0-c527f99eba0e,Environment
+557bebcc-67da-4e09-bef7-84d188f86513,Criminal Justice
+ddc12767-5f83-4a08-8d8b-4756980448d8,Climate
+ddc12767-5f83-4a08-8d8b-4756980448d8,Housing
+3936a3f8-00c5-4fd4-89dd-0110037a47f3,Transportation
+3936a3f8-00c5-4fd4-89dd-0110037a47f3,Health
+7f310e91-69be-4ae6-a899-64d3a8ecad30,Demographics
+7f310e91-69be-4ae6-a899-64d3a8ecad30,Education
+7f310e91-69be-4ae6-a899-64d3a8ecad30,Agriculture
+a699ab3f-ab6f-4884-9fe9-6b055ad9815a,Environment
+23be4eff-bcdb-4417-aad8-4c10da1dee4b,Water
+4636bc8d-f941-42d0-8917-e9780741817b,Health
+4636bc8d-f941-42d0-8917-e9780741817b,Finance
+7a4c9b55-f018-4a3e-9732-10209c4e155f,Education
+f2a900f2-1033-4995-a00a-b07a587a36b4,Geospatial
+f2a900f2-1033-4995-a00a-b07a587a36b4,Energy
+f2a900f2-1033-4995-a00a-b07a587a36b4,Environment
+09eee19d-5660-491f-a8ce-c9d60a369e24,Weather
+09eee19d-5660-491f-a8ce-c9d60a369e24,Transportation
+657896e6-5965-4865-8593-de080eb39642,Transportation
+e9257a52-5c93-4e06-8aec-56da9e641c67,Criminal Justice
+e9257a52-5c93-4e06-8aec-56da9e641c67,Health
+9a9b2829-38be-47d1-b718-bee2ef685f36,Agriculture
+9a9b2829-38be-47d1-b718-bee2ef685f36,Education
+9a9b2829-38be-47d1-b718-bee2ef685f36,Elections
+63327198-c7f8-4dbd-a142-ba919602c310,Labor
+27747872-d508-4b0a-b9df-63eda64ad3da,Transportation
+27747872-d508-4b0a-b9df-63eda64ad3da,Public Safety
+27747872-d508-4b0a-b9df-63eda64ad3da,Demographics
+c3b46f36-265e-469a-95b0-31a44d393eab,Labor
+6b5b84a5-67de-4606-b08c-28571b24a5c3,Elections
+6b5b84a5-67de-4606-b08c-28571b24a5c3,Transportation
+0b48c474-8122-4e39-b478-f9f9f30fd2b3,Labor
+0b48c474-8122-4e39-b478-f9f9f30fd2b3,Health
+8d627dc5-f79a-45b1-8515-7f3d06fee5ea,Elections
+329d93e2-0e1e-4fd4-868d-c91d966bac16,Health
+329d93e2-0e1e-4fd4-868d-c91d966bac16,Weather
+329d93e2-0e1e-4fd4-868d-c91d966bac16,Water
+448d843a-22bd-4f48-9a5c-07edcd3f506a,Criminal Justice
+448d843a-22bd-4f48-9a5c-07edcd3f506a,Water
+9682d8aa-fdb0-44db-a493-0b9a09bccda7,Science & Research
+8d62caf8-5481-4573-8f1f-78eb4545d274,Public Safety
+8d62caf8-5481-4573-8f1f-78eb4545d274,Weather
+beabbf07-c8f5-4c81-8cb3-1972a37263b3,Criminal Justice
+beabbf07-c8f5-4c81-8cb3-1972a37263b3,Water
+0def726d-b39b-4d51-bdf2-913d56a3497b,Labor
+baae0fde-bcfd-4b68-8fb3-6ed1a546bc26,Weather
+baae0fde-bcfd-4b68-8fb3-6ed1a546bc26,Transportation
+5d57f9dd-3148-4714-92e8-a18143e83bdf,Weather
+9e8829a1-231b-4ff7-939c-3cb088fcb349,Elections
+9e8829a1-231b-4ff7-939c-3cb088fcb349,Education
+72481657-2949-4868-81b6-a1e7e76f0394,Housing
+72481657-2949-4868-81b6-a1e7e76f0394,Environment
+72481657-2949-4868-81b6-a1e7e76f0394,Public Safety
+e624c0df-d052-4cf3-9a07-85c662045af8,Finance
+e624c0df-d052-4cf3-9a07-85c662045af8,Water
+11733e55-7149-4953-96e5-82596aa94e3c,Climate
+11733e55-7149-4953-96e5-82596aa94e3c,Elections
+11733e55-7149-4953-96e5-82596aa94e3c,Criminal Justice
+17e5a208-b472-4e3d-8cd2-a7d16e6793c0,Geospatial
+17e5a208-b472-4e3d-8cd2-a7d16e6793c0,Health
+17e5a208-b472-4e3d-8cd2-a7d16e6793c0,Climate
+62540b88-366d-4c7b-8987-564d4b285003,Water
+62540b88-366d-4c7b-8987-564d4b285003,Agriculture
+62540b88-366d-4c7b-8987-564d4b285003,Environment
+df8ff8f9-e6e6-4a65-8875-8c3c254e5e07,Energy
+df8ff8f9-e6e6-4a65-8875-8c3c254e5e07,Science & Research
+9bf894ad-0de3-440e-97c1-b9e86cbc79cc,Criminal Justice
+9292a4bf-b5fd-4632-8447-6005ee04dfa7,Water
+9292a4bf-b5fd-4632-8447-6005ee04dfa7,Elections
+9292a4bf-b5fd-4632-8447-6005ee04dfa7,Criminal Justice
+84126262-bc53-4981-84ff-5540eb02bfb5,Energy
+84126262-bc53-4981-84ff-5540eb02bfb5,Demographics
+11639c1a-1a68-4b97-b0b7-f752da525de8,Environment
+11639c1a-1a68-4b97-b0b7-f752da525de8,Science & Research
+e88c993f-fb18-440c-8dea-a4f7267c49a6,Environment
+4cc6b852-97f0-4733-aeee-7f2186f11e1b,Social Services
+4cc6b852-97f0-4733-aeee-7f2186f11e1b,Geospatial
+9371111c-ba7b-416e-b81c-f1128480a4e6,Demographics
+14dd711d-ed2e-4875-a1bd-b096143d4f96,Social Services
+14dd711d-ed2e-4875-a1bd-b096143d4f96,Demographics
+efcd74fd-0062-4f98-ab6b-02b5e5de5ee1,Finance
+52736be6-f95f-44e9-9ccb-0b108497e408,Housing
+49f291b3-8a3e-4474-88e0-8bfaa0ae8e6d,Business
+49f291b3-8a3e-4474-88e0-8bfaa0ae8e6d,Finance
+49f291b3-8a3e-4474-88e0-8bfaa0ae8e6d,Demographics
+5f52898a-02cb-4558-ac30-257232b64e08,Energy
+def06936-bf3f-47a0-8a51-35965c0da85f,Transportation
+45329aa5-e5c8-4901-9d31-a1f9fee43357,Environment
+754a9bc8-a0cf-45c0-850e-d5e6ef12b0dc,Elections
+797a56f8-ef15-4033-a6f0-4f1bdc002573,Health
+797a56f8-ef15-4033-a6f0-4f1bdc002573,Public Safety
+797a56f8-ef15-4033-a6f0-4f1bdc002573,Geospatial
+fc71ccdc-e02a-4c19-9264-d1d17f885789,Demographics
+2a10ca49-5ccc-413e-a4a9-b72ed13127e5,Public Safety
+2a10ca49-5ccc-413e-a4a9-b72ed13127e5,Water
+2a10ca49-5ccc-413e-a4a9-b72ed13127e5,Weather
+ff284128-2236-47aa-9727-4b3c0b9cb6fa,Geospatial
+ff284128-2236-47aa-9727-4b3c0b9cb6fa,Public Safety
+ff284128-2236-47aa-9727-4b3c0b9cb6fa,Agriculture
+696658d6-9ce4-48ba-9253-bcb5584e7746,Finance
+c07ccff2-e1d7-4cab-a82a-c5b890d5859e,Education
+c07ccff2-e1d7-4cab-a82a-c5b890d5859e,Water
+c07ccff2-e1d7-4cab-a82a-c5b890d5859e,Health
+5e423470-8163-49e9-ab18-968a7ad27038,Health
+5e423470-8163-49e9-ab18-968a7ad27038,Criminal Justice
+509d787c-ea91-40ea-ad3c-c24fece9031d,Agriculture
+509d787c-ea91-40ea-ad3c-c24fece9031d,Water
+e14c1147-c4a1-4b58-b85a-5f44b74ffbcf,Elections
+e14c1147-c4a1-4b58-b85a-5f44b74ffbcf,Environment
+e14c1147-c4a1-4b58-b85a-5f44b74ffbcf,Housing
+4e62426b-fb72-47dd-82bd-7c605c999c6d,Climate
+4e62426b-fb72-47dd-82bd-7c605c999c6d,Environment
+0dba43b9-9059-4931-af7c-d5d40547e752,Environment
+779f95bb-6145-4d67-8ded-bf346310fac7,Water
+6a178165-27ac-47ee-8bde-484fb90716db,Agriculture
+6a178165-27ac-47ee-8bde-484fb90716db,Energy
+6a178165-27ac-47ee-8bde-484fb90716db,Science & Research
+0a809da3-401c-41bc-b2ab-56cf6eb64896,Labor
+8f93007b-5206-4c31-8b1c-661304bfab51,Public Safety
+8f93007b-5206-4c31-8b1c-661304bfab51,Demographics
+8f93007b-5206-4c31-8b1c-661304bfab51,Geospatial
+90894497-ce57-4714-ac90-087476aff850,Business
+a854baff-4b44-4df2-87df-d688ec373c4b,Weather
+a854baff-4b44-4df2-87df-d688ec373c4b,Finance
+a854baff-4b44-4df2-87df-d688ec373c4b,Public Safety
+881753de-e2bb-4557-a2f8-36f1abfe9e29,Geospatial
+881753de-e2bb-4557-a2f8-36f1abfe9e29,Finance
+881753de-e2bb-4557-a2f8-36f1abfe9e29,Climate
+8c6ccc52-dc0c-4ae3-9c32-b2cfecd65979,Housing
+8c6ccc52-dc0c-4ae3-9c32-b2cfecd65979,Water
+8c6ccc52-dc0c-4ae3-9c32-b2cfecd65979,Criminal Justice
+c89e2086-906e-4ebf-8b76-9d7815318e94,Science & Research
+c89e2086-906e-4ebf-8b76-9d7815318e94,Climate
+c89e2086-906e-4ebf-8b76-9d7815318e94,Housing
+fea400b1-c3f2-42ff-b487-35f692ea3dfe,Labor
+fea400b1-c3f2-42ff-b487-35f692ea3dfe,Climate
+b8548208-2877-461d-b2aa-d08aa376f6dc,Public Safety
+b8548208-2877-461d-b2aa-d08aa376f6dc,Education
+05ec2e00-1445-4cb4-80fa-1e0e2dfc79b7,Education
+05ec2e00-1445-4cb4-80fa-1e0e2dfc79b7,Environment
+05ec2e00-1445-4cb4-80fa-1e0e2dfc79b7,Science & Research
+361666ed-180c-49a2-8faa-e34f85940c62,Social Services
+0344bd92-a60d-4eb1-b9d1-adddaa24787e,Criminal Justice
+0344bd92-a60d-4eb1-b9d1-adddaa24787e,Public Safety
+0344bd92-a60d-4eb1-b9d1-adddaa24787e,Social Services
+24be1dc5-6abd-4094-992f-3ba374db4d3d,Education
+24be1dc5-6abd-4094-992f-3ba374db4d3d,Demographics
+8af823cf-0677-4e8a-8c0b-e16215705d62,Business
+fb29af9b-78e2-4155-8aac-8376cb13d509,Social Services
+fb29af9b-78e2-4155-8aac-8376cb13d509,Climate
+258270e2-f86a-4d35-953a-5544afd7083b,Social Services
+cf52938f-2bed-4f27-97df-08a62c525861,Energy
+58b9661c-e3f5-4b36-9068-f4cc6ff44ec2,Geospatial
+51f87702-9f8a-4c09-9f42-a65c1bfbcb4b,Labor
+51f87702-9f8a-4c09-9f42-a65c1bfbcb4b,Climate
+10b352f6-828b-435f-8b3a-96d489fd87e0,Criminal Justice
+10b352f6-828b-435f-8b3a-96d489fd87e0,Energy
+e783a0de-3592-4f86-9511-7baf926c83f6,Weather
+51821b40-ca37-4e87-adb2-bfc02416fdf3,Geospatial
+51821b40-ca37-4e87-adb2-bfc02416fdf3,Business
+0a50de8d-c2ee-4e13-b045-d126e356e664,Transportation
+0a50de8d-c2ee-4e13-b045-d126e356e664,Elections
+0a50de8d-c2ee-4e13-b045-d126e356e664,Education
+adcce43c-1599-44e0-aa3a-138525870e1c,Transportation
+adcce43c-1599-44e0-aa3a-138525870e1c,Agriculture
+18c48761-5286-488a-859b-07df675a3cfe,Criminal Justice
+18c48761-5286-488a-859b-07df675a3cfe,Labor
+5f179ba8-7a65-4954-a675-cb99a4332367,Labor
+5f179ba8-7a65-4954-a675-cb99a4332367,Geospatial
+3f9382c0-a113-4f68-ac5b-e367c0950fc4,Business
+e011a5a7-fb40-44da-883c-e575075b1256,Labor
+e011a5a7-fb40-44da-883c-e575075b1256,Education
+e011a5a7-fb40-44da-883c-e575075b1256,Finance
+9e7a6dfa-1e59-4abe-9a7f-64764479b5b6,Energy
+4583951c-8944-41b2-a685-aeed52637d30,Transportation
+4583951c-8944-41b2-a685-aeed52637d30,Business
+4583951c-8944-41b2-a685-aeed52637d30,Criminal Justice
+7ddef695-3886-4ddd-93df-dc41d220b253,Agriculture
+80814c59-3bca-4bf6-944c-41136372706a,Elections
+80814c59-3bca-4bf6-944c-41136372706a,Demographics
+0d8a800f-1da2-4aee-bfa5-b44951ba4899,Elections
+0d8a800f-1da2-4aee-bfa5-b44951ba4899,Science & Research
+0d8a800f-1da2-4aee-bfa5-b44951ba4899,Education
+f630ba40-03d7-413f-b1e8-3bc801f548d8,Energy
+f630ba40-03d7-413f-b1e8-3bc801f548d8,Business
+f630ba40-03d7-413f-b1e8-3bc801f548d8,Transportation
+13c28af8-92f1-4f03-a0b8-8e792ebfa394,Labor
+feb39457-fe4f-4cb8-aac3-c73afe61b61a,Water
+feb39457-fe4f-4cb8-aac3-c73afe61b61a,Environment
+feb39457-fe4f-4cb8-aac3-c73afe61b61a,Climate
+699ac2c5-90e3-4a74-839e-b6bbc9d5b781,Finance
+699ac2c5-90e3-4a74-839e-b6bbc9d5b781,Science & Research
+699ac2c5-90e3-4a74-839e-b6bbc9d5b781,Criminal Justice
+2bb1a1ad-a8f8-478e-9f8a-cbe5044e6415,Criminal Justice
+2bb1a1ad-a8f8-478e-9f8a-cbe5044e6415,Social Services
+4451f4f3-551e-425a-979c-ea977b4f4421,Demographics
+4451f4f3-551e-425a-979c-ea977b4f4421,Agriculture
+6956a6d2-daf5-4bdf-9a75-972e6360ec9d,Health
+6956a6d2-daf5-4bdf-9a75-972e6360ec9d,Science & Research
+6956a6d2-daf5-4bdf-9a75-972e6360ec9d,Business
+5ba84bc3-735b-40b3-afb8-b5c67724c93a,Public Safety
+5ba84bc3-735b-40b3-afb8-b5c67724c93a,Education
+a16177ea-144e-424c-973c-b098b4ca827d,Demographics
+a16177ea-144e-424c-973c-b098b4ca827d,Transportation
+a16177ea-144e-424c-973c-b098b4ca827d,Business
+06c009c8-a6e7-4575-9942-a60cdd7509f9,Public Safety
+06c009c8-a6e7-4575-9942-a60cdd7509f9,Criminal Justice
+6f98e1bf-d2d7-42b3-9d96-3606cfce92cc,Environment
+9924d46c-dff0-4ef4-9fc7-13b59d6bacec,Health
+9924d46c-dff0-4ef4-9fc7-13b59d6bacec,Agriculture
+39a9aa76-cef1-4cfd-a545-4b551a54236b,Labor
+39a9aa76-cef1-4cfd-a545-4b551a54236b,Environment
+2e816a37-896d-4e88-83a3-d94c2e76a3dd,Agriculture
+2e816a37-896d-4e88-83a3-d94c2e76a3dd,Housing
+a90ff4ba-9bd6-487c-8bd9-299f450481f5,Environment
+c11c0a51-b140-470c-a753-01e4822f57e1,Social Services
+c11c0a51-b140-470c-a753-01e4822f57e1,Weather
+575e178c-b58b-4f30-b09d-b82a5e53915c,Elections
+575e178c-b58b-4f30-b09d-b82a5e53915c,Geospatial
+bdaacc26-2df9-48dc-ae11-28f362dfd040,Demographics
+bdaacc26-2df9-48dc-ae11-28f362dfd040,Energy
+3b248d17-22df-4d07-babe-a91926d98b83,Health
+6ebf38e4-0d32-4053-9aa9-24a3a536a354,Education
+6ebf38e4-0d32-4053-9aa9-24a3a536a354,Business
+a0195880-298a-4831-9a43-73c2c59e18f9,Labor
+8d6f1311-1b30-4e7f-b283-2c550fd8e04e,Finance
+8d6f1311-1b30-4e7f-b283-2c550fd8e04e,Agriculture
+2a5ec236-9d97-4cc8-9a27-aff54051eb9c,Weather
+42c0f45d-720d-492f-a09d-47348df6785b,Geospatial
+42c0f45d-720d-492f-a09d-47348df6785b,Science & Research
+42c0f45d-720d-492f-a09d-47348df6785b,Elections
+a7fde7cc-1276-4ba1-aaca-e54b7e98daa5,Social Services
+a7fde7cc-1276-4ba1-aaca-e54b7e98daa5,Finance
+be8e5ce9-5275-4e1d-be38-e7be0f6625f5,Environment
+be8e5ce9-5275-4e1d-be38-e7be0f6625f5,Water
+7e6543fc-b52c-4751-8547-830119572352,Geospatial
+7e6543fc-b52c-4751-8547-830119572352,Health
+8f855797-4680-4b8e-b836-b4c09b5b608b,Transportation
+8f855797-4680-4b8e-b836-b4c09b5b608b,Public Safety
+bba161d0-525a-4ab0-ac83-dade256bdc37,Elections
+d04260ce-357a-4202-997c-c78dffbdcbee,Health
+c71eb76c-7eaf-46f2-81e9-03bcc0e1035f,Health
+4c65d773-6082-41b4-8e8c-c05873fca6d2,Transportation
+4c65d773-6082-41b4-8e8c-c05873fca6d2,Labor
+cff62652-1969-456e-9913-25d20828eddd,Business
+cff62652-1969-456e-9913-25d20828eddd,Weather
+8dd37869-4fdf-438b-8d01-58a81e2170f3,Agriculture
+8e25a1a5-3a37-427b-8245-18257b3ce479,Housing
+8e25a1a5-3a37-427b-8245-18257b3ce479,Education
+8e25a1a5-3a37-427b-8245-18257b3ce479,Public Safety
+556060b3-bb02-4ebb-829b-69eac2239412,Energy
+556060b3-bb02-4ebb-829b-69eac2239412,Transportation
+5e1b7897-9f47-4d3f-b932-a5f4055d3698,Public Safety
+08667fcb-0ed5-4bf8-98f0-b20faa680b25,Elections
+08667fcb-0ed5-4bf8-98f0-b20faa680b25,Geospatial
+08667fcb-0ed5-4bf8-98f0-b20faa680b25,Social Services
+d7c86971-e00d-4256-b86f-f6b6b6e17586,Science & Research
+d7c86971-e00d-4256-b86f-f6b6b6e17586,Health
+0d9246c5-d989-4c14-b38e-4bef1a683d1f,Geospatial
+0d9246c5-d989-4c14-b38e-4bef1a683d1f,Elections
+0d9246c5-d989-4c14-b38e-4bef1a683d1f,Housing
+2095b3c9-5d87-4175-80d9-7721bfdfad20,Energy
+2095b3c9-5d87-4175-80d9-7721bfdfad20,Business
+1a7b0294-52f2-4afa-a333-4be758683382,Elections
+1a7b0294-52f2-4afa-a333-4be758683382,Education
+86aab308-3e4d-412e-8af3-b88b469ed0b7,Finance
+86aab308-3e4d-412e-8af3-b88b469ed0b7,Labor
+86aab308-3e4d-412e-8af3-b88b469ed0b7,Transportation
+aa19aeb9-c9fb-4022-b143-0e6a6992a160,Labor
+aa19aeb9-c9fb-4022-b143-0e6a6992a160,Water
+aa19aeb9-c9fb-4022-b143-0e6a6992a160,Finance
+11a4f9ae-51bd-4f77-8858-d48ab3b2b299,Science & Research
+11a4f9ae-51bd-4f77-8858-d48ab3b2b299,Business
+11a4f9ae-51bd-4f77-8858-d48ab3b2b299,Transportation
+51a9dc73-23d0-44bf-9aab-8090141cc81d,Public Safety
+51a9dc73-23d0-44bf-9aab-8090141cc81d,Education
+a47633ea-03ba-4c74-a9d2-3ef2d5faa8ee,Finance
+cb39b67f-dd55-4bcf-875b-dacc549eda3f,Health
+ef752bef-87ee-4852-bf08-8e44b655e149,Housing
+dba96d55-3a0b-4f87-967a-fcccf509ef7c,Science & Research
+dba96d55-3a0b-4f87-967a-fcccf509ef7c,Elections
+1814fb29-e358-4f42-aecf-2b45edac4fb5,Labor
+1814fb29-e358-4f42-aecf-2b45edac4fb5,Weather
+91f5ec29-16b4-4b03-b8ee-3993d73110f1,Energy
+91f5ec29-16b4-4b03-b8ee-3993d73110f1,Housing
+13d1fcbf-4ded-445f-997a-b76d1701656e,Finance
+62d0c606-9655-4e96-82f5-e083aa203d03,Energy
+62d0c606-9655-4e96-82f5-e083aa203d03,Finance
+62d0c606-9655-4e96-82f5-e083aa203d03,Geospatial
+f80763ad-ce4a-4f51-aa40-7a3e19de037b,Business
+f80763ad-ce4a-4f51-aa40-7a3e19de037b,Health
+f80763ad-ce4a-4f51-aa40-7a3e19de037b,Elections
+181783bd-eff1-458d-8a70-bc49b64a2671,Criminal Justice
+181783bd-eff1-458d-8a70-bc49b64a2671,Science & Research
+b1ec3cc8-df81-4d3e-9462-cc0c45364784,Agriculture
+b1ec3cc8-df81-4d3e-9462-cc0c45364784,Criminal Justice
+b1ec3cc8-df81-4d3e-9462-cc0c45364784,Environment
+283b5ba2-f530-4a28-b337-2fab7007e315,Science & Research
+283b5ba2-f530-4a28-b337-2fab7007e315,Education
+feeefd68-49f6-4bc4-b00c-e19a6de25bde,Public Safety
+feeefd68-49f6-4bc4-b00c-e19a6de25bde,Water
+72bcfeed-0688-444e-966d-b3c1e13fa517,Health
+72bcfeed-0688-444e-966d-b3c1e13fa517,Social Services
+64341dce-a1b1-4136-b912-960f8fe83142,Water
+64341dce-a1b1-4136-b912-960f8fe83142,Criminal Justice
+8c2034ec-fa48-4219-b6a4-adef8586fd8b,Education
+3a19c5bd-83d2-48eb-bb37-0dcb54d87453,Demographics
+3a19c5bd-83d2-48eb-bb37-0dcb54d87453,Climate
+ba1ed95d-4d07-4664-91e5-3586579d475f,Health
+ba1ed95d-4d07-4664-91e5-3586579d475f,Demographics
+a5f2b910-0e78-4079-92c7-8e8a614432eb,Criminal Justice
+a5f2b910-0e78-4079-92c7-8e8a614432eb,Housing
+efcfa1c9-60cb-4ce6-903f-5eb39015a516,Water
+311ebbdd-04d6-4d48-a7bb-7732e2b28e03,Agriculture
+7fc3b7b1-4be1-4bfd-be1c-68e5cda6ca4e,Finance
+7fc3b7b1-4be1-4bfd-be1c-68e5cda6ca4e,Transportation
+7fc3b7b1-4be1-4bfd-be1c-68e5cda6ca4e,Housing
+bcc7e03b-7a40-44fa-923d-58f516373fa2,Health
+8a833540-52b4-4575-96c5-36682f8f01ab,Social Services
+9214f423-d62b-45f1-b20b-f65826151847,Energy
+12016ef0-41df-4ed1-81c3-961a8863590f,Geospatial
+f5dc68f0-9351-4da2-90f1-a87c73c7e8f4,Energy
+0f8a4def-cde6-494a-af58-83c4c9497022,Criminal Justice
+0f8a4def-cde6-494a-af58-83c4c9497022,Transportation
+c25c07c9-b534-4df7-a528-790cb3d3c6ab,Elections
+c25c07c9-b534-4df7-a528-790cb3d3c6ab,Social Services
+c81d2fec-e8c9-45bc-b6f7-82bc26562ae8,Water
+c81d2fec-e8c9-45bc-b6f7-82bc26562ae8,Labor
+4f5649f6-9cdf-4c6b-9ee2-051a287a76cc,Geospatial
+4f5649f6-9cdf-4c6b-9ee2-051a287a76cc,Business
+4f5649f6-9cdf-4c6b-9ee2-051a287a76cc,Demographics
+885d2743-40b2-41cf-a805-a97e84d495e0,Geospatial
+885d2743-40b2-41cf-a805-a97e84d495e0,Transportation
+2a62d53b-cd93-4393-a9ab-f1e0bbb0e957,Climate
+2a62d53b-cd93-4393-a9ab-f1e0bbb0e957,Elections
+2a62d53b-cd93-4393-a9ab-f1e0bbb0e957,Environment
+c4e4a885-a60b-4811-92cf-5b4c9a7610ca,Water
+c4e4a885-a60b-4811-92cf-5b4c9a7610ca,Social Services
+ee8de058-ceb7-4955-a895-a0a1fef807aa,Transportation
+af696070-1043-41df-a0b4-7b074e0717e5,Transportation
+af696070-1043-41df-a0b4-7b074e0717e5,Public Safety
+af696070-1043-41df-a0b4-7b074e0717e5,Energy
+212514cb-71a4-4ac4-80bd-3f8465c0cbe0,Criminal Justice
+44ebaf6e-c788-4930-b405-ea970a96d91b,Climate
+44ebaf6e-c788-4930-b405-ea970a96d91b,Criminal Justice
+c45de6f9-b731-482c-9b3f-ea63e1447e1f,Elections
+f3a3940c-d869-454b-8870-d6ebe09b33f0,Housing
+f3a3940c-d869-454b-8870-d6ebe09b33f0,Geospatial
+f3a3940c-d869-454b-8870-d6ebe09b33f0,Agriculture
+791b7d66-e7e9-4b7b-a0d7-9c2a88f59f58,Health
+791b7d66-e7e9-4b7b-a0d7-9c2a88f59f58,Business
+791b7d66-e7e9-4b7b-a0d7-9c2a88f59f58,Climate
+71f3562c-23e4-40f6-989f-2f9ac8d7a893,Finance
+71f3562c-23e4-40f6-989f-2f9ac8d7a893,Weather
+71f3562c-23e4-40f6-989f-2f9ac8d7a893,Health
+2a07cfe1-546c-4b8a-9dd2-b7f3c8af8d1a,Agriculture
+a1680aa8-bc09-43d6-b03b-83f8b4944b05,Water
+a1680aa8-bc09-43d6-b03b-83f8b4944b05,Business
+a1680aa8-bc09-43d6-b03b-83f8b4944b05,Weather
+a3835038-afd3-4cae-9464-85f5fb5a6a41,Energy
+f5eddd58-2e6a-4342-b66a-e815dcc33525,Housing
+b1054667-e911-46bf-93c2-8fc7bc458fa2,Finance
+71f823c5-e649-4e99-9a37-cee69ba538d3,Finance
+c8a5f324-9462-4c9e-88aa-162583f45fbb,Elections
+b5282fc7-2b24-448f-aae4-ec7d1638d506,Health
+b5282fc7-2b24-448f-aae4-ec7d1638d506,Public Safety
+7bce3233-8100-4b58-893e-235159ae1d3e,Health
+75faeb59-ad9f-414c-8834-0af1753f5194,Weather
+75faeb59-ad9f-414c-8834-0af1753f5194,Climate
+30092878-0e8b-472b-804a-c55e1bd3cb7b,Science & Research
+30092878-0e8b-472b-804a-c55e1bd3cb7b,Demographics
+210dc59b-4f2d-4635-aa8c-08b17777678e,Agriculture
+210dc59b-4f2d-4635-aa8c-08b17777678e,Environment
+c99f3c58-b283-4ff7-8f28-b5c7e8078b61,Public Safety
+c99f3c58-b283-4ff7-8f28-b5c7e8078b61,Water
+7dd04e15-1756-4c83-b3bf-704de11e5968,Elections
+6aaa93de-e343-48aa-9d23-71c662850ca9,Climate
+6aaa93de-e343-48aa-9d23-71c662850ca9,Finance
+c69ce42f-32ff-47fa-9b6b-db0953b96a64,Environment
+c69ce42f-32ff-47fa-9b6b-db0953b96a64,Housing
+c69ce42f-32ff-47fa-9b6b-db0953b96a64,Water
+1061586a-c63d-4c93-9a08-7e3d248591cf,Education
+1061586a-c63d-4c93-9a08-7e3d248591cf,Geospatial
+fe50a4e6-a7b9-4a44-b22c-04d80b260d41,Labor
+bf0977a1-dc91-4be6-a305-8a1de289f02a,Elections
+df0ef704-8219-4f78-b5eb-83faa2b7c862,Climate
+df0ef704-8219-4f78-b5eb-83faa2b7c862,Health
+df0ef704-8219-4f78-b5eb-83faa2b7c862,Environment
+d4823e30-157f-4101-9ccb-f63083bd4879,Labor
+d4823e30-157f-4101-9ccb-f63083bd4879,Social Services
+cd0f1aca-97bb-4753-8210-987188b1c210,Social Services
+cd0f1aca-97bb-4753-8210-987188b1c210,Environment
+cd0f1aca-97bb-4753-8210-987188b1c210,Energy
+0367c21b-d9ae-4011-b925-6f0ff34fb2b7,Finance
+be6ee17c-edf6-410f-a7b2-40fdbf003889,Housing
+be6ee17c-edf6-410f-a7b2-40fdbf003889,Weather
+1ad0ede4-b406-4ec0-bbdc-d3b863e270c0,Demographics
+719d2297-041b-430e-bbec-9b2cd1618648,Science & Research
+719d2297-041b-430e-bbec-9b2cd1618648,Elections
+8c97b086-089d-4645-9f5e-0ed8fae68ca4,Energy
+8c97b086-089d-4645-9f5e-0ed8fae68ca4,Labor
+8c97b086-089d-4645-9f5e-0ed8fae68ca4,Weather
+5bb00cee-f921-4454-961b-ff3d3247ebca,Water
+1da0a1a5-fedf-44dd-9064-d99d88e4a1bf,Environment
+1da0a1a5-fedf-44dd-9064-d99d88e4a1bf,Geospatial
+b289c364-500f-40cf-a471-753de6e947c4,Environment
+b289c364-500f-40cf-a471-753de6e947c4,Agriculture
+b289c364-500f-40cf-a471-753de6e947c4,Science & Research
+45076f96-06fc-41b8-958e-055e95c836d1,Transportation
+45076f96-06fc-41b8-958e-055e95c836d1,Business
+45076f96-06fc-41b8-958e-055e95c836d1,Criminal Justice
+5775e9f7-6025-4345-ac4b-2c3df6e93df9,Business
+5775e9f7-6025-4345-ac4b-2c3df6e93df9,Health
+7be67e7c-fe9a-4fde-aee3-023e52ceaa8e,Elections
+7988f1c5-5657-439c-8851-de18f667c1d8,Climate
+7988f1c5-5657-439c-8851-de18f667c1d8,Elections
+0a759e68-7988-4a15-81a9-9ac0cb079ae6,Agriculture
+0a759e68-7988-4a15-81a9-9ac0cb079ae6,Health
+24eb7546-2697-4e38-b788-9a1b1c04d956,Transportation
+24eb7546-2697-4e38-b788-9a1b1c04d956,Environment
+24eb7546-2697-4e38-b788-9a1b1c04d956,Housing
+bee80089-e5a6-4567-966c-dad84b12b9e2,Water
+bee80089-e5a6-4567-966c-dad84b12b9e2,Finance
+e4839eae-840c-46d1-b185-0672404bb974,Transportation
+a7fd5827-526e-4121-a5de-236fa7dd6866,Environment
+25fe8453-3fea-4241-ba7c-9ba09fac3792,Criminal Justice
+c5d301e4-4da5-4cb6-ae47-f592cecdb91e,Labor
+c5d301e4-4da5-4cb6-ae47-f592cecdb91e,Housing
+c5d301e4-4da5-4cb6-ae47-f592cecdb91e,Business
+5978659c-795f-4a45-b53a-9cfbc0d9cc17,Climate
+5978659c-795f-4a45-b53a-9cfbc0d9cc17,Demographics
+fa0d2950-7143-4b09-83b8-ae6cd708e35b,Transportation
+fa0d2950-7143-4b09-83b8-ae6cd708e35b,Education
+a6d91821-b147-4a7f-a370-507ff8a2b8d4,Social Services
+a6d91821-b147-4a7f-a370-507ff8a2b8d4,Energy
+5dfcf124-31e3-4208-a016-407bc7306aa4,Water
+5dfcf124-31e3-4208-a016-407bc7306aa4,Criminal Justice
+caba8bb5-6e12-40da-bdd6-a59d53cb331a,Elections
+caba8bb5-6e12-40da-bdd6-a59d53cb331a,Water
+4d8c92e2-91c6-4b33-97ba-74fc766c52c0,Social Services
+e5eab010-32a8-4d2d-9d7b-a170ac56b382,Business
+e5eab010-32a8-4d2d-9d7b-a170ac56b382,Public Safety
+e5eab010-32a8-4d2d-9d7b-a170ac56b382,Geospatial
+789ec171-1f6a-442b-8275-aaf48285a67c,Energy
+789ec171-1f6a-442b-8275-aaf48285a67c,Finance
+1308b079-3962-43a4-88ae-0652cf1ac564,Agriculture
+cefc1ca1-e3cc-4ea5-a10b-c6486c170923,Agriculture
+c1ace07d-1793-45b0-816f-4052d62ed575,Energy
+1dec10b9-1409-4ba0-9394-284cdfc9737c,Health
+87802964-5848-46e7-b0db-7ff11569e23d,Business
+38d28af6-5b6c-4b4f-8aa7-8a54990c052b,Labor
+69773f1c-e9f7-48cd-9ed0-f50139d5b440,Elections
+aba6a663-b6db-46ae-9211-ef1c6a1a6dfb,Labor
+97491223-56c3-4879-a3a4-822e7d46297b,Water
+97491223-56c3-4879-a3a4-822e7d46297b,Transportation
+cdd019cc-1f00-4802-9947-cebbfccc52c7,Weather
+cdd019cc-1f00-4802-9947-cebbfccc52c7,Environment
+b20ba298-ecb4-459d-b95b-e3fec3941890,Finance
+b20ba298-ecb4-459d-b95b-e3fec3941890,Science & Research
+b20ba298-ecb4-459d-b95b-e3fec3941890,Labor
+49c92fd4-824f-494a-99a0-1729f4a6ef47,Energy
+49c92fd4-824f-494a-99a0-1729f4a6ef47,Finance
+49c92fd4-824f-494a-99a0-1729f4a6ef47,Climate
+8c63d1f4-aa52-44ed-9397-c819de3457ba,Science & Research
+8c63d1f4-aa52-44ed-9397-c819de3457ba,Labor
+7bf56280-6cad-42c3-8cff-64f17a13450e,Transportation
+a3cc0f86-904d-475d-82cf-74acd93dab0a,Water
+531cf3f6-4fd0-46f3-b380-2fa2aec3d727,Criminal Justice
+d408c346-993a-4a3e-904e-2af0278b02bd,Transportation
+d408c346-993a-4a3e-904e-2af0278b02bd,Social Services
+d408c346-993a-4a3e-904e-2af0278b02bd,Business
+71e5f69e-1986-4662-85a1-1822e674f4e5,Labor
+71e5f69e-1986-4662-85a1-1822e674f4e5,Climate
+71e5f69e-1986-4662-85a1-1822e674f4e5,Education
+227c229a-a92d-4420-9fa8-6be97b449c8a,Finance
+784ddfa3-4451-47e1-ae36-8b99d914084a,Energy
+b8c8d0fa-c167-4640-b7ce-133773c9d7e8,Demographics
+b8c8d0fa-c167-4640-b7ce-133773c9d7e8,Science & Research
+81f73dd4-476a-456d-87d3-672c54c4f0ce,Science & Research
+5fa8861a-8e23-4f87-9360-9afb68e41cc1,Geospatial
+8e20af44-9798-4251-bb2c-3cc0f1849ea5,Criminal Justice
+5fd93d06-3f0a-453d-a748-4d4c528465be,Environment
+9b4a5ed6-f247-46da-a61e-369d11aa3717,Criminal Justice
+80aa35ce-dd0d-4c59-8114-4bdd11ee1e73,Science & Research
+80aa35ce-dd0d-4c59-8114-4bdd11ee1e73,Health
+b7ada4db-9a3b-4a01-85e5-8b73a5963128,Criminal Justice
+75279c7a-7529-4b86-a71f-b22ff962f94a,Demographics
+cc97d313-3621-4636-877b-859ba2d1288d,Labor
+cc97d313-3621-4636-877b-859ba2d1288d,Science & Research
+ce60d255-1bd7-47c5-8de9-90ccbdd32585,Criminal Justice
+311f3b24-ae76-46d4-8c68-307e17a797f8,Social Services
+311f3b24-ae76-46d4-8c68-307e17a797f8,Education
+a7eb705c-2231-4290-9061-e3e93fc1c355,Education
+a7eb705c-2231-4290-9061-e3e93fc1c355,Transportation
+a7eb705c-2231-4290-9061-e3e93fc1c355,Elections
+8cac9b8e-7c65-450a-8310-5ef1a185f41d,Finance
+8cac9b8e-7c65-450a-8310-5ef1a185f41d,Housing
+8cac9b8e-7c65-450a-8310-5ef1a185f41d,Water
+e9144ee6-e4e3-451c-b996-0329348238a1,Science & Research
+e9144ee6-e4e3-451c-b996-0329348238a1,Climate
+318452c7-4b11-4ff5-9057-3ac6804e6cf5,Science & Research
+318452c7-4b11-4ff5-9057-3ac6804e6cf5,Environment
+327eb0fb-5f83-47d8-b466-bb4236963059,Elections
+1c934c94-d381-401f-9293-300a4c183c89,Business
+1c934c94-d381-401f-9293-300a4c183c89,Health
+d630a61c-c53e-43a8-bae1-4179e13f679c,Transportation
+d96edc29-f7f6-4e4b-bddc-9084319f8cca,Transportation
+d96edc29-f7f6-4e4b-bddc-9084319f8cca,Geospatial
+d96edc29-f7f6-4e4b-bddc-9084319f8cca,Science & Research
+4fc15ae4-343d-4739-8293-b67eb4492730,Geospatial
+86fd75ba-2db8-407e-8a6c-898ae078a088,Health
+86fd75ba-2db8-407e-8a6c-898ae078a088,Social Services
+86fd75ba-2db8-407e-8a6c-898ae078a088,Environment
+36825f9e-f46d-41c2-b5be-fbd2a5f20fe6,Labor
+ee0831ed-18ba-4fda-b5ce-e1a092f66e0f,Criminal Justice
+4253d168-f165-4835-93c0-d6027c6f1d31,Transportation
+f6f39aa0-3f76-45ef-bc4f-2fd9675d6215,Transportation
+f6f39aa0-3f76-45ef-bc4f-2fd9675d6215,Labor
+f6f39aa0-3f76-45ef-bc4f-2fd9675d6215,Business
+f7e06069-776a-4bf9-918a-8eb84f5e5638,Environment
+f7e06069-776a-4bf9-918a-8eb84f5e5638,Finance
+f7e06069-776a-4bf9-918a-8eb84f5e5638,Weather
+18d312a4-ca65-4738-8d17-682199f778a9,Education
+18d312a4-ca65-4738-8d17-682199f778a9,Science & Research
+6981ddaf-c413-40b8-b1b3-3797e8db8d76,Geospatial
+6981ddaf-c413-40b8-b1b3-3797e8db8d76,Science & Research
+6981ddaf-c413-40b8-b1b3-3797e8db8d76,Agriculture
+2ab76fcb-ece0-4fcc-88bf-375bd17bb8c0,Elections
+b13c3b89-ac4a-49a5-b2a2-85073d94b78e,Geospatial
+b13c3b89-ac4a-49a5-b2a2-85073d94b78e,Elections
+b13c3b89-ac4a-49a5-b2a2-85073d94b78e,Finance
+d4014460-3709-4b51-be7f-969c7c4c6824,Health
+d4014460-3709-4b51-be7f-969c7c4c6824,Elections
+8e73c34c-40ad-4403-bcab-3525f771bd54,Social Services
+68e80dda-7864-4bd0-ab0d-f3fb8252c1c0,Geospatial
+b127ce6e-7415-4b7b-a30d-8db24daf6023,Water
+b127ce6e-7415-4b7b-a30d-8db24daf6023,Demographics
+b47fcaba-5c81-4758-ae89-10590145a462,Business
+eb6ffc12-f9c4-49db-89d4-9f6c451d6500,Science & Research
+0a69397b-5eed-4a5d-b74c-009f3b980ccb,Social Services
+b6d4fa55-95a6-4f78-bf73-81861a9022df,Health
+b6d4fa55-95a6-4f78-bf73-81861a9022df,Housing
+dd5ffa62-d949-497c-a20a-4e475ed67eda,Elections
+dd5ffa62-d949-497c-a20a-4e475ed67eda,Social Services
+dd5ffa62-d949-497c-a20a-4e475ed67eda,Energy
+cce0d6e6-099f-4c5d-b4d7-5ff8e5d8b20c,Labor
+cce0d6e6-099f-4c5d-b4d7-5ff8e5d8b20c,Geospatial
+60fc6a97-c685-46d9-b388-e2a2c5cc4312,Business
+5d5e71b0-91b7-4ec6-80fc-bea9ef5437c8,Energy
+5d5e71b0-91b7-4ec6-80fc-bea9ef5437c8,Transportation
+58991479-8e5f-4d47-90d2-b4ccd1dd76d4,Water
+58991479-8e5f-4d47-90d2-b4ccd1dd76d4,Criminal Justice
+58991479-8e5f-4d47-90d2-b4ccd1dd76d4,Energy
+2c09d36c-a769-41db-ad81-ccf0e2a59934,Public Safety
+bd6b8619-e5c7-427c-b84d-1b4fc8f3dcf5,Energy
+4ffdba29-ce2c-4e86-bab7-33015cac68a6,Housing
+4417c4e6-3f7d-44ab-b93d-ee5b1a1fa9eb,Social Services
+898d2c2b-fb47-4c96-a94e-851f2c0b3c85,Environment
+898d2c2b-fb47-4c96-a94e-851f2c0b3c85,Science & Research
+898d2c2b-fb47-4c96-a94e-851f2c0b3c85,Demographics
+d56606e9-a53b-4fd6-98e9-350bbb59ce8e,Finance
+d56606e9-a53b-4fd6-98e9-350bbb59ce8e,Agriculture
+d56606e9-a53b-4fd6-98e9-350bbb59ce8e,Transportation
+1a37383d-8da7-4ec3-b6b3-e66455d6a621,Social Services
+bd7cd0cb-2e9e-417d-bd6c-fd89cff76322,Labor
+ef299fcc-1a4e-4378-a736-fed0978b8e90,Social Services
+ef299fcc-1a4e-4378-a736-fed0978b8e90,Labor
+cfe63076-896f-4e67-ac92-421a4b841c5f,Demographics
+cfe63076-896f-4e67-ac92-421a4b841c5f,Elections
+ea762dfb-c7f4-4d4b-bc12-287ca214dc00,Finance
+ea762dfb-c7f4-4d4b-bc12-287ca214dc00,Weather
+ea762dfb-c7f4-4d4b-bc12-287ca214dc00,Social Services
+4ca64d30-e92a-4e45-903d-ce95898dca49,Environment
+9b2e6a23-2ffd-4a80-83ae-f489a34be293,Geospatial
+2550248e-97dd-43c3-b83c-26d253f314b8,Social Services
+03ad4ee6-168b-4a45-80d0-77ceeaac25ef,Criminal Justice
+43afe8af-9ee7-4b32-884a-d432c0713886,Elections
+43afe8af-9ee7-4b32-884a-d432c0713886,Agriculture
+43afe8af-9ee7-4b32-884a-d432c0713886,Public Safety
+9feca083-c5f0-4301-8e9a-8d3d31e2da23,Agriculture
+9feca083-c5f0-4301-8e9a-8d3d31e2da23,Criminal Justice
+f9058908-8321-4bb8-bfb1-3ba2754c3736,Water
+ce5d6c78-b9ca-4f4f-90fb-d6d3739186c7,Demographics
+5cfa794a-0927-4109-a117-b05e713282e7,Geospatial
+5cfa794a-0927-4109-a117-b05e713282e7,Agriculture
+0a48c06b-4c34-4c0f-82cd-e8bd99270cee,Water
+0a48c06b-4c34-4c0f-82cd-e8bd99270cee,Health
+0a48c06b-4c34-4c0f-82cd-e8bd99270cee,Social Services
+12a8f50c-4217-47e7-aede-d69a89048fed,Business
+12a8f50c-4217-47e7-aede-d69a89048fed,Education
+56783cbc-8ff5-4d48-b9c5-7cb6001400df,Weather
+d338027f-9a5b-4d8c-9b2b-e98830538e53,Public Safety
+095ff93c-58d8-4ce5-967f-46a292ce7518,Elections
+095ff93c-58d8-4ce5-967f-46a292ce7518,Climate
+095ff93c-58d8-4ce5-967f-46a292ce7518,Energy
+80cbe733-e654-4448-b7e7-e8c543f4f3a4,Housing
+80cbe733-e654-4448-b7e7-e8c543f4f3a4,Agriculture
+fb39915c-1c10-40ef-9182-1f38ef238831,Transportation
+fb39915c-1c10-40ef-9182-1f38ef238831,Housing
+a0a903f3-cf07-4a02-967e-2121078df2be,Education
+e84e447d-6a2a-4b81-8219-5b542bff768e,Weather
+caef0346-4e86-4473-85f5-4b3f0f87b720,Criminal Justice
+caef0346-4e86-4473-85f5-4b3f0f87b720,Science & Research
+caef0346-4e86-4473-85f5-4b3f0f87b720,Business
+9fb66230-96fb-408d-ad8f-eaa4f6c64ba9,Agriculture
+9fb66230-96fb-408d-ad8f-eaa4f6c64ba9,Labor
+c59b166e-4e0d-4ad0-b05a-d885a2770e9e,Public Safety
+c59b166e-4e0d-4ad0-b05a-d885a2770e9e,Water
+c59b166e-4e0d-4ad0-b05a-d885a2770e9e,Finance
+cd6436fa-6ca7-4cc6-91bc-414d79f60fcf,Transportation
+cd6436fa-6ca7-4cc6-91bc-414d79f60fcf,Water
+cd6436fa-6ca7-4cc6-91bc-414d79f60fcf,Health
+a0bd59cb-0d62-41cc-a573-d1a05c3201b0,Water
+a0bd59cb-0d62-41cc-a573-d1a05c3201b0,Energy
+3ecd2dbb-8fcc-4805-8508-4efe5214c3d0,Climate
+8aa4e3c6-2623-4261-8607-4368b021191f,Weather
+8aa4e3c6-2623-4261-8607-4368b021191f,Energy
+f1e9acff-e63d-4b05-a6d0-f744b0ff2991,Housing
+f1e9acff-e63d-4b05-a6d0-f744b0ff2991,Finance
+2d313d79-1bd1-4d02-a5d5-e069b15d9754,Climate
+2d313d79-1bd1-4d02-a5d5-e069b15d9754,Labor
+7a97b855-018d-4862-8917-d2f747bcf4c8,Water
+7a97b855-018d-4862-8917-d2f747bcf4c8,Energy
+7a97b855-018d-4862-8917-d2f747bcf4c8,Business
